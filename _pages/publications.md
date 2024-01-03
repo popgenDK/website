@@ -31,6 +31,7 @@ permalink: /publications/
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
+  <p><strong><a href="{{ publi.link.code }}"> code on github</a></strong></p>
  </div>
 </div>
 

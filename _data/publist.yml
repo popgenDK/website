@@ -66,15 +66,12 @@
     display: "Genome Res: 2022, 32(8);1542-52"
   highlight: 1 
 
-- title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts. "
-  image: SI.jpg
-  description: We show that the genetic variant leads to lower weigth in both human and mice, that is lowers triglycerides considerably and that it leads to a much higher plasma acetate levels suggesting that the gut microbiome is causing the effect
-  authors: Mette K Andersen, Line Skotte, Emil Jørsboe,...,Ida Moltke, Torben Hansen, Anders Albrechtsen 
+- title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
+  image: caucasian.phased.haplonet.merged.anno.png
+  description: Using sequencing data from simulations and closely related human populations, we show that our approach is better at distinguishing closely related populations than standard admixture and principal component analysis software. We further show that HaploNet is fast and highly scalable by applying it to genotype array data of the UK Biobank. U
+  authors: Jonas Meisner, Anders Albrechtsen
   link:
-    url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
-    display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
-  highlight: 1
-  news2: [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
-  news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+    url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
+    display: "Genome Res: 2022, 32(8);1542-52"
+  highlight: 1 
 
- 

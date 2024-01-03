@@ -53,10 +53,13 @@ permalink: /publications/
 
 
 ## Full List of publications
+[See google scholar for up to date publication list](https://scholar.google.com/citations?hl=en&user=20oVxFsAAAAJ&view_op=list_works&sortby=pubdate)
 
+<!--
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+-->

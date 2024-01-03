@@ -37,7 +37,6 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
     display: "Genome Res: 2023, 33(9);1599-1608"
   highlight: 1
-  news2: software on [github](https://github.com/Zilong-Li/PCAone)
 
 - title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
   image: gr3.jpg
@@ -74,7 +73,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
     display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
   highlight: 1
-  news2: [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
+  news2: Nicely written [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
   
 
 

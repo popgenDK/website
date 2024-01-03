@@ -61,6 +61,6 @@ We are meta group of labs that work with various parts of population, medical an
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KUlogo.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DFF_Logo.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DFF_Logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/novo_fundation_logo.jpg" style="width: 120px">
 </figure>

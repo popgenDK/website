@@ -16,7 +16,7 @@
   authors: Genís Garcia-Erill, Kristian Hanghøj, Rasmus Heller, Carsten Wiuf, Anders Albrechtsen
   link:
     url: https://doi.org/10.1111/1755-0998.13830
-    display:  Mol Ecol Resour: 2023, 23(7);1604-1619 
+    display: Mol Ecol Resour 23(7) 2023
   highlight: 1
   news2: software on [github](https://github.com/popgenDK/apoh)
 
@@ -31,13 +31,13 @@
   highlight: 1
   news2: software on [github](https://github.com/popgenDK/evalPopStructure)
 
-- title: " Fast and accurate out-of-core PCA framework for large scale biobank data. "
+- title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
   image: fig2.k40.png
   description: A method for accurate PCA for large scale genetic data. Analyse millions of sites for all 500000 individuals in UKbiobank on your labtop
   authors: Zilong Li, Jonas Meisner, Anders Albrechtsen
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
-    display:  Genome Res: 2023, 33(9);1599-1608 
+    display: "Genome Res: 2023, 33(9);1599-1608"
   highlight: 1
   news2: software on [github](https://github.com/Zilong-Li/PCAone)
 

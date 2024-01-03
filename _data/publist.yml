@@ -18,3 +18,23 @@
     display: Mol Ecol Resour 23(7) 2023
   highlight: 1
   news2: software on [github](https://github.com/popgenDK/apoh)
+
+- title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
+  image: evalPCA.png
+  description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.
+  authors: Jan van Waaij, Song Li, Genís Garcia-Erill, Anders Albrechtsen, Carsten Wiuf
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
+    display: "Genetics: 2023, 225(2); "
+  highlight: 1
+  news2: software on [github](https://github.com/popgenDK/evalPopStructure)
+
+- title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
+  image: fig2.k40.png
+  description: A method for accurate PCA for large scale genetic data. Analyse millions of sites for all 500000 individuals in UKbiobank on your labtop
+  authors: Zilong Li, Jonas Meisner, Anders Albrechtsen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
+    display: "Genome Res: 2023, 33(9);1599-1608"
+  highlight: 1
+  news2: software on [github](https://github.com/Zilong-Li/PCAone)

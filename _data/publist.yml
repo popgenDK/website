@@ -27,7 +27,7 @@
   authors: Jan van Waaij, Song Li, Genís Garcia-Erill, Anders Albrechtsen, Carsten Wiuf
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
-    display: Genetics: 2023, 225(2); 
+    display: "Genetics: 2023, 225(2); "
   highlight: 1
   news2: software on [github](https://github.com/popgenDK/evalPopStructure)
 
@@ -47,7 +47,7 @@
   authors: Anne Cathrine Baun Thuesen, Frederik Filip Stæger, ..., Anders Albrechtsen, Ida Moltke, Torben Hansen
   link:
     url: A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland
-    display:   Lancet Reg Health Eur: 2023, 24;100529 
+    display: " Lancet Reg Health Eur: 2023, 24;100529 "
   highlight: 1
 
 - title: "An LDLR missense variant poses high risk of familial hypercholesterolemia in 30% of Greenlanders and offers potential of early cardiovascular disease intervention "
@@ -56,7 +56,7 @@
   authors: Emil Jørsboe, Mette K Andersen,..., Ida Moltke, Anders Albrechtsen, Torben Hansen
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/36267056 
-    display:   HGG Adv: 2022, 3(4);100118 
+    display: "HGG Adv: 2022, 3(4);100118 "
   highlight: 1
 
 - title:  Haplotype and population structure inference using neural networks in whole-genome sequencing data. 
@@ -65,7 +65,7 @@
   authors: Jonas Meisner, Anders Albrechtsen
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
-    display: Genome Res: 2022, 32(8);1542-52 
+    display: "Genome Res: 2022, 32(8);1542-52"
   highlight: 1 
 
 - title:  Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts. 
@@ -74,7 +74,7 @@
   authors: Mette K Andersen, Line Skotte, Emil Jørsboe,...,Ida Moltke, Torben Hansen, Anders Albrechtsen 
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
-    display:   Gastroenterology: 2022, 162(4);1171-1182.e3 
+    display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
   highlight: 1
  news2: [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>

@@ -7,7 +7,7 @@
     display: Nature Communications 15, 172 (2024)
   highlight: 1
   news1: code on [github](https://github.com/popgenDK/seqAfrica_bushpigs)
-  news2: See [bnn](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/)
+  news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news (danish)][https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar] 
 
 - title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
   image: apoh.png
@@ -22,7 +22,7 @@
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
   description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.
-  authors: Jan van Waaij, Song Li, Genís Garcia-Erill, Anders Albrechtsen, Carsten Wiuf
+  authors: Jan van Waaij* , Song Li* , Genís Garcia-Erill* , Anders Albrechtsen, Carsten Wiuf
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
     display: "Genetics: 2023, 225(2); "
@@ -41,7 +41,7 @@
 - title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
   image: gr3.jpg
   description: The reported variant has the largest population impact of any previously reported variant within a MODY gene. Together with the recessive TBC1D4 variant, we show that close to 1 in 5 cases of diabetes (18%) in Greenland are associated with high-impact genetic variants compared to 1-3% in large populations. 
-  authors: Anne Cathrine Baun Thuesen, Frederik Filip Stæger, ..., Anders Albrechtsen, Ida Moltke, Torben Hansen
+  authors: Anne Cathrine Baun Thuesen* , Frederik Filip Stæger* , ..., Anders Albrechtsen, Ida Moltke, Torben Hansen
   link:
     url: A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland
     display: "Lancet Reg Health Eur: 2023, 24;100529 "
@@ -68,12 +68,13 @@
 - title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
   image: SI.jpg
   description: We show that the genetic variant leads to lower weigth in both human and mice, that is lowers triglycerides considerably and that it leads to a much higher plasma acetate levels suggesting that the gut microbiome is causing the effect
-  authors: Mette K Andersen, Line Skotte, Emil Jørsboe,...,Ida Moltke, Torben Hansen, Anders Albrechtsen
+  authors: Mette K Andersen* , Line Skotte* , Emil Jørsboe* ,...,Ida Moltke, Torben Hansen, Anders Albrechtsen
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
     display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
   highlight: 1
-  news2: Nicely written [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
+  news1: Nicely written [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
+  news2: news: [Daily mail](https://www.dailymail.co.uk/health/article-10348203/Up-3-Greenland-residents-rare-genetic-mutation-makes-sugary-food-healthy.html), [Polar journal](https://polarjournal.ch/en/2022/01/03/sugar-keeps-some-greenlanders-healthy/) , [Natural Habitat](https://www.nathab.com/blog/eating-sweets-is-healthy-for-greenlanders-yes/), [TV2 (danish)](https://nyheder.tv2.dk/samfund/2021-12-21-saerlig-befolkningsgruppe-bliver-sundere-af-at-spise-slik-viser-ny-forskning-fra-koebenhavns-universitet)
   
 
 

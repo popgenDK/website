@@ -51,13 +51,6 @@ permalink: /
 
 Our group develops statistical and computational methods for analysis of genomic data including methods for performing multi-loci association studies, methods for detecting and correcting for population stratification, methods for detecting natural selection, loci dependent methods for modeling identity-by-descent and various methods for analysis of second generation sequencing data. 
 
-## UCPH
-
-## Population and Statistical genetics at the Bioinformatic Center at UCPH
-
-We are meta group of labs that work with various parts of population, medical and statistical genetics at the Biocenter at University of Copenhagen. The meta group consists of 5 labs that works with focus on different organisms and systems. We apply and develop methods for analyzing large scale next generation sequencing data. 
-
-
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KUlogo.jpg" style="width: 120px">

@@ -14,7 +14,7 @@ population stratication, detecting selection on disease susceptibility genes, l
 methods for modelling identity by descent and various topics for analysis of second generation
 sequencing. 
 
-## large scale multiomic studies to understand molecular mechanisms
+## Large scale multiomic studies to understand molecular mechanisms
 My main vision on the applied side is to set up large scale genetic studies that can answer basic
 biological questions in medical and population genetics. These studies are both large in the
 sense of having many individuals but also large in having deep phenotypes and multi-omit data 

@@ -12,4 +12,4 @@ permalink: /allnews.html
 <p>{{ article.date }} <br> {{ article.headline | markdownify}}</p>
 {% endfor %}
 
-<a href="https://twitter.com/twitter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @twitter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/PopGenDK?ref_src=twsrc%5Etfw">Tweets by PopGenDK</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

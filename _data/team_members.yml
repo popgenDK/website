@@ -9,14 +9,16 @@
   education4: Postdoc, UCPH
   education5: Associate professor, Bioinformatics, University of Copenhagen 2014
 
-- name: Ulises
-  photo: Frederikfilipstaeger.png
-  info: PhD student, started 2021 with Ida Moltke and Anders Albrechtsen
-
+- name: Ulises Bercovich,
+  photo: Ulises.jpeg
+  info: PhD student with Carsten Wiuf (main) and Anders Albrechtsen
+  duration: started 2023
+  number_educ: 1
+  education1: At Department of Mathematics
 
 - name: Frederik Filip Stæger
   photo: Frederikfilipstaeger.png
-  info: PhD student, started 2021 with Ida Moltke and Anders Albrechtsen
+  info: PhD student, started 2021 with Ida Moltke (main) and Anders Albrechtsen
 
 - name: Zilong Li
   photo: zilong.jpg

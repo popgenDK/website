@@ -182,6 +182,28 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
+ {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+  
   </ul>
 </div>
 

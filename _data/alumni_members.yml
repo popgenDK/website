@@ -1,5 +1,13 @@
-  
 
+- name: Anna bruniche Olsen
+  photo: Genis.jpg
+  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
+  duration: In the lab 2018-2023, now Post doc in Aarhus University
+  number_educ: 3
+  education1: MsC, Bioinformatics 2019
+  education2: PhD,  Population Genomics of Non-model Organisms using Next Generation Sequencing Data, 2023
+  education3: Postdoc, 2023
+  
 - name: Genis Garcia-Erill
   photo: Genis.jpg
   info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
@@ -22,6 +30,16 @@
   duration: 2019-2022
   number_educ: 1
   education1: PhD,<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=627">Unraveling the genetic basis of neurological diseases and thalassemia: the clinical utility of high throughput sequencing</a>, 2022 
+
+- name: Kristian Ebbesen Hanghøj
+  photo: Genis.jpg
+  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
+  duration: In the lab 2018-2023, now Post doc in Aarhus University
+  number_educ: 3
+  education1: MsC, Bioinformatics 2019
+  education2: PhD,  Population Genomics of Non-model Organisms using Next Generation Sequencing Data, 2023
+  education3: Postdoc, 2023
+
   
 - name: Emil Jørsboe
   photo: EmilV2.jpg
@@ -31,7 +49,14 @@
   education1: MsC, Bioinformatics 2015
   education2: PhD,<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=532">Probabilistic methods for the analysis of genome-wide data for admixed populations including association studies in Greenlandic Inuit</a>, 2019
   education3: Postdoc 2019-2020
-  
+
+- name: Georgios Athanasiadis
+  photo: ninna.jpeg
+  info: PhD student with Anders Albrechtsen but co-supervised by Marit Eika jørgensen 
+  duration: In the lab 2017-2020. Now post doc in Cambridge and CBMR
+  number_educ: 1
+  education1: PhD,<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">The traditional diet and genetic architecture of the Greenlandic Inuit and their cardiovascular effects</a>, 2020 
+
 - name: Ninna Karsbæk Senftleber
   photo: ninna.jpeg
   info: PhD student with Anders Albrechtsen but co-supervised by Marit Eika jørgensen 
@@ -54,6 +79,27 @@
   education1: Msc, Bioinformatics
   education2: PhD <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=571">Method Development for Next-Generation Sequencing Data in Population Genetics</a>, 2020
   education3: postdoc 2020-2021
+
+
+- name: Vincent Rosenbaum Appel
+  photo: jonas.jpg
+  info: PhD Student with Anders Albrechtsen
+  duration: In the lab 2017-2021,  now 
+  number_educ: 3
+  education1: Msc, Bioinformatics
+  education2: PhD <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=571">Method Development for Next-Generation Sequencing Data in Population Genetics</a>, 2020
+  education3: postdoc 2020-2021
+
+- name: Malan Johansen
+  photo: jonas.jpg
+  info: PhD Student with Anders Albrechtsen
+  duration: In the lab 2017-2021,  now 
+  number_educ: 3
+  education1: Msc, Bioinformatics
+  education2: PhD <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=571">Method Development for Next-Generation Sequencing Data in Population Genetics</a>, 2020
+  education3: postdoc 2020-2021
+
+
 
 - name: Ryan Waples
   photo: Ryan.png

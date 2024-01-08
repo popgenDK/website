@@ -1,0 +1,80 @@
+- title: "African bushpigs exhibit porous species boundaries and appeared in Madagascar concurrently with human arrival"
+  image: bushpigs.png
+  description: We shed light on the evolutionary history of an iconic and widespread African mammal and provide insight into the longstanding biogeographic puzzle surrounding the bushpig’s presence in Madagascar
+  authors: Balboa* , Bertola* , Brüniche-Olsen* , ... Moltke, Albrechtsen, Heller
+  link:
+    url: https://doi.org/10.1038/s41467-023-44105-1
+    display: Nature Communications 15, 172 (2024)
+  highlight: 1
+  news1: see [code on github](https://github.com/popgenDK/seqAfrica_bushpigs)
+  news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) [Le Monde in French](https://www.lemonde.fr/sciences/article/2024/01/07/le-potamochere-temoin-de-l-histoire-malgache_6209544_1650684.html)
+  
+- title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
+  image: apoh.png
+  description: How to infer the ancestry of an admixed individuals pedigree. 
+  authors: Genís Garcia-Erill, Kristian Hanghøj, Rasmus Heller, Carsten Wiuf, Anders Albrechtsen
+  link:
+    url: https://doi.org/10.1111/1755-0998.13830
+    display: Mol Ecol Resour 23(7) 2023
+  highlight: 1
+  news2: software on [github](https://github.com/popgenDK/apoh)
+
+- title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
+  image: evalPCA.png
+  description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.
+  authors: Jan van Waaij* , Song Li* , Genís Garcia-Erill* , Anders Albrechtsen, Carsten Wiuf
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
+    display: "Genetics: 2023, 225(2); "
+  highlight: 1
+  news2: software on [github](https://github.com/popgenDK/evalPopStructure)
+
+- title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
+  image: fig2.k40.png
+  description: A method for accurate PCA for large scale genetic data. Analyse millions of sites for all 500000 individuals in UKbiobank on your labtop
+  authors: Zilong Li, Jonas Meisner, Anders Albrechtsen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
+    display: "Genome Res: 2023, 33(9);1599-1608"
+  highlight: 1
+
+- title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
+  image: gr3.jpg
+  description: The reported variant has the largest population impact of any previously reported variant within a MODY gene. Together with the recessive TBC1D4 variant, we show that close to 1 in 5 cases of diabetes (18%) in Greenland are associated with high-impact genetic variants compared to 1-3% in large populations. 
+  authors: Anne Cathrine Baun Thuesen* , Frederik Filip Stæger* , ..., Anders Albrechtsen, Ida Moltke, Torben Hansen
+  link:
+    url: A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland
+    display: "Lancet Reg Health Eur: 2023, 24;100529 "
+  highlight: 1
+  news2: news [press release](https://cbmr.ku.dk/news/2022/better-treatment-for-diabetes-greenland/), 
+
+- title: "An LDLR missense variant poses high risk of familial hypercholesterolemia in 30% of Greenlanders and offers potential of early cardiovascular disease intervention "
+  image: LDLR.png
+  description:  Due to its high frequency and large effect sizes, p.G137S has a marked population-level impact, increasing the risk of FH and cardiovascular disease for up to 30% of the Greenlandic population. Thus, p.G137S is a potential marker for early intervention in Arctic populations.  
+  authors: Emil Jørsboe, Mette K Andersen,..., Ida Moltke, Anders Albrechtsen, Torben Hansen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/36267056 
+    display: "HGG Adv: 2022, 3(4);100118 "
+  highlight: 1
+  news2: see [press release](https://cbmr.ku.dk/news/2022/one-third-of-greenlanders-are-at-risk-for-high-cholesterol-and-cardiovascular-disease/)  and [interview in HGG advances](https://www.ashg.org/hgga/inside-hgg-advances-with-emil-jorsboe/), [polar journal](https://polarjournal.ch/en/2022/11/17/unique-form-of-diabetes-discovered-in-greenland/) [diabetes.co.uk](https://www.diabetes.co.uk/news/2022/nov/scientists-identify-new-genetic-variant-behind-a-type-of-diabetes-common-in-greenland.html)  [Sermitsiaq](https://sermitsiaq.ag/node/240811)
+
+- title: "Haplotype and population structure inference using neural networks in whole-genome sequencing data." 
+  image: caucasian.phased.haplonet.merged.anno.png
+  description: Using sequencing data from simulations and closely related human populations, we show that our approach is better at distinguishing closely related populations than standard admixture and principal component analysis software. We further show that HaploNet is fast and highly scalable by applying it to genotype array data of the UK Biobank. U
+  authors: Jonas Meisner, Anders Albrechtsen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
+    display: "Genome Res: 2022, 32(8);1542-52"
+  highlight: 1 
+
+- title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
+  image: SI.jpg
+  description: We show that the genetic variant leads to lower weigth in both human and mice, that is lowers triglycerides considerably and that it leads to a much higher plasma acetate levels suggesting that the gut microbiome is causing the effect
+  authors: Mette K Andersen* , Line Skotte* , Emil Jørsboe* ,...,Ida Moltke, Torben Hansen, Anders Albrechtsen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
+    display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
+  highlight: 1
+  news1: Nicely written [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
+  news2: news [Daily mail](https://www.dailymail.co.uk/health/article-10348203/Up-3-Greenland-residents-rare-genetic-mutation-makes-sugary-food-healthy.html), [Polar journal](https://polarjournal.ch/en/2022/01/03/sugar-keeps-some-greenlanders-healthy/) , [Natural Habitat](https://www.nathab.com/blog/eating-sweets-is-healthy-for-greenlanders-yes/), [TV2 new in danish](https://nyheder.tv2.dk/samfund/2021-12-21-saerlig-befolkningsgruppe-bliver-sundere-af-at-spise-slik-viser-ny-forskning-fra-koebenhavns-universitet)
+  

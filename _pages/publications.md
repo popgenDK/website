@@ -32,7 +32,7 @@ permalink: /publications/
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
   {% if publi.github %}
-    <p><strong><a href="{{ publi.github }}">Code used in paper</a></strong></p>
+    <p><strong><a href="{{ publi.github }}">"Code used in paper"</a></strong></p>
   {% endif %}
  </div>
 </div>

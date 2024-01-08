@@ -46,6 +46,7 @@
     url: A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland
     display: "Lancet Reg Health Eur: 2023, 24;100529 "
   highlight: 1
+  news2: news [press release](https://cbmr.ku.dk/news/2022/better-treatment-for-diabetes-greenland/), 
 
 - title: "An LDLR missense variant poses high risk of familial hypercholesterolemia in 30% of Greenlanders and offers potential of early cardiovascular disease intervention "
   image: LDLR.png
@@ -55,7 +56,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/36267056 
     display: "HGG Adv: 2022, 3(4);100118 "
   highlight: 1
-  news2: see [press release](https://cbmr.ku.dk/news/2022/one-third-of-greenlanders-are-at-risk-for-high-cholesterol-and-cardiovascular-disease/)  and [interview in HGG advances](https://www.ashg.org/hgga/inside-hgg-advances-with-emil-jorsboe/)
+  news2: see [press release](https://cbmr.ku.dk/news/2022/one-third-of-greenlanders-are-at-risk-for-high-cholesterol-and-cardiovascular-disease/)  and [interview in HGG advances](https://www.ashg.org/hgga/inside-hgg-advances-with-emil-jorsboe/), [polar journal](https://polarjournal.ch/en/2022/11/17/unique-form-of-diabetes-discovered-in-greenland/) [diabetes.co.uk](https://www.diabetes.co.uk/news/2022/nov/scientists-identify-new-genetic-variant-behind-a-type-of-diabetes-common-in-greenland.html)  [Sermitsiaq](https://sermitsiaq.ag/node/240811)
 
 - title: "Haplotype and population structure inference using neural networks in whole-genome sequencing data." 
   image: caucasian.phased.haplonet.merged.anno.png

@@ -12,7 +12,7 @@ permalink: /software/
 {% for software in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if software.website == 1 %}
+{% if software.website %}
 
 {% if even_odd == 0 %}
 <div class="row">

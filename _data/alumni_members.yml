@@ -80,14 +80,12 @@
   education3: postdoc 2020-2021
 
 
-- name: Vincent Rosenbaum Appel
-  photo: jonas.jpg
-  info: PhD Student with Anders Albrechtsen
-  duration: In the lab 2017-2021,  now 
-  number_educ: 3
-  education1: Msc, Bioinformatics
-  education2: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=571">Method Development for Next-Generation Sequencing Data in Population Genetics</a>, 2020
-  education3: postdoc 2020-2021
+- name: Emil Vincent Rosenbaum Appel
+  photo: vincent.jpeg
+  info: PhD Student with Anders Albrechtsen, Ida Moltke, Torben Hansen (main) and Niels Grarup. 
+  duration: In the lab 2014-2017
+  number_educ: 1
+  education1: PhD thesis <a href="https://scholar.google.com/citations?user=ylg_IjAAAAAJ&hl=en">the genetics of complex metabolic diseases</a>, 2017
 
 - name: Malan Johansen
   photo: malan.png

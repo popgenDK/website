@@ -6,9 +6,9 @@
     url: https://doi.org/10.1038/s41467-023-44105-1
     display: Nature Communications 15, 172 (2024)
   highlight: 1
-  news1: code on [github](https://github.com/popgenDK/seqAfrica_bushpigs)
-  news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) 
-
+  news1: [code on github](https://github.com/popgenDK/seqAfrica_bushpigs)
+  news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) [Le Monde in French](https://www.lemonde.fr/sciences/article/2024/01/07/le-potamochere-temoin-de-l-histoire-malgache_6209544_1650684.html)
+  
 - title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
   image: apoh.png
   description: How to infer the ancestry of an admixed individuals pedigree. 

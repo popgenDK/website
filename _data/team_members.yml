@@ -19,7 +19,10 @@
 
 - name: Malthe Sebro Rasmussen
   photo: malthe.png
-  info: Post Doc, started 2020 as PhD student with Anders Albrechtsen
+  info: Post Doc with Anders Albrechtsen
+  duration: 2019-2024
+  number_educ: 1
+  education1: PhD,<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">Probabilistic modelling in genomics</a>, 2023 
 
 - name: Long Lin
   photo: long.jpg

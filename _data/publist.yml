@@ -29,7 +29,7 @@
     display: "Genetics: 2023, 225(2); "
   highlight: 1
   software: https://github.com/popgenDK/evalPopStructure
-  name:evalPCA
+  name: evalPCA
 
 - title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
   image: fig2.k40.png

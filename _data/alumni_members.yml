@@ -1,16 +1,12 @@
 
 - name: Anna bruniche Olsen
-  photo: Genis.jpg
-  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
-  duration: In the lab 2018-2023, now Post doc in Aarhus University
-  number_educ: 3
-  education1: MsC, Bioinformatics 2019
-  education2: PhD,  Population Genomics of Non-model Organisms using Next Generation Sequencing Data, 2023
-  education3: Postdoc, 2023
+  photo: anna.jpeg
+  info: Post doc with Anders Albrechtsen and Rasmus Heller
+  duration: In the lab 2021-2022, now Post doc at GLOBE, UCPEH
   
 - name: Genis Garcia-Erill
   photo: Genis.jpg
-  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
+  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller  
   duration: In the lab 2018-2023, now Post doc in Aarhus University
   number_educ: 3
   education1: MsC, Bioinformatics 2019
@@ -18,28 +14,24 @@
   education3: Postdoc, 2023
 
 - name: Fanwei Zeng
-  photo: Fanwei.jpeg
+  photo: fanwei.jpg
   info: PhD student with Anders Albrechtsen. Dual PhD with BGI College, China
   duration: 2019-2022
   number_educ: 1
   education1: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=621">Clinical application of high-throughput sequencing technology in prenatal screening and diagnosis of birth defects</a>, 2022 
 
 - name: Wenqian Zhang
-  photo: Wengian.jpeg
+  photo: nopic.png
   info: PhD student with Anders Albrechtsen. Dual PhD with BGI College, China
   duration: 2019-2022
   number_educ: 1
   education1: PhD thesis<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=627">Unraveling the genetic basis of neurological diseases and thalassemia the clinical utility of high throughput sequencing</a>, 2022 
 
 - name: Kristian Ebbesen Hanghøj
-  photo: Genis.jpg
-  info: Master thesis student, PhD student, postdoc. Supervised by Anders Albrechtsen and Rasmus Heller
-  duration: In the lab 2018-2023, now Post doc in Aarhus University
-  number_educ: 3
-  education1: MsC, Bioinformatics 2019
-  education2: PhD,  Population Genomics of Non-model Organisms using Next Generation Sequencing Data, 2023
-  education3: Postdoc, 2023
-
+  photo: nopic.png
+  info: Post doc with Anders Albrechtsen
+  duration: In the lab 2018-2023, now researcher at Novo Nordisk
+  
 - name: Emil Jørsboe
   photo: EmilV2.jpg
   info: Master thesis student, PhD student, postdoc
@@ -50,12 +42,10 @@
   education3: Postdoc 2019-2020
 
 - name: Georgios Athanasiadis
-  photo: ninna.jpeg
-  info: PhD student with Anders Albrechtsen but co-supervised by Marit Eika jørgensen 
-  duration: In the lab 2017-2020. Now post doc in Cambridge and CBMR
-  number_educ: 1
-  education1: PhD thesis<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">The traditional diet and genetic architecture of the Greenlandic Inuit and their cardiovascular effects</a>, 2020 
-
+  photo: yorgos.jpeg
+  info: Post doc with with Anders Albrechtsen 
+  duration: In the lab 2017-2019. Now assistant professor University of Barcelona
+  
 - name: Ninna Karsbæk Senftleber
   photo: ninna.jpeg
   info: PhD student with Anders Albrechtsen but co-supervised by Marit Eika jørgensen 
@@ -64,21 +54,20 @@
   education1: PhD thesis<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">The traditional diet and genetic architecture of the Greenlandic Inuit and their cardiovascular effects</a>, 2020 
 
 - name: Anne Krogh Nøhr
-  photo: ninna.jpeg
-  info: PhD student with Anders Albrechtsen, co-supervised by Ida Moltke & Morana Vitezic
-  duration: In the lab 2017-2020. Now post doc in Cambridge and CBMR
+  photo: Anne.jpg
+  info: Industrial PhD student with Anders Albrechtsen, co-supervised by Ida Moltke & Morana Vitezic from Lundbeck
+  duration: In the lab 2019-2022. Now post doc in Aalborg University
   number_educ: 1
   education1: PhD thesis<a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=615">Exploring antidepressant treatment response using biological and clinical measurements</a>, 2022
   
 - name: Jonas Meisner
-  photo: jonas.jpg
+  photo: Jonas.jpg
   info: PhD Student with Anders Albrechtsen
-  duration: In the lab 2017-2021,  now 
+  duration: In the lab 2017-2021,  now postdoc at  Copenhagen Research Center for Mental Health and CMBR at UCPH. 
   number_educ: 3
   education1: Msc, Bioinformatics
   education2: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=571">Method Development for Next-Generation Sequencing Data in Population Genetics</a>, 2020
   education3: postdoc 2020-2021
-
 
 - name: Emil Vincent Rosenbaum Appel
   photo: vincent.jpeg

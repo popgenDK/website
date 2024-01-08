@@ -18,7 +18,8 @@
     display: Mol Ecol Resour 23(7) 2023
   highlight: 1
   news2: software on [github](https://github.com/popgenDK/apoh)
-
+  software: https://github.com/popgenDK/apoh
+  
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
   description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.

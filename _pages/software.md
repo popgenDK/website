@@ -5,18 +5,14 @@ excerpt: "Albrechtsen Lab -- Software."
 sitemap: false
 permalink: /software/
 ---
-
-
-# Publications
-
-## Group highlights
+# Software
 
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for software in site.data.software %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if software.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -24,13 +20,13 @@ permalink: /software/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <pubtit>{{ software.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ software.description }}</p>
+  <p><em>{{ software.authors }}</em></p>
+  <p><strong><a href="{{ software.link.url }}">{{ software.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ software.news1 }}</strong></p>
+  <p> {{ software.news2 }}</p>
  </div>
 </div>
 

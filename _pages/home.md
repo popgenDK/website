@@ -52,6 +52,9 @@ permalink: /
 Our group develops statistical and computational methods for analysis of genomic data including methods for performing multi-loci association studies, methods for detecting and correcting for population stratification, methods for detecting natural selection, loci dependent methods for modeling identity-by-descent and various methods for analysis of second generation sequencing data. 
 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper from our group, led by <a href="https://twitter.com/renzobalb?ref_src=twsrc%5Etfw">@renzobalb</a>, <a href="https://twitter.com/LauraDBertola?ref_src=twsrc%5Etfw">@LauraDBertola</a> and <a href="https://twitter.com/AnnaBruniche?ref_src=twsrc%5Etfw">@AnnaBruniche</a>, and with multiple collaborators! <br>&quot;African bushpigs exhibit porous species boundaries and appeared in Madagascar concurrently with human arrival&quot; 🐖🧬🌍⛵️ <a href="https://t.co/oM7ZzmzO8b">https://t.co/oM7ZzmzO8b</a></p>&mdash; Population and Statistical Genetics Group at UCPH (@PopGenDK) <a href="https://twitter.com/PopGenDK/status/1742840165356187693?ref_src=twsrc%5Etfw">January 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KUlogo.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DFF_Logo.png" style="width: 120px">

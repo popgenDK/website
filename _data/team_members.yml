@@ -16,14 +16,35 @@
   number_educ: 1
   education1: At Department of Mathematics
 
+- name: Shixu He
+  photo: nopic.png
+  info: PhD student with Anders Albrechtsen
+  duration: started 2022
+
+- name: Renzo Fidel Ferdinando Balboa
+  photo: renzo.jpeg
+  info: Postdoc, started 2022 ith Ida Moltke and Anders Albrechtsen
+
 - name: Frederik Filip Stæger
   photo: Frederikfilipstaeger.png
-  info: PhD student, started 2021 with Ida Moltke (main) and Anders Albrechtsen
+  info: PhD student with Ida Moltke and Anders Albrechtsen 
+  duration: started 2021
+
+- name: Long Lin
+  photo: nopic.png
+  info: PhD student with Anders Albrechtsen
+  duration: started 2021
 
 - name: Zilong Li
   photo: zilong.jpg
-  info: PhD student, started 2020 with Anders Albrechtsen
-
+  info: PhD student with Anders Albrechtsen
+  duration: started 2020
+  
+- name: Mikkel Schubert 
+  photo: mikkel.jpeg
+  info: Staff Scientist with Niels Grarup, Torben Hansen and Anders Albrechtsen
+  duration: started 2021
+  
 - name: Malthe Sebro Rasmussen
   photo: malthe.png
   info: Post Doc with Anders Albrechtsen
@@ -31,21 +52,6 @@
   number_educ: 1
   education1: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">Probabilistic modelling in genomics</a>, 2023 
 
-- name: Long Lin
-  photo: long.jpg
-  info: PhD student, started 2021 with Anders Albrechtsen
-  
-- name: Shixu He
-  photo: shixu.jpg
-  info: PhD student, started 2022 with Anders Albrechtsen
-  
-- name: Renzo Fidel Ferdinando Balboa
-  photo: renzo.jpeg
-  info: Postdoc, started 2022 ith Ida Moltke and Anders Albrechtsen
-
-- name: Mikkel Schubert 
-  photo: mikkel.jpeg
-  info: Staff Scientist, started 2021 with Niels Grarup, Torben Hansen and Anders Albrechtsen
 
   
 

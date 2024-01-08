@@ -12,7 +12,7 @@ permalink: /software/
 {% for software in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if software.website %}
+{% if software.software %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -25,8 +25,7 @@ permalink: /software/
   <p>{{ software.description }}</p>
   <p><em>{{ software.authors }}</em></p>
   <p><strong><a href="{{ software.link.url }}">{{ software.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ software.news1 }}</strong></p>
-  <p> {{ software.news2 }}</p>
+  <p><strong><a href="{{ software.software }}">software website</a></strong></p>  
  </div>
 </div>
 

@@ -11,6 +11,10 @@ permalink: /software/
 {% assign number_printed = 0 %}
 {% for software in site.data.software %}
 
+{% if software.website %}
+  Hello {{ software.website }}!
+{% endif %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if software.highlight == 1 %}
 

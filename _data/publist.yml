@@ -17,7 +17,7 @@
     url: https://doi.org/10.1111/1755-0998.13830
     display: Mol Ecol Resour 23(7) 2023
   highlight: 1
-  website: https://github.com/popgenDK/apoh
+  software: https://github.com/popgenDK/apoh
 
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
@@ -27,7 +27,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
     display: "Genetics: 2023, 225(2); "
   highlight: 1
-  website: https://github.com/popgenDK/evalPopStructure
+  software: https://github.com/popgenDK/evalPopStructure
 
 - title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
   image: fig2.k40.png
@@ -37,7 +37,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
     display: "Genome Res: 2023, 33(9);1599-1608"
   highlight: 1
-  website: https://github.com/Zilong-Li/PCAone
+  software: https://github.com/Zilong-Li/PCAone
   
 - title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
   image: gr3.jpg
@@ -67,7 +67,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
     display: "Genome Res: 2022, 32(8);1542-52"
   highlight: 1
-  website: https://github.com/Rosemeis/HaploNet
+  software: https://github.com/Rosemeis/HaploNet
 
 - title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
   image: SI.jpg

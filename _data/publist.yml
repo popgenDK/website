@@ -6,8 +6,8 @@
     url: https://doi.org/10.1038/s41467-023-44105-1
     display: Nature Communications 15, 172 (2024)
   highlight: 1
-  news1: see [code on github](https://github.com/popgenDK/seqAfrica_bushpigs)
   news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) [Le Monde in French](https://www.lemonde.fr/sciences/article/2024/01/07/le-potamochere-temoin-de-l-histoire-malgache_6209544_1650684.html)
+  github: https://github.com/popgenDK/seqAfrica_bushpigs
   
 - title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
   image: apoh.png
@@ -17,7 +17,7 @@
     url: https://doi.org/10.1111/1755-0998.13830
     display: Mol Ecol Resour 23(7) 2023
   highlight: 1
-  news2: software on [github](https://github.com/popgenDK/apoh)
+  website: https://github.com/popgenDK/apoh
 
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
@@ -27,7 +27,7 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
     display: "Genetics: 2023, 225(2); "
   highlight: 1
-  news2: software on [github](https://github.com/popgenDK/evalPopStructure)
+  website: https://github.com/popgenDK/evalPopStructure
 
 - title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
   image: fig2.k40.png
@@ -37,7 +37,8 @@
     url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
     display: "Genome Res: 2023, 33(9);1599-1608"
   highlight: 1
-
+  website: https://github.com/Zilong-Li/PCAone
+  
 - title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
   image: gr3.jpg
   description: The reported variant has the largest population impact of any previously reported variant within a MODY gene. Together with the recessive TBC1D4 variant, we show that close to 1 in 5 cases of diabetes (18%) in Greenland are associated with high-impact genetic variants compared to 1-3% in large populations. 
@@ -65,7 +66,8 @@
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
     display: "Genome Res: 2022, 32(8);1542-52"
-  highlight: 1 
+  highlight: 1
+  website: https://github.com/Rosemeis/HaploNet
 
 - title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
   image: SI.jpg

@@ -18,6 +18,7 @@
     display: Mol Ecol Resour 23(7) 2023
   highlight: 1
   software: https://github.com/popgenDK/apoh
+  name: APOH
 
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
@@ -28,6 +29,7 @@
     display: "Genetics: 2023, 225(2); "
   highlight: 1
   software: https://github.com/popgenDK/evalPopStructure
+  name:evalPCA
 
 - title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
   image: fig2.k40.png
@@ -38,6 +40,7 @@
     display: "Genome Res: 2023, 33(9);1599-1608"
   highlight: 1
   software: https://github.com/Zilong-Li/PCAone
+  name: PCAone
   
 - title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
   image: gr3.jpg
@@ -68,6 +71,7 @@
     display: "Genome Res: 2022, 32(8);1542-52"
   highlight: 1
   software: https://github.com/Rosemeis/HaploNet
+  name: HaploNet
 
 - title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
   image: SI.jpg

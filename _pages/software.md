@@ -20,6 +20,9 @@ permalink: /software/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
+  {% if software.name %}
+  <h2>{{ software.name }}</h2>
+  {% endif %}
   <pubtit>{{ software.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ software.description }}</p>

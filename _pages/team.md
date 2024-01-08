@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [alumni](#alumni)
 
 ## Current Group members
 {% assign number_printed = 0 %}
@@ -23,7 +23,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br> : {{ member.duration }}</i>
+  <!--  <i>{{ member.info }} --> <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -179,7 +180,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> : {{ member.info }}</i>
   <ul style="overflow: hidden">
 
  {% if member.number_educ == 1 %}

@@ -1,7 +1,7 @@
 - title: "African bushpigs exhibit porous species boundaries and appeared in Madagascar concurrently with human arrival"
   image: bushpigs.png
   description: We shed light on the evolutionary history of an iconic and widespread African mammal and provide insight into the longstanding biogeographic puzzle surrounding the bushpig’s presence in Madagascar
-  authors: "Balboa* , Bertola* , Brüniche-Olsen* , ... Moltke, Albrechtsen[^1], Heller"
+  authors: Balboa* , Bertola* , Brüniche-Olsen* , ... Moltke, Albrechtsen[^1], Heller
   link:
     url: https://doi.org/10.1038/s41467-023-44105-1
     display: Nature Communications 15, 172 (2024)
@@ -23,7 +23,7 @@
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png
   description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.
-  authors: Jan van Waaij* , Song Li* , Genís Garcia-Erill* , Anders Albrechtsen, Carsten Wiuf
+  authors: Jan van Waaij* , Song Li* , Genís Garcia-Erill* , Anders Albrechtsen, Carsten Wiuf&#128507;
   link:
     url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
     display: "Genetics: 2023, 225(2); "

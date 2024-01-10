@@ -29,11 +29,11 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
   {% if publi.github %}
   <p><strong><a href="{{ publi.github }}">Code used in paper</a></strong></p>
   {% endif %}
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
  </div>
 </div>
 
@@ -59,7 +59,7 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
   
-  <pubtit>{{ publi.title }}</pubtit> <br />
+  <p>{{ publi.title }}</p> <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}

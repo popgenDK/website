@@ -161,7 +161,7 @@
   link:
     url: https://doi.org/10.1111/1755-0998.13491
     display: "Mol. Eco. res(2022)"
-  highlight: 0
+  highlight: 1
   abstract: "Being able to assign sex to individuals and identify autosomal and sex-linked scaffolds are essential in most population genomic analyses. Non-model organisms often have genome assemblies at scaffold-level and lack characterization of sex-linked scaffolds. Previous methods to identify sex and sex-linked scaffolds have relied on synteny between the non-model organism and a closely related species or prior knowledge about the sex of the samples to identify sex-linked scaffolds. In the latter case, the difference in depth of coverage between the autosomes and the sex chromosomes are used. Here, we present “sex assignment through coverage” (SATC), a method to assign sex to samples and identify sex-linked scaffolds from next generation sequencing (NGS) data. The method works for species with a homogametic/heterogametic sex determination system and only requires a scaffold-level reference assembly and sampling of both sexes with whole genome sequencing (WGS) data. We use the sequencing depth distribution across scaffolds to jointly identify: (i) male and female individuals, and (ii) sex-linked scaffolds. This is achieved through projecting the scaffold depths into a low-dimensional space using principal component analysis (PCA) and subsequent Gaussian mixture clustering. We demonstrate the applicability of our method using data from five mammal species and a bird species complex. The method is freely available at https://github.com/popgenDK/SATC as R code and a graphical user interface (GUI). "
   software: https://github.com/popgenDK/SATC
   name: SATC
@@ -220,12 +220,12 @@
 
 - title: "The genetic history of Greenlandic-European contact"
   image: none.png
-  description: none
+  description: Which European ancestors have contributed to the genomes of modern day Greenlanders
   authors: "Waples R.K.; Hauptmann A.L.; Seiding I.; Jørsboe E.; Jørgensen M.E.; Grarup N.; Andersen M.K.; Larsen C.V.L.; Bjerregaard P.; Hellenthal G.; Hansen T.; Albrechtsen A.; Moltke I."
   link:
     url: https://doi.org/10.1016/j.cub.2021.02.041
     display: "Current Biology(2021)"
-  highlight: 0
+  highlight: 1
   abstract: "The Inuit ancestors of the Greenlandic people arrived in Greenland close to 1,000 years ago.1 Since then, Europeans from many different countries have been present in Greenland. Consequently, the present-day Greenlandic population has ∼25% of its genetic ancestry from Europe.2 In this study, we investigated to what extent different European countries have contributed to this genetic ancestry. We combined dense SNP chip data from 3,972 Greenlanders and 8,275 Europeans from 14 countries and inferred the ancestry contribution from each of these 14 countries using haplotype-based methods. Due to the rapid increase in population size in Greenland over the past ∼100 years, we hypothesized that earlier European interactions, such as pre-colonial Dutch whalers and early German and Danish-Norwegian missionaries, as well as the later Danish colonists and post-colonial immigrants, all contributed European genetic ancestry. However, we found that the European ancestry is almost entirely Danish and that a substantial fraction is from admixture that took place within the last few generations. "
 
 - title: "Vicariance followed by secondary gene flow in a young gazelle species complex"
@@ -285,7 +285,7 @@
   link:
     url: https://doi.org/10.1093/bioinformatics/btab027
     display: "Bioinformatics(2021)"
-  highlight: 0
+  highlight: 1
   abstract: "Motivation: Principal component analysis (PCA) is a commonly used tool in genetics to capture and visualize population structure. Due to technological advances in sequencing, such as the widely used non-invasive prenatal test, massive datasets of ultra-low coverage sequencing are being generated. These datasets are characterized by having a large amount of missing genotype information. Results: We present EMU, a method for inferring population structure in the presence of rampant non-random missingness. We show through simulations that several commonly used PCA methods cannot handle missing data arisen from various sources, which leads to biased results as individuals are projected into the PC space based on their amount of missingness. In terms of accuracy, EMU outperforms an existing method that also accommodates missingness while being competitively fast. We further tested EMU on around 100K individuals of the Phase 1 dataset of the Chinese Millionome Project, that were shallowly sequenced to around 0.08×. From this data we are able to capture the population structure of the Han Chinese and to reproduce previous analysis in a matter of CPU hours instead of CPU years. EMU's capability to accurately infer population structure in the presence of missingness will be of increasing importance with the rising number of large-scale genetic datasets.  "
   software: https://github.com/Rosemeis/emu
   name: EMU 
@@ -314,10 +314,9 @@
   software: http://www.popgen.dk/software/index.php/EvalAdmix
   name: evalAdmix
   
-
 - title: "Population genomics of the Viking world"
   image: none.png
-  description: none
+  description: Ancient DNA study of Vikings from accross Europe and Greenland. 
   authors: "Margaryan A.; Lawson D.J.; Sikora M.; Racimo F.; Rasmussen S.; Moltke I.; Cassidy L.M.; Jørsboe E.; Ingason A.; Pedersen M.W.; Korneliussen T.; Wilhelmson H.; Buś M.M.; de Barros Damgaard P.; Martiniano R.; Renaud G.; Bhérer C.; Moreno-Mayar J.V.; Fotakis A.K.; Allen M.; Allmäe R.; Molak M.; Cappellini E.; Scorrano G.; McColl H.; Buzhilova A.; Fox A.; Albrechtsen A.; Schütz B.; Skar B.; Arcini C.; Falys C.; Jonson C.H.; Błaszczyk D.; Pezhemsky D.; Turner-Walker G.; Gestsdóttir H.; Lundstrøm I.; Gustin I.; Mainland I.; Potekhina I.; Muntoni I.M.; Cheng J.; Stenderup J.; Ma J.; Gibson J.; Peets J.; Gustafsson J.; Iversen K.H.; Simpson L.; Strand L.; Loe L.; Sikora M.; Florek M.; Vretemark M.; Redknap M.; Bajka M.; Pushkina T.; Søvsø M.; Grigoreva N.; Christensen T.; Kastholm O.; Uldum O.; Favia P.; Holck P.; Sten S.; Arge S.V.; Ellingvåg S.; Moiseyev V.; Bogdanowicz W.; Magnusson Y.; Orlando L.; Pentz P.; Jessen M.D.; Pedersen A.; Collard M.; Bradley D.G.; Jørkov M.L.; Arneborg J.; Lynnerup N.; Price N.; Gilbert M.T.P.; Allentoft M.E.; Bill J.; Sindbæk S.M.; Hedeager L.; Kristiansen K.; Nielsen R.; Werge T.; Willerslev E."
   link:
     url: https://doi.org/10.1038/s41586-020-2688-8
@@ -387,13 +386,15 @@
 
 - title: "Ancestry-specific association mapping in admixed populations"
   image: none.png
-  description: none
+  description: Genetic association of ancestry specific effects when you do not have information about local ancestry. 
   authors: "Skotte L.; Jørsboe E.; Korneliussen T.S.; Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1002/gepi.22200
     display: "Genetic Epidemiology(2019)"
   highlight: 0
   abstract: "During the last decade genome-wide association studies have proven to be a powerful approach to identifying disease-causing variants. However, for admixed populations, most current methods for association testing are based on the assumption that the effect of a genetic variant is the same regardless of its ancestry. This is a reasonable assumption for a causal variant but may not hold for the genetic variants that are tested in genome-wide association studies, which are usually not causal. The effects of noncausal genetic variants depend on how strongly their presence correlate with the presence of the causal variant, which may vary between ancestral populations because of different linkage disequilibrium patterns and allele frequencies. Motivated by this, we here introduce a new statistical method for association testing in recently admixed populations, where the effect size is allowed to depend on the ancestry of a given allele. Our method does not rely on accurate inference of local ancestry, yet using simulations we show that in some scenarios it gives a substantial increase in statistical power to detect associations. In addition, the method allows for testing for difference in effect size between ancestral populations, which can be used to help determine if a given genetic variant is causal. We demonstrate the usefulness of the method on data from the Greenlandic population. "
+  software: https://github.com/ANGSD/asaMap/blob/master/README.md
+  name: ASAmap
 
 - title: "Detection of internal N7-methylguanosine (m7G) RNA modifications by mutational profiling sequencing"
   image: none.png
@@ -407,13 +408,15 @@
 
 - title: "Allele frequency-free inference of close familial relationships from genotypes or low-depth sequencing data"
   image: none.png
-  description: none
+  description: KING, RO, R1, statistics for relatedness based only two individuals. No reference panel or allele frequencies needed 
   authors: "Waples R.K.; Albrechtsen A.; Moltke I."
   link:
     url: https://doi.org/10.1111/mec.14954
     display: "Mol. Eco.(2019)"
   highlight: 0
   abstract: "Knowledge of how individuals are related is important in many areas of research, and numerous methods for inferring pairwise relatedness from genetic data have been developed. However, the majority of these methods were not developed for situations where data are limited. Specifically, most methods rely on the availability of population allele frequencies, the relative genomic position of variants and accurate genotype data. But in studies of non-model organisms or ancient samples, such data are not always available. Motivated by this, we present a new method for pairwise relatedness inference, which requires neither allele frequency information nor information on genomic position. Furthermore, it can be applied not only to accurate genotype data but also to low-depth sequencing data from which genotypes cannot be accurately called. We evaluate it using data from a range of human populations and show that it can be used to infer close familial relationships with a similar accuracy as a widely used method that relies on population allele frequencies. Additionally, we show that our method is robust to SNP ascertainment and applicable to low-depth sequencing data generated using different strategies, including resequencing and RADseq, which is important for application to a diverse range of populations and species. "
+  software: http://www.popgen.dk/software/index.php/IBSrelate
+  name: IBSrelate 
 
 - title: "Genomic diversity and novel genome-wide association with fruit morphology in Capsicum, from 746k polymorphic sites"
   image: none.png
@@ -466,23 +469,23 @@
   abstract: "                             Aims/hypothesis: In a recent study using a standard additive genetic model, we identified a TBC1D4 loss-of-function variant with a large recessive impact on risk of type 2 diabetes in Greenlanders. The aim of the current study was to identify additional genetic variation underlying type 2 diabetes using a recessive genetic model, thereby increasing the power to detect variants with recessive effects. Methods: We investigated three cohorts of Greenlanders (B99, n = 1401; IHIT, n = 3115; and BBH, n = 547), which were genotyped using Illumina MetaboChip. Of the 4674 genotyped individuals passing quality control, 4648 had phenotype data available, and type 2 diabetes association analyses were performed for 317 individuals with type 2 diabetes and 2631 participants with normal glucose tolerance. Statistical association analyses were performed using a linear mixed model. Results: Using a recessive genetic model, we identified two novel loci associated with type 2 diabetes in Greenlanders, namely rs870992 in ITGA1 on chromosome 5 (OR 2.79, p = 1.8 × 10                             −8                             ), and rs16993330 upstream of LARGE1 on chromosome 22 (OR 3.52, p = 1.3 × 10                             −7                             ). The LARGE1 variant did not reach the conventional threshold for genome-wide significance (p < 5 × 10                             −8                             ) but did withstand a study-wide Bonferroni-corrected significance threshold. Both variants were common in Greenlanders, with minor allele frequencies of 23% and 16%, respectively, and were estimated to have large recessive effects on risk of type 2 diabetes in Greenlanders, compared with additively inherited variants previously observed in European populations. Conclusions/interpretation: We demonstrate the value of using a recessive genetic model in a historically small and isolated population to identify genetic risk variants. Our findings give new insights into the genetic architecture of type 2 diabetes, and further support the existence of high-effect genetic risk factors of potential clinical relevance, particularly in isolated populations. Data availability: The Greenlandic MetaboChip-genotype data are available at European Genome-Phenome Archive (EGA; https://ega-archive.org/) under the accession EGAS00001002641.                          "
 
 - title: "Loss-of-function variants in ADCY3 increase risk of obesity and type 2 diabetes"
-  image: none.png
-  description: none
+  image: ADCY3.png
+  description: "We have identified a variant in ADCY3 (encoding adenylate cyclase 3) associated with markedly increased risk of obesity and type 2 diabetes in the Greenlandic population. The variant disrupts a splice acceptor site, and carriers have decreased ADCY3 RNA expression."
   authors: "Grarup N.; Moltke I.; Andersen M.K.; Dalby M.; Vitting-Seerup K.; Kern T.; Mahendran Y.; Jørsboe E.; Larsen C.V.L.; Dahl-Petersen I.K.; Gilly A.; Suveges D.; Dedoussis G.; Zeggini E.; Pedersen O.; Andersson R.; Bjerregaard P.; Jørgensen M.E.; Albrechtsen A.; Hansen T."
   link:
     url: https://doi.org/10.1038/s41588-017-0022-7
     display: "Nature Genetics(2018)"
-  highlight: 0
+  highlight: 1
   abstract: "We have identified a variant in ADCY3 (encoding adenylate cyclase 3) associated with markedly increased risk of obesity and type 2 diabetes in the Greenlandic population. The variant disrupts a splice acceptor site, and carriers have decreased ADCY3 RNA expression. Additionally, we observe an enrichment of rare ADCY3 loss-of-function variants among individuals with type 2 diabetes in trans-ancestry cohorts. These findings provide new information on disease etiology relevant for future treatment strategies. "
 
 - title: "Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History"
   image: none.png
-  description: none
+  description: "Whole-genome sequencing data from 141,431 Chinese women generated for non-invasive prenatal testing (NIPT) for population genetic structure, GWAS maternal and infectious traits. "
   authors: "Liu S.; Huang S.; Chen F.; Zhao L.; Yuan Y.; Francis S.S.; Fang L.; Li Z.; Lin L.; Liu R.; Zhang Y.; Xu H.; Li S.; Zhou Y.; Davies R.W.; Liu Q.; Walters R.G.; Lin K.; Ju J.; Korneliussen T.; Yang M.A.; Fu Q.; Wang J.; Zhou L.; Krogh A.; Zhang H.; Wang W.; Chen Z.; Cai Z.; Yin Y.; Yang H.; Mao M.; Shendure J.; Wang J.; Albrechtsen A.; Jin X.; Nielsen R.; Xu X."
   link:
     url: https://doi.org/10.1016/j.cell.2018.08.016
     display: "Cell(2018)"
-  highlight: 0
+  highlight: 1
   abstract: "We analyze whole-genome sequencing data from 141,431 Chinese women generated for non-invasive prenatal testing (NIPT). We use these data to characterize the population genetic structure and to investigate genetic associations with maternal and infectious traits. We show that the present day distribution of alleles is a function of both ancient migration and very recent population movements. We reveal novel phenotype-genotype associations, including several replicated associations with height and BMI, an association between maternal age and EMB, and between twin pregnancy and NRG1. Finally, we identify a unique pattern of circulating viral DNA in plasma with high prevalence of hepatitis B and other clinically relevant maternal infections. A GWAS for viral infections identifies an exceptionally strong association between integrated herpesvirus 6 and MOV10L1, which affects piwi-interacting RNA (piRNA) processing and PIWI protein function. These findings demonstrate the great value and potential of accumulating NIPT data for worldwide medical and genetic analyses. Large-scale analysis of genome sequences from non-invasive prenatal testing in Chinese women yields insights into phenotypic trait associations, viral infection patterns, and population history. "
 
 - title: "Inferring population structure and admixture proportions in low-depth NGS data"
@@ -525,7 +528,7 @@
     url: https://doi.org/10.1038/s41431-018-0109-3
     display: "EJHG(2018)"
   highlight: 0
-  abstract: "                             We previously showed that a common genetic variant leads to a remarkably increased risk of type 2 diabetes (T2D) in the small and historically isolated Greenlandic population. Motivated by this, we aimed at discovering novel genetic determinants for glycated hemoglobin (HbA                             1C                             ) and at estimating the effect of known HbA                             1C                             -associated loci in the Greenlandic population. We analyzed genotype data from 4049 Greenlanders generated using the Illumina Cardio-Metabochip. We performed the discovery association analysis by an additive linear mixed model. To estimate the effect of known HbA                             1C                             -associated loci, we modeled the effect in the European and Inuit ancestry proportions of the Greenlandic genome (EAPGG and IAPGG, respectively). After correcting for multiple testing, we found no novel significant associations. When we investigated loci known to associate with HbA                             1C                              levels, we found that the lead variant in the GCK locus associated significantly with HbA                             1C                              levels in the IAPGG (P                             IAPGG                              = 4.8 × 10                             -6                             ,β                             IAPGG                              = 0.13SD} P I A P G G = 4.8 × 1 0 - 6, β I A P G G = 0.13 SD). Furthermore, for 10 of 15 known HbA                             1C                              loci, the effects in IAPGG were similar to the previously reported effects. Interestingly, the ANK1 locus showed a statistically significant ancestral population differential effect, with opposing directions of effect in the two ancestral populations. In conclusion, we found only 1 of the 15 known HbA                             1C                              loci to be significantly associated with HbA                             1C                              levels in the IAPGG and that two-thirds of the loci showed similar effects in Inuit as previously found in European and East Asian populations. Our results shed light on the genetic effects across ethnicities.                          "
+  abstract: "We previously showed that a common genetic variant leads to a remarkably increased risk of type 2 diabetes (T2D) in the small and historically isolated Greenlandic population. Motivated by this, we aimed at discovering novel genetic determinants for glycated hemoglobin (HbA                             1C                             ) and at estimating the effect of known HbA                             1C                             -associated loci in the Greenlandic population. We analyzed genotype data from 4049 Greenlanders generated using the Illumina Cardio-Metabochip. We performed the discovery association analysis by an additive linear mixed model. To estimate the effect of known HbA                             1C                             -associated loci, we modeled the effect in the European and Inuit ancestry proportions of the Greenlandic genome (EAPGG and IAPGG, respectively). After correcting for multiple testing, we found no novel significant associations. When we investigated loci known to associate with HbA                             1C                              levels, we found that the lead variant in the GCK locus associated significantly with HbA                             1C                              levels in the IAPGG (P                             IAPGG                              = 4.8 × 10                             -6                             ,β                             IAPGG                              = 0.13SD} P I A P G G = 4.8 × 1 0 - 6, β I A P G G = 0.13 SD). Furthermore, for 10 of 15 known HbA                             1C                              loci, the effects in IAPGG were similar to the previously reported effects. Interestingly, the ANK1 locus showed a statistically significant ancestral population differential effect, with opposing directions of effect in the two ancestral populations. In conclusion, we found only 1 of the 15 known HbA                             1C                              loci to be significantly associated with HbA                             1C                              levels in the IAPGG and that two-thirds of the loci showed similar effects in Inuit as previously found in European and East Asian populations. Our results shed light on the genetic effects across ethnicities.                          "
 
 - title: "Genetic architecture of obesity and related metabolic traits — recent insights from isolated populations"
   image: none.png
@@ -566,6 +569,8 @@
     display: "Bioinformatics(2017)"
   highlight: 0
   abstract: "Motivation Estimation of admixture proportions and principal component analysis (PCA) are fundamental tools in populations genetics. However, applying these methods to low- or mid-depth sequencing data without taking genotype uncertainty into account can introduce biases. Results Here we present fastNGSadmix, a tool to fast and reliably estimate admixture proportions and perform PCA from next generation sequencing data of a single individual. The analyses are based on genotype likelihoods of the input sample and a set of predefined reference populations. The method has high accuracy, even at low sequencing depth and corrects for the biases introduced by small reference populations."
+  software: http://www.popgen.dk/software/index.php/FastNGSadmix
+  name: fastNGSadmix
 
 - title: "Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers"
   image: none.png
@@ -599,12 +604,12 @@
 
 - title: "The effect of an extreme and prolonged population bottleneck on patterns of deleterious variation: Insights from the Greenlandic Inuit"
   image: none.png
-  description: none
+  description: The genetic consequences of population bottlenecks on patterns of deleterious genetic variation
   authors: "Pedersen C.-E.T.; Lohmueller K.E.; Grarup N.; Bjerregaard P.; Hansen T.; Siegismund H.R.; Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.116.193821
     display: "Genetics(2017)"
-  highlight: 0
+  highlight: 1
   abstract: "The genetic consequences of population bottlenecks on patterns of deleterious genetic variation in human populations are of tremendous interest. Based on exome sequencing of 18 Greenlandic Inuit we show that the Inuit have undergone a severe ~20,000-year-long bottleneck. This has led to a markedly more extreme distribution of allele frequencies than seen for any other human population tested to date, making the Inuit the perfect population for investigating the effect of a bottleneck on patterns of deleterious variation. When comparing proxies for genetic load that assume an additive effect of deleterious alleles, the Inuit show, at most, a slight increase in load compared to European, East Asian, and African populations. Specifically, we observe <4% increase in the number of derived deleterious alleles in the Inuit. In contrast, proxies for genetic load under a recessive model suggest that the Inuit have a significantly higher load (20% increase or more) compared to other less bottlenecked human populations. Forward simulations under realistic models of demography support our empirical findings, showing up to a 6% increase in the genetic load for the Inuit population across all models of dominance. Further, the Inuit population carries fewer deleterious variants than other human populations, but those that are present tend to be at higher frequency than in other populations. Overall, our results show how recent demographic history has affected patterns of deleterious variants in human populations. "
 
 - title: "Weighting sequence variants based on their annotation increases power of whole-genome association studies"
@@ -614,7 +619,7 @@
   link:
     url: https://doi.org/10.1038/ng.3507
     display: "Nature Genetics(2016)"
-  highlight: 0
+  highlight: 1
   abstract: "The consensus approach to genome-wide association studies (GWAS) has been to assign equal prior probability of association to all sequence variants tested. However, some sequence variants, such as loss-of-function and missense variants, are more likely than others to affect protein function and are therefore more likely to be causative. Using data from whole-genome sequencing of 2,636 Icelanders and the association results for 96 quantitative and 123 binary phenotypes, we estimated the enrichment of association signals by sequence annotation. We propose a weighted Bonferroni adjustment that controls for the family-wise error rate (FWER), using as weights the enrichment of sequence annotations among association signals. We show that this weighted adjustment increases the power to detect association over the standard Bonferroni correction. We use the enrichment of associations by sequence annotation we have estimated in Iceland to derive significance thresholds for other populations with different numbers and combinations of sequence variants. "
 
 - title: "Estimating IBD tracts from low coverage NGS data"
@@ -644,7 +649,7 @@
   link:
     url: https://doi.org/10.1371/journal.pgen.1006119
     display: "PLoS Genetics(2016)"
-  highlight: 0
+  highlight: 1
   abstract: "Fatty acids (FAs) are involved in cellular processes important for normal body function, and perturbation of FA balance has been linked to metabolic disturbances, including type 2 diabetes. An individual’s level of FAs is affected by diet, lifestyle, and genetic variation. We aimed to improve the understanding of the mechanisms and pathways involved in regulation of FA tissue levels, by identifying genetic loci associated with inter-individual differences in erythrocyte membrane FA levels. We assessed the levels of 22 FAs in the phospholipid fraction of erythrocyte membranes from 2,626 Greenlanders in relation to single nucleotide polymorphisms genotyped on the MetaboChip or imputed. We identified six independent association signals. Novel loci were identified on chromosomes 5 and 11 showing strongest association with oleic acid (rs76430747 in ACSL6, beta (SE): -0.386% (0.034), p = 1.8x10-28) and docosahexaenoic acid (rs6035106 in DTD1, 0.137% (0.025), p = 6.4x10-8), respectively. For a missense variant (rs80356779) in CPT1A, we identified a number of novel FA associations, the strongest with 11-eicosenoic acid (0.473% (0.035), p = 2.6x10-38), and for variants in FADS2 (rs174570), LPCAT3 (rs2110073), and CERS4 (rs11881630) we replicated known FA associations. Moreover, we observed metabolic implications of the ACSL6 (rs76430747) and CPT1A (rs80356779) variants, which both were associated with altered HbA1c (0.051% (0.013), p = 5.6x10-6 and -0.034% (0.016), p = 3.1x10-4, respectively). The latter variant was also associated with reduced insulin resistance (HOMA-IR, -0.193 (0.050), p = 3.8x10-6), as well as measures of smaller body size, including weight (-2.676 kg (0.523), p = 2.4x10-7), lean mass (-1.200 kg (0.271), p = 1.7x10-6), height (-0.966 cm (0.230), p = 2.0x10-5), and BMI (-0.638 kg/m2 (0.181), p = 2.8x10-4). In conclusion, we have identified novel genetic determinants of FA composition in phospholipids in erythrocyte membranes, and have shown examples of links between genetic variants associated with altered FA membrane levels and changes in metabolic traits. "
 
 - title: "Next-generation biology: Sequencing and data analysis approaches for non-model organisms"
@@ -704,7 +709,7 @@
   link:
     url: https://doi.org/10.1016/j.ajhg.2014.11.012
     display: "AJHG(2015)"
-  highlight: 0
+  highlight: 1
   abstract: "Because of past limitations in samples and genotyping technologies, important questions about the history of the present-day Greenlandic population remain unanswered. In an effort to answer these questions and in general investigate the genetic history of the Greenlandic population, we analyzed ∼200,000 SNPs from more than 10% of the adult Greenlandic population (n = 4,674). We found that recent gene flow from Europe has had a substantial impact on the population: more than 80% of the Greenlanders have some European ancestry (on average ∼25% of their genome). However, we also found that the amount of recent European gene flow varies across Greenland and is far smaller in the more historically isolated areas in the north and east and in the small villages in the south. Furthermore, we found that there is substantial population structure in the Inuit genetic component of the Greenlanders and that individuals from the east, west, and north can be distinguished from each other. Moreover, the genetic differences in the Inuit ancestry are consistent with a single colonization wave of the island from north to west to south to east. Although it has been speculated that there has been historical admixture between the Norse Vikings who lived in Greenland for a limited period ∼600-1,000 years ago and the Inuit, we found no evidence supporting this hypothesis. Similarly, we found no evidence supporting a previously hypothesized admixture event between the Inuit in East Greenland and the Dorset people, who lived in Greenland before the Inuit. "
 
 - title: "Tracking the origins of Yakutian horses and the genetic basis for their fast adaptation to subarctic environments"
@@ -724,7 +729,7 @@
   link:
     url: https://doi.org/10.1038/nature14625
     display: "Nature(2015)"
-  highlight: 0
+  highlight: 1
   abstract: "Kennewick Man, referred to as the Ancient One by Native Americans, is a male human skeleton discovered in Washington state (USA) in 1996 and initially radiocarbon dated to 8,340-9,200 calibrated years before present (bp). His population affinities have been the subject of scientific debate and legal controversy. Based on an initial study of cranial morphology it was asserted that Kennewick Man was neither Native American nor closely related to the claimant Plateau tribes of the Pacific Northwest, who claimed ancestral relationship and requested repatriation under the Native American Graves Protection and Repatriation Act (NAGPRA). The morphological analysis was important to judicial decisions that Kennewick Man was not Native American and that therefore NAGPRA did not apply. Instead of repatriation, additional studies of the remains were permitted. Subsequent craniometric analysis affirmed Kennewick Man to be more closely related to circumpacific groups such as the Ainu and Polynesians than he is to modern Native Americans. In order to resolve Kennewick Man's ancestry and affiliations, we have sequenced his genome to ∼1 × coverage and compared it to worldwide genomic data including for the Ainu and Polynesians. We find that Kennewick Man is closer to modern Native Americans than to any other population worldwide. Among the Native American groups for whom genome-wide data are available for comparison, several seem to be descended from a population closely related to that of Kennewick Man, including the Confederated Tribes of the Colville Reservation (Colville), one of the five tribes claiming Kennewick Man. We revisit the cranial analyses and find that, as opposed to genome-wide comparisons, it is not possible on that basis to affiliate Kennewick Man to specific contemporary groups. We therefore conclude based on genetic comparisons that Kennewick Man shows continuity with Native North Americans over at least the last eight millennia. "
 
 - title: "The origin and evolution of maize in the Southwestern United States"
@@ -744,7 +749,7 @@
   link:
     url: https://doi.org/10.1126/science.aab2319
     display: "Science(2015)"
-  highlight: 0
+  highlight: 1
   abstract: "The indigenous people of Greenland, the Inuit, have lived for a long time in the extreme conditions of the Arctic, including low annual temperatures, and with a specialized diet rich in protein and fatty acids, particularly omega-3 polyunsaturated fatty acids (PUFAs). A scan of Inuit genomes for signatures of adaptation revealed signals at several loci, with the strongest signal located in a cluster of fatty acid desaturases that determine PUFA levels. The selected alleles are associated with multiple metabolic and anthropometric phenotypes and have large effect sizes for weight and height, with the effect on height replicated in Europeans. By analyzing membrane lipids, we found that the selected alleles modulate fatty acid composition, which may affect the regulation of growth hormones. Thus, the Inuit have genetic and physiological adaptations to a diet rich in PUFAs."
 
 - title: "Genomic evidence for the Pleistocene and recent population history of Native Americans"
@@ -754,7 +759,7 @@
   link:
     url: https://doi.org/10.1126/science.aab3884
     display: "Science(2015)"
-  highlight: 0
+  highlight: 1
   
 - title: "Genomic structure in Europeans dating back at least 36,200 years"
   image: none.png
@@ -773,7 +778,7 @@
   link:
     url: https://doi.org/10.1126/science.1255832
     display: "Science(2014)"
-  highlight: 0
+  highlight: 1
   abstract: "The New World Arctic, the last region of the Americas to be populated by humans, has a relatively well-researched archaeology, but an understanding of its genetic history is lacking.We present genome-wide sequence data from ancient and present-day humans from Greenland, Arctic Canada, Alaska, Aleutian Islands, and Siberia. We show that Paleo-Eskimos (∼3000 BCE to 1300 CE) represent a migration pulse into the Americas independent of both Native American and Inuit expansions. Furthermore, the genetic continuity characterizing the Paleo-Eskimo period was interrupted by the arrival of a new population, representing the ancestors of present-day Inuit, with evidence of past gene flow between these lineages. Despite periodic abandonment of major Arctic regions, a single Paleo-Eskimo metapopulation likely survived in near-isolation for more than 4000 years, only to vanish around 700 years ago."
 
 - title: "Speciation with gene flow in equids despite extensive chromosomal plasticity"
@@ -788,23 +793,27 @@
 
 - title: "ANGSD: Analysis of Next Generation Sequencing Data"
   image: none.png
-  description: none
+  description: Software for population genetic and medical genetic analysis of low depth sequencing data. 
   authors: "Korneliussen T.S.; Albrechtsen A.; Nielsen R."
   link:
     url: https://doi.org/10.1186/s12859-014-0356-4
     display: "BMC Bioinformatics(2014)"
-  highlight: 0
+  highlight: 1
   abstract: "Background: High-throughput DNA sequencing technologies are generating vast amounts of data. Fast, flexible and memory efficient implementations are needed in order to facilitate analyses of thousands of samples simultaneously. Results: We present a multithreaded program suite called ANGSD. This program can calculate various summary statistics, and perform association mapping and population genetic analyses utilizing the full information in next generation sequencing data by working directly on the raw sequencing data or by using genotype likelihoods. Conclusions: The open source c/c++ program ANGSD is available at . The program is tested and validated on GNU/Linux systems. The program facilitates multiple input formats including BAM and imputed beagle genotype probability files. The program allow the user to choose between combinations of existing methods and can perform analysis that is not implemented elsewhere. "
+  software: phttp://www.popgen.dk/angsd/index.php/ANGSD
+  name: ANGSD
 
 - title: "RelateAdmix: A software tool for estimating relatedness between admixed individuals"
-  image: none.png
+  image: relateAdmix.png
   description: none
   authors: "Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btt652
     display: "Bioinformatics(2014)"
-  highlight: 0
+  highlight: 1
   abstract: "Motivation: Pairwise relatedness plays an important role in a range of genetic research fields. However, currently only few estimators exist for individuals that are admixed, i.e. have ancestry from more than one population, and these estimators fail in some situations.Results: We present a new software tool, RelateAdmix, for obtaining maximum likelihood estimates of pairwise relatedness from genetic data between admixed individuals. We show using simulated data that it gives rise to better estimates than three state-of-the-art software tools, REAP, KING and Plink, while still being fast enough to be applicable to large datasets. "
+  name: relateAdmix
+  sotware: http://www.popgen.dk/software/index.php/RelateAdmix
 
 - title: "Upper palaeolithic Siberian genome reveals dual ancestry of native Americans"
   image: none.png
@@ -813,7 +822,7 @@
   link:
     url: https://doi.org/10.1038/nature12736
     display: "Nature(2014)"
-  highlight: 0
+  highlight: 1
   abstract: "The origins of the First Americans remain contentious. Although Native Americans seem to be genetically most closely related to east Asians, there is no consensus with regard to which specific Old World populations they are closest to. Here we sequence the draft genome of an approximately 24,000-year-old individual (MA-1), from Mal'ta in south-central Siberia, to an average depth of 1×. To our knowledge this is the oldest anatomically modern human genome reported to date. The MA-1 mitochondrial genome belongs to haplogroup U, which has also been found at high frequency among Upper Palaeolithic and Mesolithic European hunter-gatherers, and the Y chromosome of MA-1 is basal to modern-day western Eurasians and near the root of most Native American lineages. Similarly, we find autosomal evidence that MA-1 is basal to modern-day western Eurasians and genetically closely related to modern-day Native Americans, with no close affinity to east Asians. This suggests that populations related to contemporary western Eurasians had a more north-easterly distribution 24,000 years ago than commonly thought. Furthermore, we estimate that 14 to 38% of Native American ancestry may originate through gene flow from this ancient population. This is likely to have occurred after the divergence of Native American ancestors from east Asian ancestors, but before the diversification of Native American populations in the New World. Gene flow from the MA-1 lineage into Native American ancestors could explain why several crania from the First Americans have been reported as bearing morphological characteristics that do not resemble those of east Asians. Sequencing of another south-central Siberian, Afontova Gora-2 dating to approximately 17,000 years ago, revealed similar autosomal genetic signatures as MA-1, suggesting that the region was continuously occupied by humans throughout the Last Glacial Maximum. Our findings reveal that western Eurasian genetic signatures in modern-day Native Americans derive not only from post-Columbian admixture, as commonly thought, but also from a mixed ancestry of the First Americans. "
 
 - title: "Two ancient human genomes reveal Polynesian ancestry among the indigenous Botocudos of Brazil"
@@ -872,7 +881,7 @@
   link:
     url: https://doi.org/10.1038/nature13425
     display: "Nature(2014)"
-  highlight: 0
+  highlight: 1
   abstract: "TheGreenlandic population, a small and historically isolated founder population comprising about 57,000 inhabitants, has experienced a dramatic increase in type 2 diabetes (T2D) prevalence during the past 25 years 1.Motivated by this,we performedassociationmapping ofT2Drelated quantitative traits in up to 2,575 Greenlandic individuals without knowndiabetes. Using array-based genotyping and exome sequencing, we discovered a nonsense p.Arg684Ter variant (in which arginine is replaced by a termination codon) in the geneTBC1D4 with an allele frequency of 17%.Herewe show that homozygous carriers of this variant havemarkedlyhigherconcentrationsofplasmaglucose(β53.8mmol l-1, P 52.5310-35) and serum insulin (β5165pmoll-1,P51. 5310-20) 2 hours after an oral glucose load compared with individuals with other genotypes (both non-carriers and heterozygous carriers). Furthermore, homozygous carriers have marginally lower concentrations of fasting plasma glucose (β520.18 mmoll-1,P51.1310-6) andfasting serum insulin (β528.3pmoll-1, P50.0014), and their T2D risk is markedly increased (odds ratio (OR)510.3,P 51.6310-24). Heterozygous carriers have amoderately higher plasmaglucose concentration 2 hours after an oral glucose load than non-carriers (β50.43 mmoll -1,P 5 5.3310-5). Analyses of skeletal muscle biopsies showed lower messenger RNA and protein levels of the long isoform of TBC1D4, and lower muscle protein levels of the glucose transporter GLUT4, with increasing number of p.Arg684Ter alleles. These findings are concomitant with a severely decreased insulin-stimulated glucose uptake inmuscle, leading to postprandial hyperglycaemia, impaired glucose tolerance and T2D. The observed effect sizes are several times larger than any previous findings in large-scale genome-wide association studies of these traits2-4 and constitute further proof of the value of conducting genetic association studies outside the traditional setting of large homogeneous populations. "
 
 - title: "Genome-Wide Association Study of Genetic Variants in LPS-Stimulated IL-6, IL-8, IL-10, IL-1ra and TNF-α Cytokine Response in a Danish Cohort"
@@ -892,7 +901,7 @@
   link:
     url: https://doi.org/10.1007/s00125-012-2756-1
     display: "Diabetologia(2013)"
-  highlight: 0
+  highlight: 1
   abstract: "Aims/hypothesis: Human complex metabolic traits are in part regulated by genetic determinants. Here we applied exome sequencing to identify novel associations of coding polymorphisms at minor allele frequencies (MAFs) >1% with common metabolic phenotypes. Methods: The study comprised three stages. We performed medium-depth (8×) whole exome sequencing in 1,000 cases with type 2 diabetes, BMI >27.5 kg/m2 and hypertension and in 1,000 controls (stage 1). We selected 16,192 polymorphisms nominally associated (p < 0.05) with case-control status, from four selected annotation categories or from loci reported to associate with metabolic traits. These variants were genotyped in 15,989 Danes to search for association with 12 metabolic phenotypes (stage 2). In stage 3, polymorphisms showing potential associations were genotyped in a further 63,896 Europeans. Results: Exome sequencing identified 70,182 polymorphisms with MAF >1%. In stage 2 we identified 51 potential associations with one or more of eight metabolic phenotypes covered by 45 unique polymorphisms. In meta-analyses of stage 2 and stage 3 results, we demonstrated robust associations for coding polymorphisms in CD300LG (fasting HDL-cholesterol: MAF 3.5%, p = 8.5 × 10-14), COBLL1 (type 2 diabetes: MAF 12.5%, OR 0.88, p = 1.2 × 10-11) and MACF1 (type 2 diabetes: MAF 23.4%, OR 1.10, p = 8.2 × 10-10). Conclusions/interpretation: We applied exome sequencing as a basis for finding genetic determinants of metabolic traits and show the existence of low-frequency and common coding polymorphisms with impact on common metabolic traits. Based on our study, coding polymorphisms with MAF above 1% do not seem to have particularly high effect sizes on the measured metabolic traits. "
 
 - title: "Estimating inbreeding coefficients from NGS data: Impact on genotype calling and allele frequency estimation"
@@ -962,8 +971,10 @@
   link:
     url: https://doi.org/10.1534/genetics.113.154138
     display: "Genetics(2013)"
-  highlight: 0
+  highlight: 1
   abstract: "Inference of population structure and individual ancestry is important both for population genetics and for association studies. With next generation sequencing technologies it is possible to obtain genetic data for all accessible genetic variations in the genome. Existing methods for admixture analysis rely on known genotypes. However, individual genotypes cannot be inferred from low-depth sequencing data without introducing errors. This article presents a new method for inferring an individual's ancestry that takes the uncertainty introduced in next generation sequencing data into account. This is achieved by working directly with genotype likelihoods that contain all relevant information of the unobserved genotypes. Using simulations as well as publicly available sequencing data, we demonstrate that the presented method has great accuracy even for very low-depth data. At the same time, we demonstrate that applying existing methods to genotypes called from the same data can introduce severe biases. The presented method is implemented in the NGSadmix software available at http://www.popgen.dk/software. "
+  software: http://www.popgen.dk/software/index.php/NgsAdmix
+  name: NGSadmix
 
 - title: "SNP calling, genotype calling, and sample allele frequency estimation from new-generation sequencing data"
   image: none.png
@@ -1032,7 +1043,7 @@
   link:
     url: https://doi.org/10.1038/nrg2986
     display: "Nature Reviews Genetics(2011)"
-  highlight: 0
+  highlight: 1
   abstract: "Meaningful analysis of next-generation sequencing (NGS) data, which are produced extensively by genetics and genomics studies, relies crucially on the accurate calling of SNPs and genotypes. Recently developed statistical methods both improve and quantify the considerable uncertainty associated with genotype calling, and will especially benefit the growing number of studies using low- to medium-coverage data. We review these methods and provide a guide for their use in NGS studies. "
 
 - title: "Ancient human genome sequence of an extinct Palaeo-Eskimo"
@@ -1042,7 +1053,7 @@
   link:
     url: https://doi.org/10.1038/nature08835
     display: "Nature(2010)"
-  highlight: 0
+  highlight: 1
   abstract: "We report here the genome sequence of an ancient human. Obtained from 4,000-year-old permafrost-preserved hair, the genome represents a male individual from the first known culture to settle in Greenland. Sequenced to an average depth of 20Ã-, we recover 79% of the diploid genome, an amount close to the practical limit of current sequencing technologies. We identify 353,151 high-confidence single-nucleotide polymorphisms (SNPs), of which 6.8% have not been reported previously. We estimate raw read contamination to be no higher than 0.8%. We use functional SNP assessment to assign possible phenotypic characteristics of the individual that belonged to a culture whose location has yielded only trace human remains. We compare the high-confidence SNPs to those of contemporary populations to find the populations most closely related to the individual. This provides evidence for a migration from Siberia into the New World some 5,500 years ago, independent of that giving rise to the modern Native Americans and Inuit. "
 
 - title: "Family and population-based studies of variation within the ghrelin receptor locus in relation to measures of obesity"
@@ -1062,7 +1073,7 @@
   link:
     url: https://doi.org/10.1093/molbev/msq148
     display: "Mol Biol Evol(2010)"
-  highlight: 0
+  highlight: 1
   abstract: "Chip-based high-throughput genotyping has facilitated genome-wide studies of genetic diversity. Many studies have utilized these large data sets to make inferences about the demographic history of human populations using measures of genetic differentiation such as FST or principal component analyses. However, the single nucleotide polymorphism (SNP) chip data suffer from ascertainment biases caused by the SNP discovery process in which a small number of individuals from selected populations are used as discovery panels. In this study, we investigate the effect of the ascertainment bias on inferences regarding genetic differentiation among populations in one of the common genome-wide genotyping platforms. We generate SNP genotyping data for individuals that previously have been subject to partial genome-wide Sanger sequencing and compare inferences based on genotyping data to inferences based on direct sequencing. In addition, we also analyze publicly available genome-wide data. We demonstrate that the ascertainment biases will distort measures of human diversity and possibly change conclusions drawn from these measures in some times unexpected ways. We also show that details of the genotyping calling algorithms can have a surprisingly large effect on population genetic inferences. We not only present a correction of the spectrum for the widely used Affymetrix SNP chips but also show that such corrections are difficult to generalize among studies. "
 
 - title: "Identification of a novel BRCA1 nucleotide 4803delCC/c.4684delCC mutation and a nucleotide 249T>A/c.130T>A (p.Cys44Ser) mutation in two Greenlandic Inuit families: Implications for genetic screening of Greenlandic Inuit families with high risk for breast and/or ovarian cancer"
@@ -1082,7 +1093,7 @@
   link:
     url: https://doi.org/10.1534/genetics.110.113977
     display: "Genetics(2010)"
-  highlight: 0
+  highlight: 1
   abstract: "There has recently been considerable interest in detecting natural selection in the human genome. Selection will usually tend to increase identity-by-descent (IBD) among individuals in a population, and many methods for detecting recent and ongoing positive selection indirectly take advantage of this. In this article we show that excess IBD sharing is a general property of natural selection and we show that this fact makes it possible to detect several types of selection including a type that is otherwise difficult to detect: selection acting on standing genetic variation. Motivated by this, we use a recently developed method for identifying IBD sharing among individuals from genome-wide data to scan populations from the new HapMap phase 3 project for regions with excess IBD sharing in order to identify regions in the human genome that have been under strong, very recent selection. The HLA region is by far the region showing the most extreme signal, suggesting that much of the strong recent selection acting on the human genome has been immune related and acting on HLA loci. As equilibrium overdominance does not tend to increase IBD, we argue that this type of selection cannot explain our observations. Copyright "
 
 - title: "Interleukin-6 autoantibodies are involved in the pathogenesis of a subset of type 2 diabetes"
@@ -1202,8 +1213,10 @@
   link:
     url: https://doi.org/10.1002/gepi.20378
     display: "Genetic Epidemiology(2009)"
-  highlight: 0
+  highlight: 1
   abstract: "Estimates of relatedness have several applications such as the identification of relatives or in identifying disease related genes through identity by descent (IBD) mapping. Here we present a new method for identifying IBD tracts among individuals from genome-wide single nucleotide polymorphisms data. We use a continuous time Markov model where the hidden states are the number of alleles shared IBD between pairs of individuals at a given position. In contrast to previous methods, our method accurately accounts for linkage disequilibrium using pairwise haplotype probabilities. The method provides a map of the local relatedness along the genome. We illustrate the potential of the method for mapping disease genes on a real data set, and show that the method has the potential to map causative disease mutations using only a handful of affected individuals. The new IBD mapping method provides considerable improvement in mapping power in natural populations compared to standard association mapping methods. "
+  software: http://www.popgen.dk/software/index.php/Relate
+  name: relate
 
 - title: "Genetic variant near IRS1 is associated with type 2 diabetes, insulin resistance and hyperinsulinemia"
   image: none.png
@@ -1212,7 +1225,7 @@
   link:
     url: https://doi.org/10.1038/ng.443
     display: "Nature Genetics(2009)"
-  highlight: 0
+  highlight: 1
   abstract: "Genome-wide association studies have identified common variants that only partially explain the genetic risk for type 2 diabetes (T2D). Using genome-wide association data from 1,376 French individuals, we identified 16,360 SNPs nominally associated with T2D and studied these SNPs in an independent sample of 4,977 French individuals. We then selected the 28 best hits for replication in 7,698 Danish subjects and identified 4 SNPs showing strong association with T2D, one of which (rs2943641, P = 9.3 × 10 12, OR = 1.19) was located adjacent to the insulin receptor substrate 1 gene (IRS1). Unlike previously reported T2D risk loci, which predominantly associate with impaired beta cell function, the C allele of rs2943641 was associated with insulin resistance and hyperinsulinemia in 14,358 French, Danish and Finnish participants from population-based cohorts; this allele was also associated with reduced basal levels of IRS1 protein and decreased insulin induction of IRS1-associated phosphatidylinositol-3-OH kinase activity in human skeletal muscle biopsies. "
 
 - title: "A common Greenlandic Inuit BRCA1 RING domain founder mutation"
@@ -1262,7 +1275,7 @@
   link:
     url: https://doi.org/10.2337/db07-0910
     display: "Diabetes(2008)"
-  highlight: 0
+  highlight: 1
   abstract: "OBJECTIVE - Three independent studies have shown that variation in the fat mass and obesity-associated (FTO) gene associates with BMI and obesity. In the present study, the effect of FTO variation on metabolic traits including obesity, type 2 diabetes, and related quantitative phenotypes was examined. RESEARCH DESIGN AND METHODS - The FTO rs9939609 polymorphism was genotyped in a total of 17,508 Danes from five different study groups. RESULTS - In studies of 3,856 type 2 diabetic case subjects and 4,861 normal glucose-tolerant control subjects, the minor A-allele of rs9939609 associated with type 2 diabetes (odds ratio 1.13 [95% CI 1.06-1.20], P = 9 × 10-5). This association was abolished when adjusting for BMI (1.06 [0.97-1.16], P = 0.2). Among 17,162 middle-aged Danes, the A-allele associated with overweight (1.19 [1.13-1.24], P = 1 × 10-12) and obesity (1.27 [1.20-1.34], P = 2 × 10-16). Furthermore, obesity-related quantitative traits such as body weight, waist circumference, fat mass, and fasting serum leptin levels were significantly elevated in A-allele carriers. An interaction between the FTO rs9939609 genotype and physical activity (P = 0.007) was found, where physically inactive homozygous risk A-allele carriers had a 1.95 ± 0.3 kg/m 2 increase in BMI compared with homozygous T-allele carriers. CONCLUSIONS - We validate that variation in FTO is associated with type 2 diabetes when not adjusted for BMI and with an overall increase in body fat mass. Furthermore, low physical activity seems to accentuate the effect of FTO rs9939609 on body fat accumulation. "
 
 - title: "Association testing of novel type 2 diabetes risk alleles in the JAZF1, CDC123/CAMK1D, TSPAN8, THADA, ADAMTS9, and NOTCH2 Loci with insulin release, insulin sensitivity, and obesity in a population-based sample of 4,516 glucose-tolerant middle-aged danes"

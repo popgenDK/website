@@ -155,24 +155,28 @@
   abstract: "African wild pigs have a contentious evolutionary and biogeographic history. Until recently, desert warthog (Phacochoerus aethiopicus) and common warthog (P. africanus) were considered a single species. Molecular evidence surprisingly suggested they diverged at least 4.4 million years ago, and possibly outside of Africa. We sequenced the first whole-genomes of four desert warthogs and 35 common warthogs from throughout their range. We show that these two species diverged much later than previously estimated, 400,000-1,700,000 years ago depending on assumptions of gene flow. This brings it into agreement with the paleontological record. We found that the common warthog originated in western Africa and subsequently colonized eastern and southern Africa. During this range expansion, the common warthog interbred with the desert warthog, presumably in eastern Africa, underlining this region's importance in African biogeography. We found that immune system-related genes may have adaptively introgressed into common warthogs, indicating that resistance to novel diseases was one of the most potent drivers of evolution as common warthogs expanded their range. Hence, we solve some of the key controversies surrounding warthog evolution and reveal a complex evolutionary history involving range expansion, introgression, and adaptation to new diseases.  "
 
 - title: "Joint identification of sex and sex-linked scaffolds in non-model organisms using low depth sequencing data"
-  image: none.png
-  description: none
+  image: SATC.png
+  description: Framework for joint determination of individual sex and sex-linked scaffolds for non-model organism based on depth of coverage 
   authors: "Nursyifa C.; Brüniche-Olsen A.; Garcia-Erill G.; Heller R.; Albrechtsen A."
   link:
     url: https://doi.org/10.1111/1755-0998.13491
     display: "Mol. Eco. res(2022)"
   highlight: 0
   abstract: "Being able to assign sex to individuals and identify autosomal and sex-linked scaffolds are essential in most population genomic analyses. Non-model organisms often have genome assemblies at scaffold-level and lack characterization of sex-linked scaffolds. Previous methods to identify sex and sex-linked scaffolds have relied on synteny between the non-model organism and a closely related species or prior knowledge about the sex of the samples to identify sex-linked scaffolds. In the latter case, the difference in depth of coverage between the autosomes and the sex chromosomes are used. Here, we present “sex assignment through coverage” (SATC), a method to assign sex to samples and identify sex-linked scaffolds from next generation sequencing (NGS) data. The method works for species with a homogametic/heterogametic sex determination system and only requires a scaffold-level reference assembly and sampling of both sexes with whole genome sequencing (WGS) data. We use the sequencing depth distribution across scaffolds to jointly identify: (i) male and female individuals, and (ii) sex-linked scaffolds. This is achieved through projecting the scaffold depths into a low-dimensional space using principal component analysis (PCA) and subsequent Gaussian mixture clustering. We demonstrate the applicability of our method using data from five mammal species and a bird species complex. The method is freely available at https://github.com/popgenDK/SATC as R code and a graphical user interface (GUI). "
+  software: https://github.com/popgenDK/SATC
+  name: SATC
 
 - title: "Estimation of site frequency spectra from low-coverage sequencing data using stochastic EM reduces overfitting, runtime, and memory usage"
-  image: none.png
-  description: none
+  image: winSFS.png
+  description: Inference of the site frequency spectrum (SFS) from low-depth sequencing data. 
   authors: "Rasmussen M.S.; Garcia-Erill G.; Korneliussen T.S.; Wiuf C.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/genetics/iyac148
     display: "Genetics(2022)"
   highlight: 0
   abstract: "The site frequency spectrum is an important summary statistic in population genetics used for inference on demographic history and selection. However, estimation of the site frequency spectrum from called genotypes introduces bias when working with low-coverage sequencing data. Methods exist for addressing this issue but sometimes suffer from 2 problems. First, they can have very high computational demands, to the point that it may not be possible to run estimation for genome-scale data. Second, existing methods are prone to overfitting, especially for multidimensional site frequency spectrum estimation. In this article, we present a stochastic expectation–maximization algorithm for inferring the site frequency spectrum from NGS data that address these challenges. We show that this algorithm greatly reduces runtime and enables estimation with constant, trivial RAM usage. Furthermore, the algorithm reduces overfitting and thereby improves downstream inference. An implementation is available at github.com/malthesr/winsfs. "
+  software: https://github.com/malthesr/winsfs
+  name: winSFS
 
 - title: "Efficient approaches for large-scale GWAS with genotype uncertainty"
   image: none.png
@@ -275,34 +279,41 @@
   abstract: "Genotyping-by-sequencing methods such as RADseq are popular for generating genomic and population-scale data sets from a diverse range of organisms. These often lack a usable reference genome, restricting users to RADseq specific software for processing. However, these come with limitations compared to generic next generation sequencing (NGS) toolkits. Here, we describe and test a simple pipeline for reference-free RADseq data processing that blends de novo elements from STACKS with the full suite of state-of-the art NGS tools. Specifically, we use the de novo RADseq assembly employed by STACKS to create a catalogue of RAD loci that serves as a reference for read mapping, variant calling and site filters. Using RADseq data from 28 zebra sequenced to ~8x depth-of-coverage we evaluate our approach by comparing the site frequency spectra (SFS) to those from alternative pipelines. Most pipelines yielded similar SFS at 8x depth, but only a genotype likelihood based pipeline performed similarly at low sequencing depth (2–4x). We compared the RADseq SFS with medium-depth (~13x) shotgun sequencing of eight overlapping samples, revealing that the RADseq SFS was persistently slightly skewed towards rare and invariant alleles. Using simulations and human data we confirm that this is expected when there is allelic dropout (AD) in the RADseq data. AD in the RADseq data caused a heterozygosity deficit of ~16%, which dropped to ~5% after filtering AD. Hence, AD was the most important source of bias in our RADseq data. "
 
 - title: "Large-scale inference of population structure in presence of missingness using PCA"
-  image: none.png
-  description: none
+  image: EMU.png
+  description: PCA with missingness including having samples with non overlapping data
   authors: "Meisner J.; Liu S.; Huang M.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btab027
     display: "Bioinformatics(2021)"
   highlight: 0
   abstract: "Motivation: Principal component analysis (PCA) is a commonly used tool in genetics to capture and visualize population structure. Due to technological advances in sequencing, such as the widely used non-invasive prenatal test, massive datasets of ultra-low coverage sequencing are being generated. These datasets are characterized by having a large amount of missing genotype information. Results: We present EMU, a method for inferring population structure in the presence of rampant non-random missingness. We show through simulations that several commonly used PCA methods cannot handle missing data arisen from various sources, which leads to biased results as individuals are projected into the PC space based on their amount of missingness. In terms of accuracy, EMU outperforms an existing method that also accommodates missingness while being competitively fast. We further tested EMU on around 100K individuals of the Phase 1 dataset of the Chinese Millionome Project, that were shallowly sequenced to around 0.08×. From this data we are able to capture the population structure of the Han Chinese and to reproduce previous analysis in a matter of CPU hours instead of CPU years. EMU's capability to accurately infer population structure in the presence of missingness will be of increasing importance with the rising number of large-scale genetic datasets.  "
-
+  software: https://github.com/Rosemeis/emu
+  name: EMU 
+  
 - title: "NGSremix: A software tool for estimating pairwise relatedness between admixed individuals from next-generation sequencing data"
-  image: none.png
-  description: none
+  image: NGSremix.png
+  description: Estimating relatedness coefficients for admixture samples with low depth sequencing. Also works for F1 and other recently admixed indivudals. 
   authors: "Nøhr A.K.; Hanghøj K.; Garcia-Erill G.; Li Z.; Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/g3journal/jkab174
     display: "G3(2021)"
   highlight: 0
   abstract: "Estimation of relatedness between pairs of individuals is important in many genetic research areas. When estimating relatedness, it is important to account for admixture if this is present. However, the methods that can account for admixture are all based on genotype data as input, which is a problem for low-depth next-generation sequencing (NGS) data from which genotypes are called with high uncertainty. Here, we present a software tool, NGSremix, for maximum likelihood estimation of relatedness between pairs of admixed individuals from low-depth NGS data, which takes the uncertainty of the genotypes into account via genotype likelihoods. Using both simulated and real NGS data for admixed individuals with an average depth of 4x or below we show that our method works well and clearly outperforms all the commonly used state-of-the-art relatedness estimation methods PLINK, KING, relateAdmix, and ngsRelate that all perform quite poorly. Hence, NGSremix is a useful new tool for estimating relatedness in admixed populations from low-depth NGS data. NGSremix is implemented in C/Cþþ in a multi-threaded software and is freely available on Github https://github.com/KHanghoj/NGSremix. "
+  software: https://github.com/KHanghoj/NGSremix
+  name: NGSremix
 
 - title: "Evaluation of model fit of inferred admixture proportions"
-  image: none.png
-  description: none
+  image: evalAdmix.png
+  description: Evaluaation your estimated admixture proportions.
   authors: "Garcia-Erill G.; Albrechtsen A."
   link:
     url: https://doi.org/10.1111/1755-0998.13171
     display: "Mol. Eco. res(2020)"
-  highlight: 0
+  highlight: 1
   abstract: "Model based methods for genetic clustering of individuals, such as those implemented in structure or ADMIXTURE, allow the user to infer individual ancestries and study population structure. The underlying model makes several assumptions about the demographic history that shaped the analysed genetic data. One assumption is that all individuals are a result of K homogeneous ancestral populations that are all well represented in the data, while another assumption is that no drift happened after the admixture event. The histories of many real world populations do not conform to that model, and in that case taking the inferred admixture proportions at face value might be misleading. We propose a method to evaluate the fit of admixture models based on estimating the correlation of the residual difference between the true genotypes and the genotypes predicted by the model. When the model assumptions are not violated, the residuals from a pair of individuals are not correlated. In the case of a bad fitting admixture model, individuals with similar demographic histories have a positive correlation of their residuals. Using simulated and real data, we show how the method is able to detect a bad fit of inferred admixture proportions due to using an insufficient number of clusters K or to demographic histories that deviate significantly from the admixture model assumptions, such as admixture from ghost populations, drift after admixture events and nondiscrete ancestral populations. We have implemented the method as an open source software that can be applied to both unphased genotypes and low depth sequencing data. "
+  software: http://www.popgen.dk/software/index.php/EvalAdmix
+  name: evalAdmix
+  
 
 - title: "Population genomics of the Viking world"
   image: none.png
@@ -475,14 +486,16 @@
   abstract: "We analyze whole-genome sequencing data from 141,431 Chinese women generated for non-invasive prenatal testing (NIPT). We use these data to characterize the population genetic structure and to investigate genetic associations with maternal and infectious traits. We show that the present day distribution of alleles is a function of both ancient migration and very recent population movements. We reveal novel phenotype-genotype associations, including several replicated associations with height and BMI, an association between maternal age and EMB, and between twin pregnancy and NRG1. Finally, we identify a unique pattern of circulating viral DNA in plasma with high prevalence of hepatitis B and other clinically relevant maternal infections. A GWAS for viral infections identifies an exceptionally strong association between integrated herpesvirus 6 and MOV10L1, which affects piwi-interacting RNA (piRNA) processing and PIWI protein function. These findings demonstrate the great value and potential of accumulating NIPT data for worldwide medical and genetic analyses. Large-scale analysis of genome sequences from non-invasive prenatal testing in Chinese women yields insights into phenotypic trait associations, viral infection patterns, and population history. "
 
 - title: "Inferring population structure and admixture proportions in low-depth NGS data"
-  image: none.png
-  description: none
+  image: PCAngsd.png
+  description: PCA, admixture proportions, HWE or selection scans from low depth sequencings data while accomidating population structure
   authors: "Meisner J.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.118.301336
     display: "Genetics(2018)"
-  highlight: 0
+  highlight: 1
   abstract: "We here present two methods for inferring population structure and admixture proportions in low-depth next-generation sequencing (NGS) data. Inference of population structure is essential in both population genetics and association studies, and is often performed using principal component analysis (PCA) or clustering-based approaches. NGS methods provide large amounts of genetic data but are associated with statistical uncertainty, especially for low-depth sequencing data. Models can account for this uncertainty by working directly on genotype likelihoods of the unobserved genotypes. We propose a method for inferring population structure through PCA in an iterative heuristic approach of estimating individual allele frequencies, where we demonstrate improved accuracy in samples with low and variable sequencing depth for both simulated and real datasets. We also use the estimated individual allele frequencies in a fast non-negative matrix factorization method to estimate admixture proportions. Both methods have been implemented in the PCAngsd framework available at http://www.popgen.dk/software/. "
+  software: https://github.com/Rosemeis/pcangsd
+  name: PCAngsd
 
 - title: "Ancient genomes revisit the ancestry of domestic and Przewalski's horses"
   image: none.png

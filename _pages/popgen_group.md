@@ -1,3 +1,12 @@
+---
+title: "Albrechtsen Lab - Popgen group"
+layout: gridlay
+excerpt: "Albrechtsen Lab -- Popgen Group."
+sitemap: false
+permalink: /popgen_group/
+---
+
+
 # Population and Statistical genetics at the Bioinformatic Center at UCPH
 
 We are meta group of labs that work with various parts of population, medical and statistical genetics at the Biocenter at University of Copenhagen. The meta group consists of 5 labs that works with focus on different organisms and systems. We apply and develop methods for analyzing large scale next generation sequencing data. 
@@ -18,3 +27,49 @@ We develop and apply statistical methods to genomic data with the purpose of gai
 ## Rasmus Heller
 Assistant professor
 I am interested in applying population and evolutionary genetics to answer questions about animal biology, particularly in large mammals. Most of my work has revolved around large African mammals. My research tries to address a range of topics in these species, including the historical drivers of population dynamics, how variation emerges and is retained, speciation, adaptive evolution and the relationship between phenotypic and genomic variation. I am also interested in topics of a more immediate interest in species conservation such as landscape genetics, the effect of habitat fragmentation, population connectivity etc 
+
+
+
+# Software
+
+
+{% assign number_printed = 0 %}
+{% for software in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if software.software %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  {% if software.name %}
+  <h2>{{ software.name }}</h2>
+  {% endif %}
+  <pubtit>{{ software.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ software.description }}</p>
+  <p><em>{{ software.authors }}</em></p>
+  <p><strong><a href="{{ software.link.url }}">{{ software.link.display }}</a></strong></p>
+  <p><strong><a href="{{ software.software }}">software website</a></strong></p>  
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+

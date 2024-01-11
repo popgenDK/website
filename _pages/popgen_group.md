@@ -37,11 +37,24 @@ I am interested in applying population and evolutionary genetics to answer quest
   <h2>Anders Albrechtsen</h2>
 
   <pubtit>Professor</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/AA3.jpg" class="img-responsive" width="33%" style="float: left" />
-  <p>I do stuff</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/AA3.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>Our group develops statistical and computational methods for analysis of genomic data including methods for performing multi-loci association studies, methods for detecting and correcting for population stratification, methods for detecting natural selection, loci dependent methods for modeling identity-by-descent and various methods for analysis of second generation sequencing data.</p>
   <p><strong><a href="https://website.popgen.dk/popgen_group">my website</a></strong></p>
  </div>
 </div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+
+  <h2>Anders Albrechtsen</h2>
+
+  <pubtit>Professor</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/AA3.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>Our group develops statistical and computational methods for analysis of genomic data including methods for performing multi-loci association studies, methods for detecting and correcting for population stratification, methods for detecting natural selection, loci dependent methods for modeling identity-by-descent and various methods for analysis of second generation sequencing data.</p>
+  <p><strong><a href="https://website.popgen.dk/popgen_group">my website</a></strong></p>
+ </div>
+</div>
+
 
 </div>
 

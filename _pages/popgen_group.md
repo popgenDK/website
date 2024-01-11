@@ -14,7 +14,8 @@ We are meta group of labs that work with various parts of population, medical an
 ## Hans Siegismund
 Associate Professor
 We work on population genetics, phylogeography and speciation processes of large African mammals, mainly bovids and great apes. Another research area includes the study of evolutionary genetics of foot-and-mouth-disease (FMD) virus in East Africa.
-Anders Albrechtsen
+
+## Anders Albrechtsen
 Associate Professor
 Our group develops statistical and computational methods for analysis of genomic data including methods for performing multi-loci association studies, methods for detecting and correcting for population stratification, methods for detecting natural selection, loci dependent methods for modeling identity-by-descent and various methods for analysis of second generation sequencing data.
 
@@ -28,7 +29,21 @@ We develop and apply statistical methods to genomic data with the purpose of gai
 Assistant professor
 I am interested in applying population and evolutionary genetics to answer questions about animal biology, particularly in large mammals. Most of my work has revolved around large African mammals. My research tries to address a range of topics in these species, including the historical drivers of population dynamics, how variation emerges and is retained, speciation, adaptive evolution and the relationship between phenotypic and genomic variation. I am also interested in topics of a more immediate interest in species conservation such as landscape genetics, the effect of habitat fragmentation, population connectivity etc 
 
+<div class="row">
+ 
+<div class="col-sm-6 clearfix">
+ <div class="well">
 
+  <h2>Anders Albrechtsen</h2>
+
+  <pubtit>Professor</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/AA3.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>I do stuff</p>
+  <p><strong><a href="https://website.popgen.dk/popgen_group">my website</a></strong></p>
+ </div>
+</div>
+
+</div>
 
 # Software
 

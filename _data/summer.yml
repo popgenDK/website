@@ -1,0 +1,167 @@
+- title: "African bushpigs exhibit porous species boundaries and appeared in Madagascar concurrently with human arrival"
+  image: bushpigs.png
+  description: We shed light on the evolutionary history of an iconic and widespread African mammal and provide insight into the longstanding biogeographic puzzle surrounding the bushpig’s presence in Madagascar
+  authors: Balboa* , Bertola* , Brüniche-Olsen* , ... Moltke <sup>&#128386;</sup>, Albrechtsen <sup>&#128386;</sup>, Heller <sup>&#128386;</sup>;
+  link:
+    url: https://doi.org/10.1038/s41467-023-44105-1
+    display: Nature Communications 15, 172 (2024)
+  highlight: 1
+  news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) [Le Monde in French](https://www.lemonde.fr/sciences/article/2024/01/07/le-potamochere-temoin-de-l-histoire-malgache_6209544_1650684.html)
+  github: https://github.com/popgenDK/seqAfrica_bushpigs
+  
+- title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
+  image: apoh.png
+  description: How to infer the ancestry of an admixed individuals pedigree. 
+  authors: "Genís Garcia-Erill<sup>&#128386;</sup>, Kristian Hanghøj, Rasmus Heller, Carsten Wiuf, Anders Albrechtsen "
+  link:
+    url: https://doi.org/10.1111/1755-0998.13830
+    display: Mol Ecol Resour 23(7) 2023
+  highlight: 1
+  software: https://github.com/popgenDK/apoh
+  name: APOH
+
+- title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
+  image: evalPCA.png
+  description: When do distances in a PCA reflex genetic ancestry? if two individuals cluster togeather does that mean they are some the same populations? Here we present a method that you can use to interpret you genetic PCA plot.
+  authors: Jan van Waaij* <sup>&#128386;</sup>, Song Li* , Genís Garcia-Erill* , Anders Albrechtsen, Carsten Wiuf<sup>&#128386;</sup>;
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37611212
+    display: "Genetics: 2023, 225(2); "
+  highlight: 1
+  software: https://github.com/popgenDK/evalPopStructure
+  name: evalPCA
+
+- title: "Fast and accurate out-of-core PCA framework for large scale biobank data. "
+  image: fig2.k40.png
+  description: A method for accurate PCA for large scale genetic data. Analyse millions of sites for all 500000 individuals in UKbiobank on your labtop
+  authors: Zilong Li<sup>&#128386;</sup>, Jonas Meisner, Anders Albrechtsen<sup>&#128386;</sup>
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/37620119
+    display: "Genome Res: 2023, 33(9);1599-1608"
+  highlight: 1
+  software: https://github.com/Zilong-Li/PCAone
+  name: PCAone
+  
+- title: "A novel splice-affecting HNF1A variant with large population impact on diabetes in Greenland"
+  image: gr3.jpg
+  description: The reported variant has the largest population impact of any previously reported variant within a MODY gene. Together with the recessive TBC1D4 variant, we show that close to 1 in 5 cases of diabetes (18%) in Greenland are associated with high-impact genetic variants compared to 1-3% in large populations. 
+  authors: Anne Cathrine Baun Thuesen* , Frederik Filip Stæger* , ..., Anders Albrechtsen<sup>&#128386;</sup>, Ida Moltke<sup>&#128386;</sup>, Torben Hansen<sup>&#128386;</sup>
+  link:
+    url: https://doi.org/10.1016/j.lanepe.2022.100529
+    display: "Lancet Reg Health Eur: 2023, 24;100529 "
+  highlight: 1
+  news2: news [press release](https://cbmr.ku.dk/news/2022/better-treatment-for-diabetes-greenland/), 
+
+- title: "An LDLR missense variant poses high risk of familial hypercholesterolemia in 30% of Greenlanders and offers potential of early cardiovascular disease intervention "
+  image: LDLR.png
+  description:  Due to its high frequency and large effect sizes, p.G137S has a marked population-level impact, increasing the risk of FH and cardiovascular disease for up to 30% of the Greenlandic population. Thus, p.G137S is a potential marker for early intervention in Arctic populations.  
+  authors: Emil Jørsboe, Mette K Andersen,..., Ida Moltke<sup>&#128386;</sup>, Anders Albrechtsen<sup>&#128386;</sup>, Torben Hansen<sup>&#128386;</sup>
+  link:
+    url: https://doi.org/10.1016/j.xhgg.2022.100118
+    display: "HGG Adv: 2022, 3(4);100118 "
+  highlight: 1
+  news2: see [press release](https://cbmr.ku.dk/news/2022/one-third-of-greenlanders-are-at-risk-for-high-cholesterol-and-cardiovascular-disease/)  and [interview in HGG advances](https://www.ashg.org/hgga/inside-hgg-advances-with-emil-jorsboe/), [polar journal](https://polarjournal.ch/en/2022/11/17/unique-form-of-diabetes-discovered-in-greenland/) [diabetes.co.uk](https://www.diabetes.co.uk/news/2022/nov/scientists-identify-new-genetic-variant-behind-a-type-of-diabetes-common-in-greenland.html)  [Sermitsiaq](https://sermitsiaq.ag/node/240811)
+
+- title: "Haplotype and population structure inference using neural networks in whole-genome sequencing data." 
+  image: caucasian.phased.haplonet.merged.anno.png
+  description: Using sequencing data from simulations and closely related human populations, we show that our approach is better at distinguishing closely related populations than standard admixture and principal component analysis software. We further show that HaploNet is fast and highly scalable by applying it to genotype array data of the UK Biobank. U
+  authors: Jonas Meisner<sup>&#128386;</sup>, Anders Albrechtsen
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/35794006
+    display: "Genome Res: 2022, 32(8);1542-52"
+  highlight: 1
+  software: https://github.com/Rosemeis/HaploNet
+  name: HaploNet
+
+- title: "Loss of Sucrase-Isomaltase Function Increases Acetate Levels and Improves Metabolic Health in Greenlandic Cohorts." 
+  image: SI.jpg
+  description: We show that the genetic variant leads to lower weigth in both human and mice, that is lowers triglycerides considerably and that it leads to a much higher plasma acetate levels suggesting that the gut microbiome is causing the effect
+  authors: Mette K Andersen* , Line Skotte* , Emil Jørsboe* ,...,Ida Moltke<sup>&#128386;</sup>, Torben Hansen<sup>&#128386;</sup>, Anders Albrechtsen<sup>&#128386;</sup>
+  link:
+    url: http://www.ncbi.nlm.nih.gov/pubmed/34914943
+    display: "Gastroenterology: 2022, 162(4);1171-1182.e3 "
+  highlight: 1
+  news1: Nicely written [Editorial](https://doi.org/10.1053/j.gastro.2022.01.006) by Johnny Le and Cholsoon Jang
+  news2: news [Daily mail](https://www.dailymail.co.uk/health/article-10348203/Up-3-Greenland-residents-rare-genetic-mutation-makes-sugary-food-healthy.html), [Polar journal](https://polarjournal.ch/en/2022/01/03/sugar-keeps-some-greenlanders-healthy/) , [Natural Habitat](https://www.nathab.com/blog/eating-sweets-is-healthy-for-greenlanders-yes/), [TV2 new in danish](https://nyheder.tv2.dk/samfund/2021-12-21-saerlig-befolkningsgruppe-bliver-sundere-af-at-spise-slik-viser-ny-forskning-fra-koebenhavns-universitet)
+
+- title: "Population genomics of the muskox' resilience in the near absence of genetic variation"
+  image: none.png
+  description: none
+  authors: "Pečnerová P.; Lord E.; Garcia-Erill G.; Hanghøj K.; Rasmussen M.S.; Meisner J.; Liu X.; van der Valk T.; Santander C.G.; Quinn L.; Lin L.; Liu S.; Carøe C.; Dalerum F.; Götherström A.; Måsviken J.; Vartanyan S.; Raundrup K.; Al-Chaer A.; Rasmussen L.; Hvilsom C.; Heide-Jørgensen M.P.; Sinding M.-H.S.; Aastrup P.; Van Coeverden de Groot P.J.; Schmidt N.M.; Albrechtsen A.; Dalén L.; Heller R.; Moltke I.; Siegismund H.R."
+  link:
+    url: https://doi.org/10.1111/mec.17205
+    display: "Mol. Eco.(2023)"
+  highlight: 0
+  abstract: "Genomic studies of species threatened by extinction are providing crucial information about evolutionary mechanisms and genetic consequences of population declines and bottlenecks. However, to understand how species avoid the extinction vortex, insights can be drawn by studying species that thrive despite past declines. Here, we studied the population genomics of the muskox (Ovibos moschatus), an Ice Age relict that was at the brink of extinction for thousands of years at the end of the Pleistocene yet appears to be thriving today. We analysed 108 whole genomes, including present-day individuals representing the current native range of both muskox subspecies, the white-faced and the barren-ground muskox (O. moschatus wardi and O. moschatus moschatus) and a ~21,000-year-old ancient individual from Siberia. We found that the muskox' demographic history was profoundly shaped by past climate changes and post-glacial re-colonizations. In particular, the white-faced muskox has the lowest genome-wide heterozygosity recorded in an ungulate. Yet, there is no evidence of inbreeding depression in native muskox populations. We hypothesize that this can be explained by the effect of long-term gradual population declines that allowed for purging of strongly deleterious mutations. This study provides insights into how species with a history of population bottlenecks, small population sizes and low genetic diversity survive against all odds. "
+
+- title: "Genetic Loss of Sucrase-Isomaltase Function: Mechanisms, Implications, and Future Perspectives"
+  image: none.png
+  description: none
+  authors: "Senftleber N.K.; Ramne S.; Moltke I.; Jørgensen M.E.; Albrechtsen A.; Hansen T.; Andersen M.K."
+  link:
+    url: https://doi.org/10.2147/TACG.S401712
+    display: "Appl Clin Genet(2023)"
+  highlight: 0
+  abstract: "Genetic variants causing loss of sucrase-isomaltase (SI) function result in malabsorption of sucrose and starch components and the condition congenital sucrase-isomaltase deficiency (CSID). The identified genetic variants causing CSID are very rare in all surveyed populations around the globe, except the Arctic-specific c.273_274delAG loss-of-function (LoF) variant, which is common in the Greenlandic Inuit and other Arctic populations. In these populations, it is, therefore, possible to study people with loss of SI function in an unbiased way to elucidate the physiological function of SI, and investigate both short-term and long-term health effects of reduced small intestinal digestion of sucrose and starch. Importantly, a recent study of the LoF variant in Greenlanders reported that adult homozygous carriers have a markedly healthier metabolic profile. These findings indicate that SI inhibition could potentially improve metabolic health also in individuals not carrying the LoF variant, which is of great interest considering the massive number of individuals with obesity and type 2 diabetes worldwide. Therefore, the objectives of this review, are 1) to describe the biological role of SI, 2) to describe the metabolic impact of the Arctic SI LoF variant, 3) to reflect on potential mechanisms linking reduced SI function to metabolic health, and 4) to discuss what knowledge is necessary to properly evaluate whether SI inhibition is a potential therapeutic target for improving cardiometabolic health. "
+
+- title: "Identifying the genetic causes of phenotypically diagnosed Pakistani mucopolysaccharidoses patients by whole genome sequencing"
+  image: none.png
+  description: none
+  authors: "Gul R.; Firasat S.; Schubert M.; Ullah A.; Peña E.; Thuesen A.C.B.; Hussain M.; Staeger F.F.; Gjesing A.P.; Albrechtsen A.; Hansen T."
+  link:
+    url: https://doi.org/10.3389/fgene.2023.1128850
+    display: "Front. genet(2023)"
+  highlight: 0
+  abstract: "Background: Lysosomal storage disorders (LSDs) are a group of inherited metabolic diseases, which encompass more than 50 different subtypes of pathologies. These disorders are caused by defects in lysosomal enzymes, transporters, and other non-lysosomal proteins. Mucopolysaccharidosis (MPS) is the most common subgroup of lysosomal storage disorders in which the body is unable to properly breakdown mucopolysaccharides. The aim of the present study was to identify novel genes and pathogenic variants in families from diverse regions of Pakistan with clinically diagnosed mucopolysaccharidosis type I and mucopolysaccharidosis type II. Methods: Clinical diagnosis identified 12 with mucopolysaccharidosis I and 2 with mucopolysaccharidosis II in 14 families and whole genome sequencing (WGS) was performed to identify the causative variations in 15 affected individuals. Twenty-two unaffected individuals including parents or normal siblings of patients were also sequenced. Putative causal variants were identified by co-segregation and functional annotation. Results: Analysis of whole genome sequencing data revealed ten novel and six previously reported variants in lysosomal storage disorders-associated genes (IDUA, GALNS, SGSH, GAA, IDS, ALDOB, TRAPPC4, MASP1, SMARCAL, KIAA1109, HERC1, RRAS2) and a novel candidate gene (ABCA5) for lysosomal storage disorder-like phenotypes, which has previously been associated with symptoms strongly related with lysosomal storage disorder in animal models. Conclusion: Multigenic inheritance was found in several families highlighting the importance of searching for homozygous pathogenic variants in several genes also in families with a high degree of consanguinity. Copyright "
+
+- title: "GWAS of lipids in Greenlanders finds association signals shared with Europeans and reveals an independent PCSK9 association signal"
+  image: none.png
+  description: none
+  authors: "Senftleber N.K.; Andersen M.K.; Jørsboe E.; Stæger F.F.; Nøhr A.K.; Garcia-Erill G.; Meisner J.; Santander C.G.; Balboa R.F.; Gilly A.; Bjerregaard P.; Larsen C.V.L.; Grarup N.; Jørgensen M.E.; Zeggini E.; Moltke I.; Hansen T.; Albrechtsen A."
+  link:
+    url: https://doi.org/10.1038/s41431-023-01485-8
+    display: "EJHG(2023)"
+  highlight: 0
+  abstract: "Perturbation of lipid homoeostasis is a major risk factor for cardiovascular disease (CVD), the leading cause of death worldwide. We aimed to identify genetic variants affecting lipid levels, and thereby risk of CVD, in Greenlanders. Genome-wide association studies (GWAS) of six blood lipids, triglycerides, LDL-cholesterol, HDL-cholesterol, total cholesterol, as well as apolipoproteins A1 and B, were performed in up to 4473 Greenlanders. For genome-wide significant variants, we also tested for associations with additional traits, including CVD events. We identified 11 genome-wide significant loci associated with lipid traits. Most of these loci were already known in Europeans, however, we found a potential causal variant near PCSK9 (rs12117661), which was independent of the known PCSK9 loss-of-function variant (rs11491147). rs12117661 was associated with lower LDL-cholesterol (βSD(SE) = −0.22 (0.03), p = 6.5 × 10−12) and total cholesterol (−0.17 (0.03), p = 1.1 × 10−8) in the Greenlandic study population. Similar associations were observed in Europeans from the UK Biobank, where the variant was also associated with a lower risk of CVD outcomes. Moreover, rs12117661 was a top eQTL for PCSK9 across tissues in European data from the GTEx portal, and was located in a predicted regulatory element, supporting a possible causal impact on PCSK9 expression. Combined, the 11 GWAS signals explained up to 16.3% of the variance of the lipid traits. This suggests that the genetic architecture of lipid levels in Greenlanders is different from Europeans, with fewer variants explaining the variance. [Figure not available: see fulltext.]. "
+
+- title: "Colonialism in South Africa leaves a lasting legacy of reduced genetic diversity in Cape buffalo"
+  image: none.png
+  description: none
+  authors: "Quinn L.; Garcia-Erill G.; Santander C.; Brüniche-Olsen A.; Liu X.; Sinding M.-H.S.; Heaton M.P.; Smith T.P.L.; Pečnerová P.; Bertola L.D.; Hanghøj K.; Rasmussen M.S.; de Jager D.; Siegismund H.R.; Albrechtsen A.; Heller R.; Moltke I."
+  link:
+    url: https://doi.org/10.1111/mec.16851
+    display: "Mol. Eco.(2023)"
+  highlight: 0
+  abstract: "The iconic Cape buffalo has experienced several documented population declines in recent history. These declines have been largely attributed to the late 19th century rinderpest pandemic. However, the effect of the rinderpest pandemic on their genetic diversity remains contentious, and other factors that have potentially affected this diversity include environmental changes during the Pleistocene, range expansions and recent human activity. Motivated by this, we present analyses of whole genome sequencing data from 59 individuals from across the Cape buffalo range to assess present-day levels of genome-wide genetic diversity and what factors have influenced these levels. We found that the Cape buffalo has high average heterozygosity overall (0.40%), with the two southernmost populations having significantly lower heterozygosity levels (0.33% and 0.29%) on par with that of the domesticated water buffalo (0.29%). Interestingly, we found that these lower levels are probably due to recent inbreeding (average fraction of runs of homozygosity 23.7% and 19.9%) rather than factors further back in time during the Pleistocene. Moreover, detailed investigations of recent demographic history show that events across the past three centuries were the main drivers of the exceptional loss of genetic diversity in the southernmost populations, coincident with the onset of colonialism in the southern extreme of the Cape buffalo range. Hence, our results add to the growing body of studies suggesting that multiple recent human-mediated impacts during the colonial period caused massive losses of large mammal abundance in southern Africa. "
+
+- title: "Polygenic heterogeneity in antidepressant treatment and placebo response"
+  image: none.png
+  description: none
+  authors: "Nøhr A.K.; Forsingdal A.; Moltke I.; Howes O.D.; Vitezic M.; Albrechtsen A.; Dalby M."
+  link:
+    url: https://doi.org/10.1038/s41398-022-02221-4
+    display: "Transl. Psychiatry(2022)"
+  highlight: 0
+  abstract: "The genetic architecture of antidepressant response is poorly understood. Polygenic risk scores (PRS), exploration of placebo response and the use of sub-scales might provide insights. Here, we investigate the association between PRSs for relevant complex traits and response to vortioxetine treatment and placebo using clinical scales, including sub-scales and self-reported assessments. We collected a clinical test sample of Major Depressive Disorder (MDD) patients treated with vortioxetine (N = 907) or placebo (N = 455) from seven randomized, double-blind, clinical trials. In parallel, we obtained data from an observational web-based study of vortioxetine-treated patients (N = 642) with self-reported response. PRSs for antidepressant response, psychiatric disorders, and symptom traits were derived using summary statistics from well-powered genome-wide association studies (GWAS). Association tests were performed between the PRSs and treatment response in each of the two test samples and empirical p-values were evaluated. In the clinical test sample, no PRSs were significantly associated with response to vortioxetine treatment or placebo following Bonferroni correction. However, clinically assessed treatment response PRS was nominally associated with vortioxetine treatment and placebo response given by several secondary outcome scales (improvement on HAM-A, HAM-A Psychic Anxiety sub-scale, CPFQ & PDQ), (P ≤ 0.026). Further, higher subjective well-being PRS (P ≤ 0.033) and lower depression PRS (P = 0.01) were nominally associated with higher placebo response. In the self-reported test sample, higher schizophrenia PRS was significantly associated with poorer self-reported response (P = 0.0001). The identified PRSs explain a low proportion of the variance (1.2–5.3%) in placebo and treatment response. Although the results were limited, we believe that PRS associations bear unredeemed potential as a predictor for treatment response, as more well-powered and phenotypically similar GWAS bases become available. "
+
+- title: "Warthog Genomes Resolve an Evolutionary Conundrum and Reveal Introgression of Disease Resistance Genes"
+  image: none.png
+  description: none
+  authors: "Garcia-Erill G.; Jørgensen C.H.F.; Muwanika V.B.; Wang X.; Rasmussen M.S.; De Jong Y.A.; Gaubert P.; Olayemi A.; Salmona J.; Butynski T.M.; Bertola L.D.; Siegismund H.R.; Albrechtsen A.; Heller R."
+  link:
+    url: https://doi.org/10.1093/molbev/msac134
+    display: "Mol Biol Evol(2022)"
+  highlight: 0
+  abstract: "African wild pigs have a contentious evolutionary and biogeographic history. Until recently, desert warthog (Phacochoerus aethiopicus) and common warthog (P. africanus) were considered a single species. Molecular evidence surprisingly suggested they diverged at least 4.4 million years ago, and possibly outside of Africa. We sequenced the first whole-genomes of four desert warthogs and 35 common warthogs from throughout their range. We show that these two species diverged much later than previously estimated, 400,000-1,700,000 years ago depending on assumptions of gene flow. This brings it into agreement with the paleontological record. We found that the common warthog originated in western Africa and subsequently colonized eastern and southern Africa. During this range expansion, the common warthog interbred with the desert warthog, presumably in eastern Africa, underlining this region's importance in African biogeography. We found that immune system-related genes may have adaptively introgressed into common warthogs, indicating that resistance to novel diseases was one of the most potent drivers of evolution as common warthogs expanded their range. Hence, we solve some of the key controversies surrounding warthog evolution and reveal a complex evolutionary history involving range expansion, introgression, and adaptation to new diseases.  "
+
+- title: "Joint identification of sex and sex-linked scaffolds in non-model organisms using low depth sequencing data"
+  image: SATC.png
+  description: Framework for joint determination of individual sex and sex-linked scaffolds for non-model organism based on depth of coverage 
+  authors: "Nursyifa C.* ; Brüniche-Olsen A.* ; Garcia-Erill G.; Heller R.<sup>&#128386;</sup>; Albrechtsen A.<sup>&#128386;</sup>"
+  link:
+    url: https://doi.org/10.1111/1755-0998.13491
+    display: "Mol. Eco. res(2022)"
+  highlight: 1
+  abstract: "Being able to assign sex to individuals and identify autosomal and sex-linked scaffolds are essential in most population genomic analyses. Non-model organisms often have genome assemblies at scaffold-level and lack characterization of sex-linked scaffolds. Previous methods to identify sex and sex-linked scaffolds have relied on synteny between the non-model organism and a closely related species or prior knowledge about the sex of the samples to identify sex-linked scaffolds. In the latter case, the difference in depth of coverage between the autosomes and the sex chromosomes are used. Here, we present “sex assignment through coverage” (SATC), a method to assign sex to samples and identify sex-linked scaffolds from next generation sequencing (NGS) data. The method works for species with a homogametic/heterogametic sex determination system and only requires a scaffold-level reference assembly and sampling of both sexes with whole genome sequencing (WGS) data. We use the sequencing depth distribution across scaffolds to jointly identify: (i) male and female individuals, and (ii) sex-linked scaffolds. This is achieved through projecting the scaffold depths into a low-dimensional space using principal component analysis (PCA) and subsequent Gaussian mixture clustering. We demonstrate the applicability of our method using data from five mammal species and a bird species complex. The method is freely available at https://github.com/popgenDK/SATC as R code and a graphical user interface (GUI). "
+  software: https://github.com/popgenDK/SATC
+  name: SATC

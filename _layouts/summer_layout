@@ -8,5 +8,5 @@ layout: default
 	{{ content }}
   </div>
   <div id="summer_side_id" class="col-sm-4" >
-	{% include side.html %}
+	{% include summer_side.html %}
   </div>

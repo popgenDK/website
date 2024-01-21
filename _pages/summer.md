@@ -1,6 +1,6 @@
 ---
 title: "Popgen summer course"
-layout: summer_layout
+layout: gridlay
 excerpt: "Popgen summer course"
 sitemap: false
 permalink: /summer/

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+  <div id="summerid" class="col-sm-8">
+        <h1>Summer course 2024</h1>
+
+	{{ content }}
+  </div>
+  <div id="summer_side_id" class="col-sm-4" >
+	{% include side.html %}
+  </div>

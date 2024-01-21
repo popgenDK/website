@@ -9,16 +9,12 @@
   news2: Popular articles [bnn breaking](https://bnnbreaking.com/tech/science-tech/genetic-study-questions-classification-of-african-bushpigs-and-red-river-hogs/), [DR news in Danish](https://www.dr.dk/nyheder/seneste/danske-forskere-loeser-gaaden-om-penselsvin-paa-madagaskar) [Le Monde in French](https://www.lemonde.fr/sciences/article/2024/01/07/le-potamochere-temoin-de-l-histoire-malgache_6209544_1650684.html)
   github: https://github.com/popgenDK/seqAfrica_bushpigs
   
-- title: "Estimating admixture pedigrees of recent hybrids without a contiguous reference genome"
-  image: apoh.png
+- title: Professor, department of biology, UCPH 
+  image: AA2.png
   description: How to infer the ancestry of an admixed individuals pedigree. 
-  authors: "Genís Garcia-Erill<sup>&#128386;</sup>, Kristian Hanghøj, Rasmus Heller, Carsten Wiuf, Anders Albrechtsen "
-  link:
-    url: https://doi.org/10.1111/1755-0998.13830
-    display: Mol Ecol Resour 23(7) 2023
   highlight: 1
-  software: https://github.com/popgenDK/apoh
-  name: APOH
+  website: https://website.popgen.dk/
+  name: Anders Albrechtsen
 
 - title: " Evaluation of population structure inferred by principal component analysis or the admixture model."
   image: evalPCA.png

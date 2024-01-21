@@ -40,10 +40,10 @@ After the course the student should be able to:
 
 
 {% assign number_printed = 0 %}
-{% for software in site.data.publist %}
+{% for yml in site.data.summer %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if summer.highlight == 1 %}
+{% if yml.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -51,13 +51,13 @@ After the course the student should be able to:
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  {% if summer.name %}
-  <h2>{{ summer.name }}</h2>
+  {% if yml.name %}
+  <h2>{{ yml.name }}</h2>
   {% endif %}
-  <pubtit>{{ summer.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ summer.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ summer.description }}</p>
-  <p><strong><a href="{{ summer.website }}">software website</a></strong></p>  
+  <pubtit>{{ yml.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ yml.description }}</p>
+  <p><strong><a href="{{ yml.website }}">software website</a></strong></p>  
  </div>
 </div>
 

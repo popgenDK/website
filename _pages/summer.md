@@ -8,6 +8,48 @@ permalink: /summer/
 
 
 # Summer course in analysis of high throughput data for population genetics 2024
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/tp.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sikoraPlot.jpeg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ruteFig.jpg" alt="Slide 6" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 
 ## General info
@@ -57,7 +99,7 @@ After the course the student should be able to:
   <pubtit>{{ yml.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ yml.description }}</p>
-  <p><strong><a href="{{ yml.website }}">software website</a></strong></p>  
+  <p><strong><a href="{{ yml.website }}">website</a></strong></p>  
  </div>
 </div>
 
@@ -90,7 +132,7 @@ Course material
 The lecture will be based on a large amount of reading material (articles/notes) that should be read in advance - you can find them here once they are finalized (you will get an email with password). The slides used during the lectures will be made available right before the lectures.
 
 
-Last years Program (2023)
+# Last years Program (2023)
 ### Monday - Introduction to population genetics and NGS data
 
     09:00 - 09:15 Welcome (Ida Moltke)

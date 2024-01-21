@@ -93,13 +93,10 @@ After the course the student should be able to:
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  {% if yml.name %}
   <h2>{{ yml.name }}</h2>
-  {% endif %}
   <pubtit>{{ yml.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ yml.description }}</p>
-  <p><strong><a href="{{ yml.website }}">website</a></strong></p>  
+  <p>{{ yml.description }} <strong><a href="{{ yml.website }}">website</a></strong></p>  
  </div>
 </div>
 

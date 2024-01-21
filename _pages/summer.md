@@ -12,36 +12,72 @@ permalink: /summer/
 
 ## General info
 
-Date: August 7-11 2023
-Place: Copenhagen Denmark
-Organized by: The Department of Biology and the Globe Institute, University of Copenhagen (Fernando Racimo, Anders Albrechtsen and Ida Moltke)
-Price: Free for all PhD students at Danish universities. 200 Euro for all other students.
-Includes: All teaching. Food and accommodation are NOT included in the course fee.
-Contact and sign up: To signup please fill in the questionaere, for questions write to cphsummercourse@gmail.com
-Credit and diploma The course is 4 ETCS credits and you will recieve a diploma
+**Date:** August 7-11 2023 <br/>
+**Place:** Copenhagen Denmark  <br/>
+**Organized by:** The Department of Biology and the Globe Institute, University of Copenhagen ( Anders Albrechtsen and Ida Moltke)  <br/>
+**Price:** Free for all PhD students at Danish universities. 200 Euro for all other students. <br/>
+**Includes:** All teaching. Food and accommodation are NOT included in the course fee. <br/>
+**Contact and sign up:** To signup please fill in the questionaere, for questions write to cphsummercourse@gmail.com  <br/>
+**Credit and diploma:** The course is 4 ETCS credits and you will recieve a diploma  <br/>
 
 # Content
 
 The course is a comprehensive introduction to a number of topics and common research tools used in analyses of next-generation sequencing (NGS) data. Topics include: genetic drift, natural selection, population structure, recent and ancient admixture, spatial genetics, f-statistics and demographic inference and simulations. We will cover the theoretical concepts but the main focus is practical use of the methods. Lectures will be combined with hands-on computer exercises.
-Intended Learning Outcome
+
+## Intended Learning Outcome
 
 After the course the student should be able to:
 
-    Use population genetic theory to infer basic population genetics characteristics from genetic data
-    Be able to infer ancestry and population structure based on genetic data
-    Use NGS data including low depth for population genetic inference.
-    Select the optimal strategy for selection scans depending on the population genetics characteristics of the sample population, including taking population structure into account
-    Interpret and discuss the results of own analyses and results in the scientific literature
+- Use population genetic theory to infer basic population genetics characteristics from genetic data
+- Be able to infer ancestry and population structure based on genetic data
+- Use NGS data including low depth for population genetic inference.
+- Select the optimal strategy for selection scans depending on the population genetics characteristics of the sample population, including taking population structure into account
+- Interpret and discuss the results of own analyses and results in the scientific literature
 
 ## Instructors
 
-    Rute R. Fonseca, Associate Professor at Center for macroecolgy, University of Copenhagen, DK.
-    Benjamin Peter, Group leader, Max Planck Institute for Evolutionary, Germany
-    Shyam Gopalakrishnan Associate Professor, Globe Institute, University of Copenhagen, DK
-    Fernando Racimo, Group leader, Globe Institute, University of Copenhagen, Denmark
-    Anders Albrechtsen, Group leader, Department of Biology, University of Copenhagen, DK
-    Ida Moltke, Group leader, Department of Biology, University of Copenhagen, DK
-    Martin Petr, Post Doc, Globe Institute, University of Copenhagen, Denmark
+
+
+
+{% assign number_printed = 0 %}
+{% for software in site.data.publist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if summer.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  {% if summer.name %}
+  <h2>{{ summer.name }}</h2>
+  {% endif %}
+  <pubtit>{{ summer.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ summer.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ summer.description }}</p>
+  <p><strong><a href="{{ summer.website }}">software website</a></strong></p>  
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+
 
 ## Time and place
 

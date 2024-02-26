@@ -54,12 +54,12 @@ permalink: /summer/
 
 ## General info
 
-**Date:** August 7-11 2023 <br/>
+**Date:** August 19-23, 2024 <br/>
 **Place:** Copenhagen Denmark  <br/>
 **Organized by:** The Department of Biology, University of Copenhagen <br/>
 **Price:** Free for all PhD students at Danish universities. 200 Euro for all other students. <br/>
 **Includes:** All teaching. Food and accommodation are NOT included in the course fee. <br/>
-**Sign up:** Signup not open yet  <br/>
+**Sign up:** [Signup by filling in this form](https://forms.gle/QgwWKwoh5edoRQso6)  <br/>
 **Contact:** For questions write to cphsummercourse@gmail.com  <br/>
 **Credit and diploma:** The course is 4 ETCS credits and you will recieve a diploma  <br/>
 
@@ -119,7 +119,7 @@ After the course the student should be able to:
 
 ## Time and place
 
-The course will take place from Monday August 7 to Friday August 11th 2023 at Biocenteret, Ole Maaloes Vej 5, 2200 Copenhagen N. All lectures and computer exercises will take place in room 4.0.24 (i.e. building 4, ground floor, room number 24). This includes research talks. You can enter the buiding from two sides as shown shown on this map.
+The course will take place from Monday August 19 to Friday August 23rd 2024 at Biocenteret, Ole Maaloes Vej 5, 2200 Copenhagen N. All lectures and computer exercises will take place in room 4.0.24 (i.e. building 4, ground floor, room number 24). This includes research talks. You can enter the buiding from two sides as shown shown on this map.
 Laptop
 
 You should bring a laptop to the course. We will log into a remote server from the laptop so any laptop will do regardless of operating system.
@@ -128,16 +128,16 @@ Course material
 The lecture will be based on a large amount of reading material (articles/notes) that should be read in advance - you can find them here once they are finalized (you will get an email with password). The slides used during the lectures will be made available right before the lectures.
 
 
-# Last years Program (2023)
+# Program (Preliminary)
 ### Monday - Introduction to population genetics and NGS data
 
     09:00 - 09:15 Welcome (Ida Moltke)
     09:15 - 10:15 Lecture 1: Introduction to basic population genetic terms and concepts (Fernando Racimo)
     10:30 - 12:00 Computer exercises I
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 2: Introduction to basic NGS data, Data processing, and formats (Rute Fonseca)
+    01:00 - 02:15 Lecture 2: Introduction to basic NGS data, Data processing, and formats (Anders Albrechtsen)
     02:30 - 03:15 Computer exercises II
-    03:30 - 04:15 Research lecture by Rute Fonseca. Title: Searching for genomic signatures of early domestication in Maize
+    03:30 - 04:15 Research lecture by TBD. Title: 
     04:30 - 07:00 Reception/social mixer
 
 ### Tuesday - Analysis of NGS data and population structure
@@ -145,32 +145,32 @@ The lecture will be based on a large amount of reading material (articles/notes)
     09:00 - 10:15 Lecture 3: Estimation of allele frequencies, SNP calling and genotype calling from NGS data (Anders Albrechtsen)
     10:30 - 12:00 Computer exercises III
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 4: Inference of population structure (Ida Moltke)
+    01:00 - 02:15 Lecture 4: Population structure and admixture(Ida Moltke)
     02:30 - 04:00 Computer exercises IV
-    04:15 - 05:00 Research lecture by Rasmus heller, Title: Admixture between wild and domestic Asian bovines
+    04:15 - 05:00 Research lecture by TBD, Title: 
     Canal boat trip
 
 ### Wednesday - Population structure
 
-    09:00 - 10:15 Lecture 5: Inference of Population structure II(Anders Albrechtsen)
+    09:00 - 10:15 Lecture 5: PCA in population genetics (Anders Albrechtsen)
     10:30 - 12:00 Computer exercises V
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 6: D/f/F statistics (Ben Peter)
+    01:00 - 02:15 Lecture 6: D/f statistics and ancient geneflow(Martin Sikora)
     02:30 - 04:00 Computer exercises VI
-    04:15 - 05:00 Research lecture by Hannes Schroeder Title: Genomic perspectives on the early peopling of the Caribbean
+    04:15 - 05:00 Research lecture by TBD Title: 
 
 ### Thursday – admixture graphs and selection
 
-    09:00 - 10:15 Lecture 7: Admixture graph (Ben Peter)
+    09:00 - 10:15 Lecture 7: Finestructure (Garrett Hellenthal)
     10:30 - 12:00 Computer exercises VII
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 8: Detecting genomic regions under (positive) selection with NGS data (Rute Fonseca)
+    01:00 - 02:15 Lecture 8: Detecting genomic regions under (positive) selection (Cindy Santander)
     02:30 - 04:00 Computer exercises VIII
-    04:15 - 05:00 Research lecture by Benjamin Peter Title: Towards computational approaches to study non-discrete population structure
+    04:15 - 05:00 Research lecture by TBD Title: 
 
 ### Friday - Demography and simulations
 
-    09:00 - 10:15 Lecture 9: Simulations in population genetics (Martin Petr)
+    09:00 - 10:15 Lecture 9: Dating admixture and selection in admixted indivudals  (Garrett Hellenthal)
     10:30 - 12:00 Computer exercises IX
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 10: Demography Inference( Shyam Gopalakrishnan)
@@ -180,4 +180,4 @@ The lecture will be based on a large amount of reading material (articles/notes)
 
 ## Evaluation
 
-Participants who have participated actively in all parts of the course and completed all exercises satisfactorily will be awarded a certificate of completion at the end of the course. The work load corresponds to 5 ECTS points. Note that this workload includes one week of preparation. Reading material for this is available in the above course program. The online participants of the course will not recieve the ECTS points but will still recieve a diploma.
+Participants who have participated actively in all parts of the course and completed all exercises satisfactorily will be awarded a certificate of completion at the end of the course. The work load corresponds to 4 ECTS points. Note that this workload includes one week of preparation. Reading material for this is available in the above course program. 

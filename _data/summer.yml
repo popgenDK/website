@@ -2,9 +2,17 @@
   image: RF.jpg
   description: Interested in gene evolution across various time scales, ranging from recent domestication events to differences between vertebrates and invertebrates.  
   name: Rute da Fonseca
-  highlight: 1
+  highlight: 0
   website: https://rutefonseca.wixsite.com/bioinformatics
 
+
+- title: "Assistant professor, Cindy Santanderm UCPH"
+  image: cindy.jpeg
+  highlight: 1
+  description: Works on detecting selection after brief strong selection such as epidemics using ancient genetic data.
+  website: https://scholar.google.co.uk/citations?user=BpA3Xa8AAAAJ&hl=en
+  name: Cindy Santander
+  
 - title: "Associate Professor, Genetics, Evolution & Environment, University College London"
   image: GarrettPortrait.jpg
   highlight: 1

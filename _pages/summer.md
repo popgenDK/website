@@ -175,7 +175,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 10: Demography Inference( Shyam Gopalakrishnan)
     02:30 - 04:00 Computer exercises X
-    04:15 - 05:00 Research lecture by Cindy Santander Title: Detecting epidemic-driven selection: a simulation-based approach to optimal sampling design and analysis strategies
+    04:15 - 05:00 Research lecture by TBD
     05:00 - ? Farewell drinks
 
 ## Evaluation

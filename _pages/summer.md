@@ -38,7 +38,7 @@ permalink: /summer/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/sikoraPlot.jpeg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ruteFig.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/plaque.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

@@ -24,6 +24,7 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
+  <meta charset="utf-8"> 
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>

@@ -179,7 +179,7 @@
   news2: journal highlight [NEWS AND VIEWS](https://doi.org/10.1111/1755-0998.13530)
 
 - title: "Estimation of site frequency spectra from low-coverage sequencing data using stochastic EM reduces overfitting, runtime, and memory usage"
-  image: winSFS.png
+  image: generic.jpeg
   description: Inference of the site frequency spectrum (SFS) from low-depth sequencing data. 
   authors: "Rasmussen M.S.; Garcia-Erill G.; Korneliussen T.S.; Wiuf C.; Albrechtsen A."
   link:
@@ -232,7 +232,7 @@
 
 - title: "The genetic history of Greenlandic-European contact"
   image: generic.jpeg
-  description: Which European ancestors have contributed to the genomes of modern day Greenlanders
+  description: Which European ancestors have contributed to the genomes of modern day Greenlanders? The dutch?. The basque?, the Germans? Despite diverse contact almost all of the European genetic ancestry comes from Denmark. 
   authors: "Waples R.K.; Hauptmann A.L.; Seiding I.; Jørsboe E.; Jørgensen M.E.; Grarup N.; Andersen M.K.; Larsen C.V.L.; Bjerregaard P.; Hellenthal G.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.cub.2021.02.041
@@ -292,7 +292,7 @@
 
 - title: "Large-scale inference of population structure in presence of missingness using PCA"
   image: EMU.png
-  description: PCA with missingness including having samples with non overlapping data
+  description: PCA with rampant missingness including having samples with non overlapping data
   authors: "Meisner J.; Liu S.; Huang M.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btab027
@@ -316,7 +316,7 @@
 
 - title: "Evaluation of model fit of inferred admixture proportions"
   image: evalAdmix.png
-  description: Evaluaation your estimated admixture proportions.
+  description: Evaluation your estimated admixture proportions. When running ADMIXTURE or NGSadmix you can evaluate the results. 
   authors: "Garcia-Erill G.; Albrechtsen A."
   link:
     url: https://doi.org/10.1111/1755-0998.13171
@@ -502,7 +502,7 @@
 
 - title: "Inferring population structure and admixture proportions in low-depth NGS data"
   image: PCAngsd.gif
-  description: PCA, admixture proportions, HWE or selection scans from low depth sequencings data while accomidating population structure
+  description: PCAngsd: PCA, admixture proportions, HWE or selection scans from low depth sequencings data while accomidating population structure
   authors: "Meisner J.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.118.301336

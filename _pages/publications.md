@@ -28,8 +28,8 @@ permalink: /publications/
  <div class="well">
   <meta charset="utf-8"> 
   <pubtit>{{ publi.title }}</pubtit>
-  <a href="{{ publi.link.url }}" target="blank">
-     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <a href="{{ publi.link.url }}" target="blank" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"  title="{{ publi.abstract }}" class="img-responsive" width="33%" style="float: left" />
    </a>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>

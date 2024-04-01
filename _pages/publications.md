@@ -62,7 +62,7 @@ permalink: /publications/
 ## Full List of publications
 [See google scholar for up to date publication list](https://scholar.google.com/citations?hl=en&user=20oVxFsAAAAJ&view_op=list_works&sortby=pubdate)
 
-{% assign pub_number_printed = site.data.publist.length %}
+{% assign pub_number_printed = 1 %}
 
 {% for publi in site.data.publist %}
   

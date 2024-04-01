@@ -128,7 +128,7 @@
 - title: "GWAS of lipids in Greenlanders finds association signals shared with Europeans and reveals an independent PCSK9 association signal"
   image: generic.jpeg
   description: none
-  authors: "Senftleber N.K.; Andersen M.K.; Jørsboe E.; Stæger F.F.; Nøhr A.K.; Garcia-Erill G.; Meisner J.; Santander C.G.; Balboa R.F.; Gilly A.; Bjerregaard P.; Larsen C.V.L.; Grarup N.; Jørgensen M.E.; Zeggini E.; Moltke I.; Hansen T.; Albrechtsen A."
+  authors: "Senftleber N.K.; Andersen M.K.; Jørsboe E.; Stæger F.F.; Nøhr A.K.; Garcia-Erill G.; Meisner J.; Santander C.G.; Balboa R.F.; Gilly A.; Bjerregaard P.; Larsen C.V.L.; Grarup N.; Jørgensen M.E.; Zeggini E.; Moltke I.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41431-023-01485-8
     display: "EJHG(2023)"
@@ -138,7 +138,7 @@
 - title: "Colonialism in South Africa leaves a lasting legacy of reduced genetic diversity in Cape buffalo"
   image: generic.jpeg
   description: none
-  authors: "Quinn L.; Garcia-Erill G.; Santander C.; Brüniche-Olsen A.; Liu X.; Sinding M.-H.S.; Heaton M.P.; Smith T.P.L.; Pečnerová P.; Bertola L.D.; Hanghøj K.; Rasmussen M.S.; de Jager D.; Siegismund H.R.; Albrechtsen A.; Heller R.; Moltke I."
+  authors: "Quinn L.; Garcia-Erill G.; Santander C.; Brüniche-Olsen A.; Liu X.; Sinding M.-H.S.; Heaton M.P.; Smith T.P.L.; Pečnerová P.; Bertola L.D.; Hanghøj K.; Rasmussen M.S.; de Jager D.; Siegismund H.R.; Albrechtsen A.<sup>&#128232;</sup>; Heller R.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1111/mec.16851
     display: "Mol. Eco.(2023)"
@@ -232,7 +232,7 @@
 - title: "The genetic history of Greenlandic-European contact"
   image: generic.jpeg
   description: Which European ancestors have contributed to the genomes of modern day Greenlanders
-  authors: "Waples R.K.; Hauptmann A.L.; Seiding I.; Jørsboe E.; Jørgensen M.E.; Grarup N.; Andersen M.K.; Larsen C.V.L.; Bjerregaard P.; Hellenthal G.; Hansen T.; Albrechtsen A.; Moltke I."
+  authors: "Waples R.K.; Hauptmann A.L.; Seiding I.; Jørsboe E.; Jørgensen M.E.; Grarup N.; Andersen M.K.; Larsen C.V.L.; Bjerregaard P.; Hellenthal G.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.cub.2021.02.041
     display: "Current Biology(2021)"
@@ -348,7 +348,7 @@
 - title: "The derived allele of a novel intergenic variant at chromosome 11 associates with lower body mass index and a favorable metabolic phenotype in Greenlanders"
   image: generic.jpeg
   description: none
-  authors: "Andersen M.K.; Jørsboe E.; Skotte L.; Hanghøj K.; Sandholt C.H.; Moltke I.; Grarup N.; Kern T.; Mahendran Y.; Søborg B.; Bjerregaard P.; Larsen C.V.L.; Dahl-Petersen I.K.; Tiwari H.K.; Feenstra B.; Koch A.; Wiener H.W.; Hopkins S.E.; Pedersen O.; Melbye M.; Boyer B.B.; Jørgensen M.E.; Albrechtsen A.; Hansen T."
+  authors: "Andersen M.K.; Jørsboe E.; Skotte L.; Hanghøj K.; Sandholt C.H.; Moltke I.; Grarup N.; Kern T.; Mahendran Y.; Søborg B.; Bjerregaard P.; Larsen C.V.L.; Dahl-Petersen I.K.; Tiwari H.K.; Feenstra B.; Koch A.; Wiener H.W.; Hopkins S.E.; Pedersen O.; Melbye M.; Boyer B.B.; Jørgensen M.E.; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1371/journal.pgen.1008544
     display: "PLoS Genetics(2020)"
@@ -368,7 +368,7 @@
 - title: "Genetic study of the Arctic CPT1A variant suggests that its effect on fatty acid levels is modulated by traditional Inuit diet"
   image: generic.jpeg
   description: none
-  authors: "Senftleber N.; Jørgensen M.E.; Jørsboe E.; Imamura F.; Forouhi N.G.; Larsen C.L.; Bjerregaard P.; Hansen T.; Albrechtsen A."
+  authors: "Senftleber N.; Jørgensen M.E.; Jørsboe E.; Imamura F.; Forouhi N.G.; Larsen C.L.; Bjerregaard P.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41431-020-0674-0
     display: "EJHG(2020)"
@@ -482,7 +482,7 @@
 - title: "Loss-of-function variants in ADCY3 increase risk of obesity and type 2 diabetes"
   image: ADCY3.png
   description: "We have identified a variant in ADCY3 (encoding adenylate cyclase 3) associated with markedly increased risk of obesity and type 2 diabetes in the Greenlandic population. The variant disrupts a splice acceptor site, and carriers have decreased ADCY3 RNA expression."
-  authors: "Grarup N.; Moltke I.; Andersen M.K.; Dalby M.; Vitting-Seerup K.; Kern T.; Mahendran Y.; Jørsboe E.; Larsen C.V.L.; Dahl-Petersen I.K.; Gilly A.; Suveges D.; Dedoussis G.; Zeggini E.; Pedersen O.; Andersson R.; Bjerregaard P.; Jørgensen M.E.; Albrechtsen A.; Hansen T."
+  authors: "Grarup N.; Moltke I.; Andersen M.K.; Dalby M.; Vitting-Seerup K.; Kern T.; Mahendran Y.; Jørsboe E.; Larsen C.V.L.; Dahl-Petersen I.K.; Gilly A.; Suveges D.; Dedoussis G.; Zeggini E.; Pedersen O.; Andersson R.; Bjerregaard P.; Jørgensen M.E.; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41588-017-0022-7
     display: "Nature Genetics(2018)"
@@ -492,7 +492,7 @@
 - title: "Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History"
   image: generic.jpeg
   description: "Whole-genome sequencing data from 141,431 Chinese women generated for non-invasive prenatal testing (NIPT) for population genetic structure, GWAS maternal and infectious traits. "
-  authors: "Liu S.; Huang S.; Chen F.; Zhao L.; Yuan Y.; Francis S.S.; Fang L.; Li Z.; Lin L.; Liu R.; Zhang Y.; Xu H.; Li S.; Zhou Y.; Davies R.W.; Liu Q.; Walters R.G.; Lin K.; Ju J.; Korneliussen T.; Yang M.A.; Fu Q.; Wang J.; Zhou L.; Krogh A.; Zhang H.; Wang W.; Chen Z.; Cai Z.; Yin Y.; Yang H.; Mao M.; Shendure J.; Wang J.; Albrechtsen A.; Jin X.; Nielsen R.; Xu X."
+  authors: "Liu S.; Huang S.; Chen F.; Zhao L.; Yuan Y.; Francis S.S.; Fang L.; Li Z.; Lin L.; Liu R.; Zhang Y.; Xu H.; Li S.; Zhou Y.; Davies R.W.; Liu Q.; Walters R.G.; Lin K.; Ju J.; Korneliussen T.; Yang M.A.; Fu Q.; Wang J.; Zhou L.; Krogh A.; Zhang H.; Wang W.; Chen Z.; Cai Z.; Yin Y.; Yang H.; Mao M.; Shendure J.; Wang J.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Jin X.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>; Xu X.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.cell.2018.08.016
     display: "Cell(2018)"
@@ -716,7 +716,7 @@
 - title: "Uncovering the genetic history of the present-day greenlandic population"
   image: generic.jpeg
   description: none
-  authors: "Moltke I.; Fumagalli M.; Korneliussen T.S.; Crawford J.E.; Bjerregaard P.; Jørgensen M.E.; Grarup N.; Gulløv H.C.; Linneberg A.; Pedersen O.; Hansen T.; Nielsen R.; Albrechtsen A."
+  authors: "Moltke I.; Fumagalli M.; Korneliussen T.S.; Crawford J.E.; Bjerregaard P.; Jørgensen M.E.; Grarup N.; Gulløv H.C.; Linneberg A.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.ajhg.2014.11.012
     display: "AJHG(2015)"
@@ -756,7 +756,7 @@
 - title: "Greenlandic Inuit show genetic signatures of diet and climate adaptation"
   image: generic.jpeg
   description: none
-  authors: "Fumagalli M.; Moltke I.; Grarup N.; Racimo F.; Bjerregaard P.; Jørgensen M.E.; Korneliussen T.S.; Gerbault P.; Skotte L.; Linneberg A.; Christensen C.; Brandslund I.; Jørgensen T.; Huerta-Sánchez E.; Schmidt E.B.; Pedersen O.; Hansen T.; Albrechtsen A.; Nielsen R."
+  authors: "Fumagalli M.; Moltke I.; Grarup N.; Racimo F.; Bjerregaard P.; Jørgensen M.E.; Korneliussen T.S.; Gerbault P.; Skotte L.; Linneberg A.; Christensen C.; Brandslund I.; Jørgensen T.; Huerta-Sánchez E.; Schmidt E.B.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1126/science.aab2319
     display: "Science(2015)"
@@ -888,7 +888,7 @@
 - title: "A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes"
   image: generic.jpeg
   description: none
-  authors: "Moltke I.; Grarup N.; Jørgensen M.E.; Bjerregaard P.; Treebak J.T.; Fumagalli M.; Korneliussen T.S.; Andersen M.A.; Nielsen T.S.; Krarup N.T.; Gjesing A.P.; Zierath J.R.; Linneberg A.; Wu X.; Sun G.; Jin X.; Al-Aama J.; Wang J.; Borch-Johnsen K.; Pedersen O.; Nielsen R.; Albrechtsen A.; Hansen T."
+  authors: "Moltke I.; Grarup N.; Jørgensen M.E.; Bjerregaard P.; Treebak J.T.; Fumagalli M.; Korneliussen T.S.; Andersen M.A.; Nielsen T.S.; Krarup N.T.; Gjesing A.P.; Zierath J.R.; Linneberg A.; Wu X.; Sun G.; Jin X.; Al-Aama J.; Wang J.; Borch-Johnsen K.; Pedersen O.; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/nature13425
     display: "Nature(2014)"
@@ -1100,7 +1100,7 @@
 - title: "Natural selection and the distribution of identity-by-descent in the human genome"
   image: generic.jpeg
   description: none
-  authors: "Albrechtsen A.; Moltke I.; Nielsen R."
+  authors: "Albrechtsen A.*; Moltke I.*; Nielsen R."
   link:
     url: https://doi.org/10.1534/genetics.110.113977
     display: "Genetics(2010)"
@@ -1232,7 +1232,7 @@
 - title: "Genetic variant near IRS1 is associated with type 2 diabetes, insulin resistance and hyperinsulinemia"
   image: generic.jpeg
   description: none
-  authors: "Rung J.; Cauchi S.; Albrechtsen A.; Shen L.; Rocheleau G.; Cavalcanti-Proença C.; Bacot F.; Balkau B.; Belisle A.; Borch-Johnsen K.; Charpentier G.; Dina C.; Durand E.; Elliott P.; Hadjadj S.; Järvelin M.-R.; Laitinen J.; Lauritzen T.; Marre M.; Mazur A.; Meyre D.; Montpetit A.; Pisinger C.; Posner B.; Poulsen P.; Pouta A.; Prentki M.; Ribel-Madsen R.; Ruokonen A.; Sandbaek A.; Serre D.; Tichet J.; Vaxillaire M.; Wojtaszewski J.F.P.; Vaag A.; Hansen T.; Polychronakos C.; Pedersen O.; Froguel P.; Sladek R."
+  authors: "Rung J.*; Cauchi S.*; Albrechtsen A.*; Shen L.; Rocheleau G.; Cavalcanti-Proença C.; Bacot F.; Balkau B.; Belisle A.; Borch-Johnsen K.; Charpentier G.; Dina C.; Durand E.; Elliott P.; Hadjadj S.; Järvelin M.-R.; Laitinen J.; Lauritzen T.; Marre M.; Mazur A.; Meyre D.; Montpetit A.; Pisinger C.; Posner B.; Poulsen P.; Pouta A.; Prentki M.; Ribel-Madsen R.; Ruokonen A.; Sandbaek A.; Serre D.; Tichet J.; Vaxillaire M.; Wojtaszewski J.F.P.; Vaag A.; Hansen T.; Polychronakos C.; Pedersen O.; Froguel P.; Sladek R."
   link:
     url: https://doi.org/10.1038/ng.443
     display: "Nature Genetics(2009)"

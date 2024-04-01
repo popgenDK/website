@@ -502,7 +502,7 @@
 
 - title: "Inferring population structure and admixture proportions in low-depth NGS data"
   image: PCAngsd.gif
-  description: PCAngsd: PCA, admixture proportions, HWE or selection scans from low depth sequencings data while accomidating population structure
+  description: "PCAngsd: PCA, admixture proportions, HWE or selection scans from low depth sequencings data while accomidating population structure"
   authors: "Meisner J.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.118.301336

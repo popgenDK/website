@@ -97,7 +97,7 @@
 
 - title: "Population genomics of the muskox' resilience in the near absence of genetic variation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Pečnerová P.; Lord E.; Garcia-Erill G.; Hanghøj K.; Rasmussen M.S.; Meisner J.; Liu X.; van der Valk T.; Santander C.G.; Quinn L.; Lin L.; Liu S.; Carøe C.; Dalerum F.; Götherström A.; Måsviken J.; Vartanyan S.; Raundrup K.; Al-Chaer A.; Rasmussen L.; Hvilsom C.; Heide-Jørgensen M.P.; Sinding M.-H.S.; Aastrup P.; Van Coeverden de Groot P.J.; Schmidt N.M.; Albrechtsen A.; Dalén L.; Heller R.; Moltke I.; Siegismund H.R."
   link:
     url: https://doi.org/10.1111/mec.17205
@@ -107,7 +107,7 @@
 
 - title: "Genetic Loss of Sucrase-Isomaltase Function: Mechanisms, Implications, and Future Perspectives"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Senftleber N.K.; Ramne S.; Moltke I.; Jørgensen M.E.; Albrechtsen A.; Hansen T.; Andersen M.K."
   link:
     url: https://doi.org/10.2147/TACG.S401712
@@ -117,7 +117,7 @@
 
 - title: "Identifying the genetic causes of phenotypically diagnosed Pakistani mucopolysaccharidoses patients by whole genome sequencing"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Gul R.; Firasat S.; Schubert M.; Ullah A.; Peña E.; Thuesen A.C.B.; Hussain M.; Staeger F.F.; Gjesing A.P.; Albrechtsen A.; Hansen T."
   link:
     url: https://doi.org/10.3389/fgene.2023.1128850
@@ -127,7 +127,7 @@
 
 - title: "GWAS of lipids in Greenlanders finds association signals shared with Europeans and reveals an independent PCSK9 association signal"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Senftleber N.K.; Andersen M.K.; Jørsboe E.; Stæger F.F.; Nøhr A.K.; Garcia-Erill G.; Meisner J.; Santander C.G.; Balboa R.F.; Gilly A.; Bjerregaard P.; Larsen C.V.L.; Grarup N.; Jørgensen M.E.; Zeggini E.; Moltke I.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41431-023-01485-8
@@ -137,7 +137,7 @@
 
 - title: "Colonialism in South Africa leaves a lasting legacy of reduced genetic diversity in Cape buffalo"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Quinn L.; Garcia-Erill G.; Santander C.; Brüniche-Olsen A.; Liu X.; Sinding M.-H.S.; Heaton M.P.; Smith T.P.L.; Pečnerová P.; Bertola L.D.; Hanghøj K.; Rasmussen M.S.; de Jager D.; Siegismund H.R.; Albrechtsen A.<sup>&#128232;</sup>; Heller R.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1111/mec.16851
@@ -147,7 +147,7 @@
 
 - title: "Polygenic heterogeneity in antidepressant treatment and placebo response"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nøhr A.K.; Forsingdal A.; Moltke I.; Howes O.D.; Vitezic M.; Albrechtsen A.; Dalby M."
   link:
     url: https://doi.org/10.1038/s41398-022-02221-4
@@ -157,7 +157,7 @@
 
 - title: "Warthog Genomes Resolve an Evolutionary Conundrum and Reveal Introgression of Disease Resistance Genes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Garcia-Erill G.; Jørgensen C.H.F.; Muwanika V.B.; Wang X.; Rasmussen M.S.; De Jong Y.A.; Gaubert P.; Olayemi A.; Salmona J.; Butynski T.M.; Bertola L.D.; Siegismund H.R.; Albrechtsen A.; Heller R."
   link:
     url: https://doi.org/10.1093/molbev/msac134
@@ -191,7 +191,7 @@
 
 - title: "Efficient approaches for large-scale GWAS with genotype uncertainty"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Jørsboe E.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/G3JOURNAL/JKAB385
@@ -201,7 +201,7 @@
 
 - title: "Life-threatening viral disease in a novel form of autosomal recessive IFNAR2 deficiency in the Arctic"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Duncan C.J.A.; Skouboe M.K.; Howarth S.; Hollensen A.K.; Chen R.; Børresen M.L.; Thompson B.J.; Stremenova Spegarova J.; Hatton C.F.; Stæger F.F.; Andersen M.K.; Whittaker J.; Paludan S.R.; Jørgensen S.E.; Thomsen M.K.; Mikkelsen J.G.; Heilmann C.; Buhas D.; Øbro N.F.; Bay J.T.; Marquart H.V.; Teresa de la Morena M.; Klejka J.A.; Hirschfeld M.; Borgwardt L.; Forss I.; Masmas T.; Poulsen A.; Noya F.; Rouleau G.; Hansen T.; Zhou S.; Albrechtsen A.; Alizadehfar R.; Allenspach E.J.; Hambleton S.; Mogensen T.H."
   link:
     url: https://doi.org/10.1084/jem.20212427
@@ -211,7 +211,7 @@
 
 - title: "A large-scale genome-wide gene expression analysis in peripheral blood identifies very few differentially expressed genes related to antidepressant treatment and response in patients with major depressive disorder"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nøhr A.K.; Lindow M.; Forsingdal A.; Demharter S.; Nielsen T.; Buller R.; Moltke I.; Vitezic M.; Albrechtsen A."
   link:
     url: https://doi.org/10.1038/s41386-021-01002-9
@@ -221,7 +221,7 @@
 
 - title: "Predictors and trajectories of treatment response to SSRIs in patients suffering from PTSD"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nøhr A.K.; Eriksson H.; Hobart M.; Moltke I.; Buller R.; Albrechtsen A.; Lindgreen S."
   link:
     url: https://doi.org/10.1016/j.psychres.2021.113964
@@ -241,7 +241,7 @@
 
 - title: "Vicariance followed by secondary gene flow in a young gazelle species complex"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Garcia-Erill G.; Kjær M.M.; Albrechtsen A.; Siegismund H.R.; Heller R."
   link:
     url: https://doi.org/10.1111/mec.15738
@@ -251,7 +251,7 @@
 
 - title: "Detecting selection in low-coverage high-throughput sequencing data using principal component analysis"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Meisner J.; Albrechtsen A.; Hanghøj K."
   link:
     url: https://doi.org/10.1186/s12859-021-04375-2
@@ -261,7 +261,7 @@
 
 - title: "High genetic diversity and low differentiation reflect the ecological versatility of the African leopard"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Pečnerová P.; Garcia-Erill G.; Liu X.; Nursyifa C.; Waples R.K.; Santander C.G.; Quinn L.; Frandsen P.; Meisner J.; Stæger F.F.; Rasmussen M.S.; Brüniche-Olsen A.; Hviid Friis Jørgensen C.; da Fonseca R.R.; Siegismund H.R.; Albrechtsen A.; Heller R.; Moltke I.; Hanghøj K."
   link:
     url: https://doi.org/10.1016/j.cub.2021.01.064
@@ -271,7 +271,7 @@
 
 - title: "Physical activity attenuates postprandial hyperglycaemia in homozygous TBC1D4 loss-of-function mutation carriers"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Schnurr T.M.; Jørsboe E.; Chadt A.; Dahl-Petersen I.K.; Kristensen J.M.; Wojtaszewski J.F.P.; Springer C.; Bjerregaard P.; Brage S.; Pedersen O.; Moltke I.; Grarup N.; Al-Hasani H.; Albrechtsen A.; Jørgensen M.E.; Hansen T."
   link:
     url: https://doi.org/10.1007/s00125-021-05461-z
@@ -281,7 +281,7 @@
 
 - title: "A reference-free approach to analyse RADseq data using standard next generation sequencing toolkits"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Heller R.; Nursyifa C.; Garcia-Erill G.; Salmona J.; Chikhi L.; Meisner J.; Korneliussen T.S.; Albrechtsen A."
   link:
     url: https://doi.org/10.1111/1755-0998.13324
@@ -337,7 +337,7 @@
 
 - title: "Omega-3 fatty acids and risk of cardiovascular disease in Inuit: First prospective cohort study"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Senftleber N.K.; Albrechtsen A.; Lauritzen L.; Larsen C.L.; Bjerregaard P.; Diaz L.J.; Rønn P.F.; Jørgensen M.E."
   link:
     url: https://doi.org/10.1016/j.atherosclerosis.2020.08.032
@@ -347,7 +347,7 @@
 
 - title: "The derived allele of a novel intergenic variant at chromosome 11 associates with lower body mass index and a favorable metabolic phenotype in Greenlanders"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andersen M.K.; Jørsboe E.; Skotte L.; Hanghøj K.; Sandholt C.H.; Moltke I.; Grarup N.; Kern T.; Mahendran Y.; Søborg B.; Bjerregaard P.; Larsen C.V.L.; Dahl-Petersen I.K.; Tiwari H.K.; Feenstra B.; Koch A.; Wiener H.W.; Hopkins S.E.; Pedersen O.; Melbye M.; Boyer B.B.; Jørgensen M.E.; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1371/journal.pgen.1008544
@@ -357,7 +357,7 @@
 
 - title: "Estimating narrow-sense heritability using family data from admixed populations"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Athanasiadis G.; Speed D.; Andersen M.K.; Appel E.V.R.; Grarup N.; Brandslund I.; Jørgensen M.E.; Larsen C.V.L.; Bjerregaard P.; Hansen T.; Albrechtsen A."
   link:
     url: https://doi.org/10.1038/s41437-020-0311-2
@@ -367,7 +367,7 @@
 
 - title: "Genetic study of the Arctic CPT1A variant suggests that its effect on fatty acid levels is modulated by traditional Inuit diet"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Senftleber N.; Jørgensen M.E.; Jørsboe E.; Imamura F.; Forouhi N.G.; Larsen C.L.; Bjerregaard P.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41431-020-0674-0
@@ -377,7 +377,7 @@
 
 - title: "A likelihood method for estimating present-day human contamination in ancient male samples using low-depth X-chromosome data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Moreno-Mayar J.V.; Korneliussen T.S.; Dalal J.; Renaud G.; Albrechtsen A.; Nielsen R.; Malaspinas A.-S."
   link:
     url: https://doi.org/10.1093/bioinformatics/btz660
@@ -387,7 +387,7 @@
 
 - title: "DamMet: Ancient methylome mapping accounting for errors, true variants, and post-mortem DNA damage"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Hanghøj K.; Renaud G.; Albrechtsen A.; Orlando L."
   link:
     url: https://doi.org/10.1093/gigascience/giz025
@@ -409,7 +409,7 @@
 
 - title: "Detection of internal N7-methylguanosine (m7G) RNA modifications by mutational profiling sequencing"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Enroth C.; Poulsen L.D.; Iversen S.; Kirpekar F.; Albrechtsen A.; Vinther J."
   link:
     url: https://doi.org/10.1093/nar/gkz736
@@ -431,7 +431,7 @@
 
 - title: "Genomic diversity and novel genome-wide association with fruit morphology in Capsicum, from 746k polymorphic sites"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Colonna V.; D’Agostino N.; Garrison E.; Albrechtsen A.; Meisner J.; Facchiano A.; Cardi T.; Tripodi P."
   link:
     url: https://doi.org/10.1038/s41598-019-46136-5
@@ -441,7 +441,7 @@
 
 - title: "Testing for Hardy–Weinberg equilibrium in structured populations using genotype or low-depth next generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Meisner J.; Albrechtsen A."
   link:
     url: https://doi.org/10.1111/1755-0998.13019
@@ -451,7 +451,7 @@
 
 - title: "Powerful inference with the D-statistic on low-coverage whole-genome data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Soraggi S.; Wiuf C.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/g3.117.300192
@@ -461,7 +461,7 @@
 
 - title: "Terminal Pleistocene Alaskan genome reveals first founding population of Native Americans"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Moreno-Mayar J.V.; Potter B.A.; Vinner L.; Steinrücken M.; Rasmussen S.; Terhorst J.; Kamm J.A.; Albrechtsen A.; Malaspinas A.-S.; Sikora M.; Reuther J.D.; Irish J.D.; Malhi R.S.; Orlando L.; Song Y.S.; Nielsen R.; Meltzer D.J.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature25173
@@ -471,7 +471,7 @@
 
 - title: "Identification of novel high-impact recessively inherited type 2 diabetes risk variants in the Greenlandic population"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Moltke I.; Andersen M.K.; Bjerregaard P.; Larsen C.V.L.; Dahl-Petersen I.K.; Jørsboe E.; Tiwari H.K.; Hopkins S.E.; Wiener H.W.; Boyer B.B.; Linneberg A.; Pedersen O.; Jørgensen M.E.; Albrechtsen A.; Hansen T."
   link:
     url: https://doi.org/10.1007/s00125-018-4659-2
@@ -513,7 +513,7 @@
 
 - title: "Ancient genomes revisit the ancestry of domestic and Przewalski's horses"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Gaunitz C.; Fages A.; Hanghøj K.; Albrechtsen A.; Khan N.; Schubert M.; Seguin-Orlando A.; Owens I.J.; Felkel S.; Bignon-Lau O.; Damgaard P.D.B.; Mittnik A.; Mohaseb A.F.; Davoudi H.; Alquraishi S.; Alfarhan A.H.; Al-Rasheid K.A.S.; Crubézy E.; Benecke N.; Olsen S.; Brown D.; Anthony D.; Massy K.; Pitulko V.; Kasparov A.; Brem G.; Hofreiter M.; Mukhtarova G.; Baimukhanov N.; Lõugas L.; Onar V.; Stockhammer P.W.; Krause J.; Boldgiv B.; Undrakhbold S.; Erdenebaatar D.; Lepetz S.; Mashkour M.; Ludwig A.; Wallner B.; Merz V.; Merz I.; Zaibert V.; Willerslev E.; Librado P.; Outram A.K.; Orlando L."
   link:
     url: https://doi.org/10.1126/science.aao3297
@@ -523,7 +523,7 @@
 
 - title: "A southern African origin and cryptic structure in the highly mobile plains zebra"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Pedersen C.-E.T.; Albrechtsen A.; Etter P.D.; Johnson E.A.; Orlando L.; Chikhi L.; Siegismund H.R.; Heller R."
   link:
     url: https://doi.org/10.1038/s41559-017-0453-7
@@ -533,7 +533,7 @@
 
 - title: "Genetic determinants of glycated hemoglobin levels in the Greenlandic Inuit population"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Appel E.V.R.; Moltke I.; Jørgensen M.E.; Bjerregaard P.; Linneberg A.; Pedersen O.; Albrechtsen A.; Hansen T.; Grarup N."
   link:
     url: https://doi.org/10.1038/s41431-018-0109-3
@@ -543,7 +543,7 @@
 
 - title: "Genetic architecture of obesity and related metabolic traits — recent insights from isolated populations"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andersen M.K.; Grarup N.; Moltke I.; Albrechtsen A.; Hansen T."
   link:
     url: https://doi.org/10.1016/j.gde.2018.02.010
@@ -553,7 +553,7 @@
 
 - title: "Archaic adaptive introgression in TBX15/WARS2"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Racimo F.; Gokhman D.; Fumagalli M.; Ko A.; Hansen T.; Moltke I.; Albrechtsen A.; Carmel L.; Huerta-Sanchez E.; Nielsen R."
   link:
     url: https://doi.org/10.1093/molbev/msw283
@@ -563,7 +563,7 @@
 
 - title: "Founder Effect of the RETC611Y Mutation in Multiple Endocrine Neoplasia 2A in Denmark: A Nationwide Study"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Mathiesen J.S.; Kroustrup J.P.; Vestergaard P.; Stochholm K.; Poulsen P.L.; Rasmussen A.K.; Feldt-Rasmussen U.; Gaustadnes M.; Ørntoft T.F.; Rossing M.; Nielsen F.C.; Albrechtsen A.; Brixen K.; Godballe C.; Frederiksen A.L."
   link:
     url: https://doi.org/10.1089/thy.2017.0404
@@ -573,7 +573,7 @@
 
 - title: "FastNGSadmix: Admixture proportions and principal component analysis of a single NGS sample"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Jørsboe E.; Hanghøj K.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btx474
@@ -585,7 +585,7 @@
 
 - title: "Ancient genomes show social and reproductive behavior of early Upper Paleolithic foragers"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sikora M.; Seguin-Orlando A.; Sousa V.C.; Albrechtsen A.; Korneliussen T.; Ko A.; Rasmussen S.; Dupanloup I.; Nigst P.R.; Bosch M.D.; Renaud G.; Allentoft M.E.; Margaryan A.; Vasilyev S.V.; Veselovskaya E.V.; Borutskaya S.B.; Deviese T.; Comeskey D.; Higham T.; Manica A.; Foley R.; Meltzer D.J.; Nielsen R.; Excoffier L.; Lahr M.M.; Orlando L.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.aao1807
@@ -595,7 +595,7 @@
 
 - title: "Genetic screening of the FLCN gene identify six novel variants and a Danish founder mutation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rossing M.; Albrechtsen A.; Skytte A.-B.; Jensen U.B.; Ousager L.B.; Gerdes A.-M.; Nielsen F.C.; Hansen T.V."
   link:
     url: https://doi.org/10.1038/jhg.2016.118
@@ -605,7 +605,7 @@
 
 - title: "Ancient genomic changes associated with domestication of the horse"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Librado P.; Gamba C.; Gaunitz C.; Der Sarkissian C.; Pruvost M.; Albrechtsen A.; Fages A.; Khan N.; Schubert M.; Jagannathan V.; Serres-Armero A.; Kuderna L.F.K.; Povolotskaya I.S.; Seguin-Orlando A.; Lepetz S.; Neuditschko M.; Thèves C.; Alquraishi S.; Alfarhan A.H.; Al-Rasheid K.; Rieder S.; Samashev Z.; Francfort H.-P.; Benecke N.; Hofreiter M.; Ludwig A.; Keyser C.; Marques-Bonet T.; Ludes B.; Crubézy E.; Leeb T.; Willerslev E.; Orlando L."
   link:
     url: https://doi.org/10.1126/science.aam5298
@@ -625,7 +625,7 @@
 
 - title: "Weighting sequence variants based on their annotation increases power of whole-genome association studies"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sveinbjornsson G.; Albrechtsen A.; Zink F.; Gudjonsson S.A.; Oddson A.; Másson G.; Holm H.; Kong A.; Thorsteinsdottir U.; Sulem P.; Gudbjartsson D.F.; Stefansson K."
   link:
     url: https://doi.org/10.1038/ng.3507
@@ -635,7 +635,7 @@
 
 - title: "Estimating IBD tracts from low coverage NGS data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Vieira F.G.; Albrechtsen A.; Nielsen R."
   link:
     url: https://doi.org/10.1093/bioinformatics/btw212
@@ -645,7 +645,7 @@
 
 - title: "Genetics of Type 2 Diabetes: the Power of Isolated Populations"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andersen M.K.; Pedersen C.-E.T.; Moltke I.; Hansen T.; Albrechtsen A.; Grarup N."
   link:
     url: https://doi.org/10.1007/s11892-016-0757-z
@@ -655,7 +655,7 @@
 
 - title: "Identification of Novel Genetic Determinants of Erythrocyte Membrane Fatty Acid Composition among Greenlanders"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andersen M.K.; Jørsboe E.; Sandholt C.H.; Grarup N.; Jørgensen M.E.; Færgeman N.J.; Bjerregaard P.; Pedersen O.; Moltke I.; Hansen T.; Albrechtsen A."
   link:
     url: https://doi.org/10.1371/journal.pgen.1006119
@@ -665,7 +665,7 @@
 
 - title: "Next-generation biology: Sequencing and data analysis approaches for non-model organisms"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "da Fonseca R.R.; Albrechtsen A.; Themudo G.E.; Ramos-Madrigal J.; Sibbesen J.A.; Maretty L.; Zepeda-Mendoza M.L.; Campos P.F.; Heller R.; Pereira R.J."
   link:
     url: https://doi.org/10.1016/j.margen.2016.04.012
@@ -675,7 +675,7 @@
 
 - title: "A genomic history of Aboriginal Australia"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Malaspinas A.-S.; Westaway M.C.; Muller C.; Sousa V.C.; Lao O.; Alves I.; Bergström A.; Athanasiadis G.; Cheng J.Y.; Crawford J.E.; Heupink T.H.; MacHoldt E.; Peischl S.; Rasmussen S.; Schiffels S.; Subramanian S.; Wright J.L.; Albrechtsen A.; Barbieri C.; Dupanloup I.; Eriksson A.; Margaryan A.; Moltke I.; Pugach I.; Korneliussen T.S.; Levkivskyi I.P.; Moreno-Mayar J.V.; Ni S.; Racimo F.; Sikora M.; Xue Y.; Aghakhanian F.A.; Brucato N.; Brunak Sø.; Campos P.F.; Clark W.; Ellingvåg S.; Fourmile G.; Gerbault P.; Injie D.; Koki G.; Leavesley M.; Logan B.; Lynch A.; Matisoo-Smith E.A.; McAllister P.J.; Mentzer A.J.; Metspalu M.; Migliano A.B.; Murgha L.; Phipps M.E.; Pomat W.; Reynolds D.; Ricaut F.-X.; Siba P.; Thomas M.G.; Wales T.; Wall C.M.; Oppenheimer S.J.; Tyler-Smith C.; Durbin R.; Dortch J.; Manica A.; Schierup M.H.; Foley R.A.; Lahr M.M.; Bowern C.; Wall J.D.; Mailund T.; Stoneking M.; Nielsen R.; Sandhu M.S.; Excoffier L.; Lambert D.M.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature18299
@@ -685,7 +685,7 @@
 
 - title: "Diabetes in population isolates: Lessons from Greenland"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Moltke I.; Albrechtsen A.; Hansen T."
   link:
     url: https://doi.org/10.1900/RDS.2015.12.320
@@ -695,7 +695,7 @@
 
 - title: "Evolutionary genomics and conservation of the endangered Przewalski's horse"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Der Sarkissian C.; Ermini L.; Schubert M.; Yang M.A.; Librado P.; Fumagalli M.; Jónsson H.; Bar-Gal G.K.; Albrechtsen A.; Vieira F.G.; Petersen B.; Ginolhac A.; Seguin-Orlando A.; Magnussen K.; Fages A.; Gamba C.; Lorente-Galdos B.; Polani S.; Steiner C.; Neuditschko M.; Jagannathan V.; Feh C.; Greenblatt C.L.; Ludwig A.; Abramson N.I.; Zimmermann W.; Schafberg R.; Tikhonov A.; Sicheritz-Ponten T.; Willerslev E.; Marques-Bonet T.; Ryder O.A.; McCue M.; Rieder S.; Leeb T.; Slatkin M.; Orlando L."
   link:
     url: https://doi.org/10.1016/j.cub.2015.08.032
@@ -705,7 +705,7 @@
 
 - title: "Partial USH2A deletions contribute to Usher syndrome in Denmark"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Dad S.; Rendtorff N.D.; Kann E.; Albrechtsen A.; Mehrjouy M.M.; Bak M.; Tommerup N.; Tranebjærg L.; Rosenberg T.; Jensen H.; Møller L.B."
   link:
     url: https://doi.org/10.1038/ejhg.2015.54
@@ -715,7 +715,7 @@
 
 - title: "Uncovering the genetic history of the present-day greenlandic population"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Moltke I.; Fumagalli M.; Korneliussen T.S.; Crawford J.E.; Bjerregaard P.; Jørgensen M.E.; Grarup N.; Gulløv H.C.; Linneberg A.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.ajhg.2014.11.012
@@ -725,7 +725,7 @@
 
 - title: "Tracking the origins of Yakutian horses and the genetic basis for their fast adaptation to subarctic environments"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Librado P.; Der Sarkissian C.; Ermini L.; Schubert M.; Jónsson H.; Albrechtsen A.; Fumagalli M.; Yang M.A.; Gamba C.; Seguin-Orlando A.; Mortensen C.D.; Petersen B.; Hoove C.A.; Lorente-Galdos B.; Nedoluzhko A.; Boulygina E.; Tsygankova S.; Neuditschko M.; Jagannathan V.; Thèves C.; Alfarhan A.H.; Alquraishi S.A.; Al-Rasheid K.A.S.; Sicheritz-Ponten T.; Popov R.; Grigoriev S.; Alekseev A.N.; Rubin E.M.; McCue M.; Rieder S.; Leeb T.; Tikhonov A.; Crubézy E.; Slatkin M.; Marques-Bonet T.; Nielsen R.; Willerslev E.; Kantanen J.; Prokhortchouk E.; Orlando L."
   link:
     url: https://doi.org/10.1073/pnas.1513696112
@@ -735,7 +735,7 @@
 
 - title: "The ancestry and affiliations of Kennewick Man"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rasmussen M.; Sikora M.; Albrechtsen A.; Korneliussen T.S.; Moreno-Mayar J.V.; Poznik G.D.; Zollikofer C.P.E.; Ponce De León M.S.; Allentoft M.E.; Moltke I.; Jónsson H.; Valdiosera C.; Malhi R.S.; Orlando L.; Bustamante C.D.; Stafford T.W., Jr.; Meltzer D.J.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature14625
@@ -745,7 +745,7 @@
 
 - title: "The origin and evolution of maize in the Southwestern United States"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Da Fonseca R.R.; Smith B.D.; Wales N.; Cappellini E.; Skoglund P.; Fumagalli M.; Samaniego J.A.; Carøe C.; Ávila-Arcos M.C.; Hufnagel D.E.; Korneliussen T.S.; Vieira F.G.; Jakobsson M.; Arriaza B.; Willerslev E.; Nielsen R.; Hufford M.B.; Albrechtsen A.; Ross-Ibarra J.; Gilbert M.T.P."
   link:
     url: https://doi.org/10.1038/nplants.2014.3
@@ -755,7 +755,7 @@
 
 - title: "Greenlandic Inuit show genetic signatures of diet and climate adaptation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Fumagalli M.; Moltke I.; Grarup N.; Racimo F.; Bjerregaard P.; Jørgensen M.E.; Korneliussen T.S.; Gerbault P.; Skotte L.; Linneberg A.; Christensen C.; Brandslund I.; Jørgensen T.; Huerta-Sánchez E.; Schmidt E.B.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1126/science.aab2319
@@ -765,7 +765,7 @@
 
 - title: "Genomic evidence for the Pleistocene and recent population history of Native Americans"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Raghavan M.; Steinrücken M.; Harris K.; Schiffels S.; Rasmussen S.; DeGiorgio M.; Albrechtsen A.; Valdiosera C.; Ávila-Arcos M.C.; Malaspinas A.-S.; ... Manica A.; Durbin R.; Bustamante C.D.; Song Y.S.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.aab3884
@@ -774,7 +774,7 @@
   
 - title: "Genomic structure in Europeans dating back at least 36,200 years"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Seguin-Orlando A.; Korneliussen T.S.; Sikora M.; Malaspinas A.-S.; Manica A.; Moltke I.; Albrechtsen A.; Ko A.; Margaryan A.; Moiseyev V.; Goebel T.; Westaway M.; Lambert D.; Khartanovich V.; Wall J.D.; Nigst P.R.; Foley R.A.; Lahr M.M.; Nielsen R.; Orlando L.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.aaa0114
@@ -784,7 +784,7 @@
 
 - title: "The genetic prehistory of the New World Arctic"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Raghavan M.; DeGiorgio M.; Albrechtsen A.; Moltke I.; Skoglund P.; Korneliussen T.S.; Grønnow B.; Appelt M.; Gulløv H.C.; Friesen T.M.; Fitzhugh W.; Malmström H.; Rasmussen S.; Olsen J.; Melchior L.; Fuller B.T.; Fahrni S.M.; Stafford T., Jr.; Grimes V.; Renouf M.A.P.; Cybulski J.; Lynnerup N.; Lahr M.M.; Britton K.; Knecht R.; Arneborg J.; Metspalu M.; Cornejo O.E.; Malaspinas A.-S.; Wang Y.; Rasmussen M.; Raghavan V.; Hansen T.V.O.; Khusnutdinova E.; Pierre T.; Dneprovsky K.; Andreasen C.; Lange H.; Hayes M.G.; Coltrain J.; Spitsyn V.A.; Götherström A.; Orlando L.; Kivisild T.; Villems R.; Crawford M.H.; Nielsen F.C.; Dissing J.; Heinemeier J.; Meldgaard M.; Bustamante C.; O'Rourke D.H.; Jakobsson M.; Gilbert M.T.P.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.1255832
@@ -794,7 +794,7 @@
 
 - title: "Speciation with gene flow in equids despite extensive chromosomal plasticity"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Jónsson H.; Schubert M.; Seguin-Orlando A.; Ginolhac A.; Petersen L.; Fumagalli M.; Albrechtsen A.; Petersen B.; Korneliussen T.S.; Vilstrup J.T.; Lear T.; Myka J.L.; Lundquist J.; Miller D.C.; Alfarhan A.H.; Alquraishi S.A.; Al-Rasheid K.A.S.; Stagegaard J.; Strauss G.; Bertelsen M.F.; Sicheritz-Ponten T.; Antczak D.F.; Bailey E.; Nielsen R.; Willerslev E.; Orlando L."
   link:
     url: https://doi.org/10.1073/pnas.1412627111
@@ -816,7 +816,7 @@
 
 - title: "RelateAdmix: A software tool for estimating relatedness between admixed individuals"
   image: relateAdmix.png
-  description: none
+  description: 
   authors: "Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btt652
@@ -828,7 +828,7 @@
 
 - title: "Upper palaeolithic Siberian genome reveals dual ancestry of native Americans"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Raghavan M.; Skoglund P.; Graf K.E.; Metspalu M.; Albrechtsen A.; Moltke I.; Rasmussen S.; Stafford T.W., Jr.; Orlando L.; Metspalu E.; Karmin M.; Tambets K.; Rootsi S.; Mägi R.; Campos P.F.; Balanovska E.; Balanovsky O.; Khusnutdinova E.; Litvinov S.; Osipova L.P.; Fedorova S.A.; Voevoda M.I.; Degiorgio M.; Sicheritz-Ponten T.; Brunak Sø.; Demeshchenko S.; Kivisild T.; Villems R.; Nielsen R.; Jakobsson M.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature12736
@@ -838,7 +838,7 @@
 
 - title: "Two ancient human genomes reveal Polynesian ancestry among the indigenous Botocudos of Brazil"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Malaspinas A.-S.; Lao O.; Schroeder H.; Rasmussen M.; Raghavan M.; Moltke I.; Campos P.F.; Sagredo F.S.; Rasmussen S.; Gonçalves V.F.; Albrechtsen A.; Allentoft M.E.; Johnson P.L.F.; Li M.; Reis S.; Bernardo D.V.; Degiorgio M.; Duggan A.T.; Bastos M.; Wang Y.; Stenderup J.; Moreno-Mayar J.V.; Brunak Sø.; Sicheritz-Ponten T.; Hodges E.; Hannon G.J.; Orlando L.; Price T.D.; Jensen J.D.; Nielsen R.; Heinemeier J.; Olsen J.; Rodrigues-Carvalho C.; Lahr M.M.; Neves W.A.; Kayser M.; Higham T.; Stoneking M.; Pena S.D.J.; Willerslev E."
   link:
     url: https://doi.org/10.1016/j.cub.2014.09.078
@@ -848,7 +848,7 @@
 
 - title: "Prehistoric genomes reveal the genetic foundation and cost of horse domestication"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Schubert M.; Jónsson H.; Chang D.; Der Sarkissian C.; Ermini L.; Ginolhac A.; Albrechtsen A. ... Nielsen R.; Excoffier L.; Willerslev E.; Shapiro B.; Orlando L."
   link:
     url: https://doi.org/10.1073/pnas.1416991111
@@ -857,7 +857,7 @@
   
 - title: "Genetic and environmental determinants of 25-hydroxyvitamin D levels in multiple sclerosis"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Laursen J.H.; Søndergaard H.B.; Albrechtsen A.; Frikke-Schmidt R.; Koch-Henriksen N.; Soelberg Sørensen P.; Sellebjerg F.; Oturai A."
   link:
     url: https://doi.org/10.1177/1352458514563590
@@ -867,7 +867,7 @@
 
 - title: "Variation and association to diabetes in 2000 full mtDNA sequences mined from an exome study in a Danish population"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Li S.; Besenbacher S.; Li Y.; Kristiansen K.; Grarup N.; Albrechtsen A.; Sparsø T.; Korneliussen T.; Hansen T.; Wang J.; Nielsen R.; Pedersen O.; Bolund L.; Schierup M.H."
   link:
     url: https://doi.org/10.1038/ejhg.2013.282
@@ -877,7 +877,7 @@
 
 - title: "The genome of a Late Pleistocene human from a Clovis burial site in western Montana"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rasmussen M.; Anzick S.L.; Waters M.R.; Skoglund P.; Degiorgio M.; Stafford Jr. T.W.; Rasmussen S.; Moltke I.; Albrechtsen A.; Doyle S.M.; Poznik G.D.; Gudmundsdottir V.; Yadav R.; Malaspinas A.-S.; Samuel Stockton White V.; Allentoft M.E.; Cornejo O.E.; Tambets K.; Eriksson A.; Heintzman P.D.; Karmin M.; Korneliussen T.S.; Meltzer D.J.; Pierre T.L.; Stenderup J.; Saag L.; Warmuth V.M.; Lopes M.C.; Malhi R.S.; Brunak Sø.; Sicheritz-Ponten T.; Barnes I.; Collins M.; Orlando L.; Balloux F.; Manica A.; Gupta R.; Metspalu M.; Bustamante C.D.; Jakobsson M.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature13025
@@ -887,7 +887,7 @@
 
 - title: "A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Moltke I.; Grarup N.; Jørgensen M.E.; Bjerregaard P.; Treebak J.T.; Fumagalli M.; Korneliussen T.S.; Andersen M.A.; Nielsen T.S.; Krarup N.T.; Gjesing A.P.; Zierath J.R.; Linneberg A.; Wu X.; Sun G.; Jin X.; Al-Aama J.; Wang J.; Borch-Johnsen K.; Pedersen O.; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/nature13425
@@ -897,7 +897,7 @@
 
 - title: "Genome-Wide Association Study of Genetic Variants in LPS-Stimulated IL-6, IL-8, IL-10, IL-1ra and TNF-α Cytokine Response in a Danish Cohort"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Larsen M.H.; Albrechtsen A.; Thørner L.W.; Werge T.; Hansen T.; Gether U.; Haastrup E.; Ullum H."
   link:
     url: https://doi.org/10.1371/journal.pone.0066262
@@ -907,7 +907,7 @@
 
 - title: "Exome sequencing-driven discovery of coding polymorphisms associated with common metabolic phenotypes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Albrechtsen A.; Grarup N.; Li Y.; Sparsø T.; Tian G.; Cao H.; Jiang T.; Kim S.Y.; Korneliussen T.; Li Q.; Nie C.; Wu R.; Skotte L.; Morris A.P.; Ladenvall C.; Cauchi S.; Stančáková A.; Andersen G.; Astrup A.; Banasik K.; Bennett A.J.; Bolund L.; Charpentier G.; Chen Y.; Dekker J.M.; Doney A.S.F.; Dorkhan M.; Forsen T.; Frayling T.M.; Groves C.J.; Gui Y.; Hallmans G.; Hattersley A.T.; He K.; Hitman G.A.; Holmkvist J.; Huang S.; Jiang H.; Jin X.; Justesen J.M.; Kristiansen K.; Kuusisto J.; Lajer M.; Lantieri O.; Li W.; Liang H.; Liao Q.; Liu X.; Ma T.; Ma X.; Manijak M.P.; Marre M.; Mokrosiński J.; Morris A.D.; Mu B.; Nielsen A.A.; Nijpels G.; Nilsson P.; Palmer C.N.A.; Rayner N.W.; Renström F.; Ribel-Madsen R.; Robertson N.; Rolandsson O.; Rossing P.; Schwartz T.W.; Slagboom P.E.; Sterner M.; Tang M.; Tarnow L.; Tuomi T.; Van'T Riet E.; Van Leeuwen N.; Varga T.V.; Vestmar M.A.; Walker M.; Wang B.; Wang Y.; Wu H.; Xi F.; Yengo L.; Yu C.; Zhang X.; Zhang J.; Zhang Q.; Zhang W.; Zheng H.; Zhou Y.; Altshuler D.; 'T Hart L.M.; Franks P.W.; Balkau B.; Froguel P.; McCarthy M.I.; Laakso M.; Groop L.; Christensen C.; Brandslund I.; Lauritzen T.; Witte D.R.; Linneberg A.; Jørgensen T.; Hansen T.; Wang J.; Nielsen R.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-012-2756-1
@@ -917,7 +917,7 @@
 
 - title: "Estimating inbreeding coefficients from NGS data: Impact on genotype calling and allele frequency estimation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Vieira F.G.; Fumagalli M.; Albrechtsen A.; Nielsen R."
   link:
     url: https://doi.org/10.1101/gr.157388.113
@@ -927,7 +927,7 @@
 
 - title: "Recalibrating equus evolution using the genome sequence of an early Middle Pleistocene horse"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Orlando L.; Ginolhac A.; Zhang G.; Froese D.; Albrechtsen A.; Stiller M.; Schubert M.; Cappellini E.; Petersen B.; Moltke I.; Johnson P.L.F.; Fumagalli M.; Vilstrup J.T.; Raghavan M.; Korneliussen T.; Malaspinas A.-S.; Vogt J.; Szklarczyk D.; Kelstrup C.D.; Vinther J.; Dolocan A.; Stenderup J.; Velazquez A.M.V.; Cahill J.; Rasmussen M.; Wang X.; Min J.; Zazula G.D.; Seguin-Orlando A.; Mortensen C.; Magnussen K.; Thompson J.F.; Weinstock J.; Gregersen K.; Røed K.H.; Eisenmann V.; Rubin C.J.; Miller D.C.; Antczak D.F.; Bertelsen M.F.; Brunak Sø.; Al-Rasheid K.A.S.; Ryder O.; Andersson L.; Mundy J.; Krogh A.; Gilbert M.T.P.; Kjær K.; Sicheritz-Ponten T.; Jensen L.J.; Olsen J.V.; Hofreiter M.; Nielsen R.; Shapiro B.; Wang J.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature12323
@@ -937,7 +937,7 @@
 
 - title: "Calculation of Tajima's D and other neutrality test statistics from low depth next-generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Korneliussen T.S.; Moltke I.; Albrechtsen A.; Nielsen R."
   link:
     url: https://doi.org/10.1186/1471-2105-14-289
@@ -947,7 +947,7 @@
 
 - title: "Whole-exome sequencing of 2,000 Danish individuals and the role of rare coding variants in type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Lohmueller K.E.; Sparsø T.; Li Q.; Andersson E.; Korneliussen T.; Albrechtsen A.; Banasik K.; Grarup N.; Hallgrimsdottir I.; Kiil K.; Kilpeläinen T.O.; Krarup N.T.; Pers T.H.; Sanchez G.; Hu Y.; Degiorgio M.; Jørgensen T.; Sandbæk A.; Lauritzen T.; Brunak Sø.; Kristiansen K.; Li Y.; Hansen T.; Wang J.; Nielsen R.; Pedersen O."
   link:
     url: https://doi.org/10.1016/j.ajhg.2013.11.005
@@ -957,7 +957,7 @@
 
 - title: "Genetic Architecture of Vitamin B12 and Folate Levels Uncovered Applying Deeply Sequenced Large Datasets"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Sulem P.; Sandholt C.H.; Thorleifsson G.; Ahluwalia T.S.; Steinthorsdottir V.; Bjarnason H.; Gudbjartsson D.F.; Magnusson O.T.; Sparsø T.; Albrechtsen A.; Kong A.; Masson G.; Tian G.; Cao H.; Nie C.; Kristiansen K.; Husemoen L.L.; Thuesen B.; Li Y.; Nielsen R.; Linneberg A.; Olafsson I.; Eyjolfsson G.I.; Jørgensen T.; Wang J.; Hansen T.; Thorsteinsdottir U.; Stefánsson K.; Pedersen O."
   link:
     url: https://doi.org/10.1371/journal.pgen.1003530
@@ -967,7 +967,7 @@
 
 - title: "Quantifying population genetic differentiation from next-generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Fumagalli M.; Vieira F.G.; Korneliussen T.S.; Linderoth T.; Huerta-Sánchez E.; Albrechtsen A.; Nielsen R."
   link:
     url: https://doi.org/10.1534/genetics.113.154740
@@ -977,7 +977,7 @@
 
 - title: "Estimating individual admixture proportions from next generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Skotte L.; Korneliussen T.S.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.113.154138
@@ -989,7 +989,7 @@
 
 - title: "SNP calling, genotype calling, and sample allele frequency estimation from new-generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nielsen R.; Korneliussen T.; Albrechtsen A.; Li Y.; Wang J."
   link:
     url: https://doi.org/10.1371/journal.pone.0037558
@@ -999,7 +999,7 @@
 
 - title: "Association Testing for Next-Generation Sequencing Data Using Score Statistics"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Skotte L.; Korneliussen T.S.; Albrechtsen A."
   link:
     url: https://doi.org/10.1002/gepi.21636
@@ -1009,7 +1009,7 @@
 
 - title: "Natural selection affects multiple aspects of genetic variation at putatively neutral sites across the human genome"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Lohmueller K.E.; Albrechtsen A.; Li Y.; Kim S.Y.; Korneliussen T.; Vinckenbosch N.; Tian G.; Huerta-Sanchez E.; Feder A.F.; Grarup N.; Jørgensen T.; Jiang T.; Witte D.R.; Sandbæk A.; Hellmann I.; Lauritzen T.; Hansen T.; Pedersen O.; Wang J.; Nielsen R."
   link:
     url: https://doi.org/10.1371/journal.pgen.1002326
@@ -1019,7 +1019,7 @@
 
 - title: "A method for detecting IBD regions simultaneously in multiple individuals - With applications to disease genetics"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Moltke I.; Albrechtsen A.; Hansen T.V.O.; Nielsen F.C.; Nielsen R."
   link:
     url: https://doi.org/10.1101/gr.115360.110
@@ -1029,7 +1029,7 @@
 
 - title: "An aboriginal Australian genome reveals separate human dispersals into Asia"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rasmussen M.; Guo X.; Wang Y.; Lohmueller K.E.; Rasmussen S.; Albrechtsen A.; Skotte L.; Lindgreen S.; Metspalu M.; Jombart T.; Kivisild T.; Zhai W.; Eriksson A.; Manica A.; Orlando L.; De La Vega F.M.; Tridico S.; Metspalu E.; Nielsen K.; Ávila-Arcos M.C.; Víctor Moreno-Mayar J.; Muller C.; Dortch J.; Gilbert M.T.P.; Lund O.; Wesolowska A.; Karmin M.; Weinert L.A.; Wang B.; Li J.; Tai S.; Xiao F.; Hanihara T.; Van Driem G.; Jha A.R.; Ricaut F.-X.; De Knijff P.; Migliano A.B.; Romero I.G.; Kristiansen K.; Lambert D.M.; Brunak S.; Forster P.; Brinkmann B.; Nehlich O.; Bunce M.; Richards M.; Gupta R.; Bustamante C.D.; Krogh A.; Foley R.A.; Lahr M.M.; Balloux F.; Sicheritz-Pontén T.; Villems R.; Nielsen R.; Wang J.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.1211177
@@ -1039,7 +1039,7 @@
 
 - title: "Estimation of allele frequency and association mapping using next-generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Kim S.Y.; Lohmueller K.E.; Albrechtsen A.; Li Y.; Korneliussen T.; Tian G.; Grarup N.; Jiang T.; Andersen G.; Witte D.; Jorgensen T.; Hansen T.; Pedersen O.; Wang J.; Nielsen R."
   link:
     url: https://doi.org/10.1186/1471-2105-12-231
@@ -1049,7 +1049,7 @@
 
 - title: "Genotype and SNP calling from next-generation sequencing data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nielsen R.; Paul J.S.; Albrechtsen A.; Song Y.S."
   link:
     url: https://doi.org/10.1038/nrg2986
@@ -1059,7 +1059,7 @@
 
 - title: "Ancient human genome sequence of an extinct Palaeo-Eskimo"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rasmussen M.; Li Y.; Lindgreen S.; Pedersen J.S.; Albrechtsen A.; Moltke I.; Metspalu M.; Metspalu E.; Kivisild T.; Gupta R.; Bertalan M.; Nielsen K.; Gilbert M.T.P.; Wang Y.; Raghavan M.; Campos P.F.; Kamp H.M.; Wilson A.S.; Gledhill A.; Tridico S.; Bunce M.; Lorenzen E.D.; Binladen J.; Guo X.; Zhao J.; Zhang X.; Zhang H.; Li Z.; Chen M.; Orlando L.; Kristiansen K.; Bak M.; Tommerup N.; Bendixen C.; Pierre T.L.; Gronnow B.; Meldgaard M.; Andreasen C.; Fedorova S.A.; Osipova L.P.; Higham T.F.G.; Ramsey C.B.; Hansen T.V.O.; Nielsen F.C.; Crawford M.H.; Brunak S.; Sicheritz-Pont́n T.; Villems R.; Nielsen R.; Krogh A.; Wang J.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature08835
@@ -1069,7 +1069,7 @@
 
 - title: "Family and population-based studies of variation within the ghrelin receptor locus in relation to measures of obesity"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Gjesing A.P.; Larsen L.H.; Torekov S.S.; Hainerová I.A.; Kapur R.; Johansen A.; Albrechtsen A.; Boj S.; Holst B.; Harper A.; Urhammer S.A.; Borch-Johnsen K.; Pisinger C.; Echwald S.M.; Eiberg H.; Astrup A.; Lebl J.; Ferrer J.; Schwartz T.W.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1371/journal.pone.0010084
@@ -1079,7 +1079,7 @@
 
 - title: "Ascertainment biases in SNP chips affect measures of population divergence"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Albrechtsen A.; Nielsen F.C.; Nielsen R."
   link:
     url: https://doi.org/10.1093/molbev/msq148
@@ -1089,7 +1089,7 @@
 
 - title: "Identification of a novel BRCA1 nucleotide 4803delCC/c.4684delCC mutation and a nucleotide 249T>A/c.130T>A (p.Cys44Ser) mutation in two Greenlandic Inuit families: Implications for genetic screening of Greenlandic Inuit families with high risk for breast and/or ovarian cancer"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Hansen T.V.O.; Jønson L.; Albrechtsen A.; Steffensen A.Y.; Bergsten E.; Myrhøj T.; Ejlertsen B.; Nielsen F.C."
   link:
     url: https://doi.org/10.1007/s10549-010-0909-9
@@ -1099,7 +1099,7 @@
 
 - title: "Natural selection and the distribution of identity-by-descent in the human genome"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Albrechtsen A.*; Moltke I.*; Nielsen R."
   link:
     url: https://doi.org/10.1534/genetics.110.113977
@@ -1109,7 +1109,7 @@
 
 - title: "Interleukin-6 autoantibodies are involved in the pathogenesis of a subset of type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Fosgerau K.; Galle P.; Hansen T.; Albrechtsen A.; De Lemos Rieper C.; Pedersen B.K.; Larsen L.K.; Thomsen A.R.; Pedersen O.; Hansen M.B.; Steensberg A."
   link:
     url: https://doi.org/10.1677/JOE-09-0413
@@ -1119,7 +1119,7 @@
 
 - title: "Resequencing of 200 human exomes identifies an excess of low-frequency non-synonymous coding variants"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Li Y.; Vinckenbosch N.; Tian G.; Huerta-Sanchez E.; Jiang T.; Jiang H.; Albrechtsen A.; Andersen G.; Cao H.; Korneliussen T.; Grarup N.; Guo Y.; Hellman I.; Jin X.; Li Q.; Liu J.; Liu X.; Sparsø T.; Tang M.; Wu H.; Wu R.; Yu C.; Zheng H.; Astrup A.; Bolund L.; Holmkvist J.; Jørgensen T.; Kristiansen K.; Schmitz O.; Schwartz T.W.; Zhang X.; Li R.; Yang H.; Wang J.; Hansen T.; Pedersen O.; Nielsen R.; Wang J."
   link:
     url: https://doi.org/10.1038/ng.680
@@ -1129,7 +1129,7 @@
 
 - title: "Segregation distortion in chicken and the evolutionary consequences of female meiotic drive in birds"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Axelsson E.; Albrechtsen A.; Van A.P.; Li L.; Megens H.J.; Vereijken A.L.J.; Crooijmans R.P.M.A.; Groenen M.A.M.; Ellegren H.; Willerslev E.; Nielsen R."
   link:
     url: https://doi.org/10.1038/hdy.2009.193
@@ -1139,7 +1139,7 @@
 
 - title: "Identification of a novel locus for a USH3 like syndrome combined with congenital cataract"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Dad S.; Østergaard E.; Thykjær T.; Albrectsen A.; Ravn K.; Rosenberg T.; Møller L.B."
   link:
     url: https://doi.org/10.1111/j.1399-0004.2010.01393.x
@@ -1149,7 +1149,7 @@
 
 - title: "Combined analyses of 20 common obesity susceptibility variants"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sandholt C.H.; Sparsø T.; Grarup N.; Albrechtsen A.; Almind K.; Hansen L.; Toft U.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.2337/db09-1042
@@ -1159,7 +1159,7 @@
 
 - title: "Darwinian and demographic forces affecting human protein coding genes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Nielsen R.; Hubisz M.J.; Hellmann I.; Torgerson D.; Andrés A.M.; Albrechtsen A.; Gutenkunst R.; Adams M.D.; Cargill M.; Boyko A.; Indap A.; Bustamante C.D.; Clark A.G."
   link:
     url: https://doi.org/10.1101/gr.088336.108
@@ -1169,7 +1169,7 @@
 
 - title: "Functional SOCS1 polymorphisms are associated with variation in obesity in whites"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Gylvin T.; Ek J.; Nolsøe R.; Albrechtsen A.; Andersen G.; Bergholdt R.; Brorsson C.; Bang-Berthelsen C.H.; Hansen T.; Karlsen A.E.; Billestrup N.; Borch-Johnsen K.; Jørgensen T.; Pedersen O.; Mandrup-Poulsen T.; Nerup J.; Pociot F."
   link:
     url: https://doi.org/10.1111/j.1463-1326.2008.00900.x
@@ -1179,7 +1179,7 @@
 
 - title: "The validation and assessment of machine learning: A game of prediction from high-dimensional data"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Pers T.H.; Albrechtsen A.; Holst C.; Sørensen T.I.A.; Gerds T.A."
   link:
     url: https://doi.org/10.1371/journal.pone.0006287
@@ -1189,7 +1189,7 @@
 
 - title: "Combined analysis of 19 common validated type 2 diabetes susceptibility gene variants shows moderate discriminative value and no evidence of gene-gene interaction"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sparsø T.; Grarup N.; Andreasen C.; Albrechtsen A.; Holmkvist J.; Andersen G.; Jørgensen T.; Borch-Johnsen K.; Sandbæk A.; Lauritzen T.; Madsbad S.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-009-1362-3
@@ -1199,7 +1199,7 @@
 
 - title: "A variant in the G6PC2/ABCB11 locus is associated with increased fasting plasma glucose, increased basal hepatic glucose production and increased insulin release after oral and intravenous glucose loads"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rose C.S.; Grarup N.; Krarup N.T.; Poulsen P.; Wegner L.; Nielsen T.; Banasik K.; Færch K.; Andersen G.; Albrechtsen A.; Borch-Johnsen K.; Clausen J.O.; Jørgensen T.; Vaag A.; Pedersen O.; Hansen T."
   link:
     url: https://doi.org/10.1007/s00125-009-1463-z
@@ -1209,7 +1209,7 @@
 
 - title: "Large BRCA1 and BRCA2 genomic rearrangements in Danish high risk breast-ovarian cancer families"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Hansen T.V.O.; Jønson L.; Albrechtsen A.; Andersen M.K.; Ejlertsen B.; Nielsen F.C."
   link:
     url: https://doi.org/10.1007/s10549-008-0088-0
@@ -1219,7 +1219,7 @@
 
 - title: "Relatedness mapping and tracts of relatedness for genome-wide data in the presence of linkage disequilibrium"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Albrechtsen A.; Korneliussen T.S.; Moltke I.; van Overseem Hansen T.; Nielsen F.C.; Nielsen R."
   link:
     url: https://doi.org/10.1002/gepi.20378
@@ -1231,7 +1231,7 @@
 
 - title: "Genetic variant near IRS1 is associated with type 2 diabetes, insulin resistance and hyperinsulinemia"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Rung J.*; Cauchi S.*; Albrechtsen A.*; Shen L.; Rocheleau G.; Cavalcanti-Proença C.; Bacot F.; Balkau B.; Belisle A.; Borch-Johnsen K.; Charpentier G.; Dina C.; Durand E.; Elliott P.; Hadjadj S.; Järvelin M.-R.; Laitinen J.; Lauritzen T.; Marre M.; Mazur A.; Meyre D.; Montpetit A.; Pisinger C.; Posner B.; Poulsen P.; Pouta A.; Prentki M.; Ribel-Madsen R.; Ruokonen A.; Sandbaek A.; Serre D.; Tichet J.; Vaxillaire M.; Wojtaszewski J.F.P.; Vaag A.; Hansen T.; Polychronakos C.; Pedersen O.; Froguel P.; Sladek R."
   link:
     url: https://doi.org/10.1038/ng.443
@@ -1241,7 +1241,7 @@
 
 - title: "A common Greenlandic Inuit BRCA1 RING domain founder mutation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Hansen T.V.O.; Ejlertsen B.; Albrechtsen A.; Bergsten E.; Bjerregaard P.; Hansen T.; Myrhøj T.; Nielsen P.B.; Timmermans-Wielenga V.; Andersen M.K.; Jønson L.; Nielsen F.C."
   link:
     url: https://doi.org/10.1007/s10549-008-0060-z
@@ -1251,7 +1251,7 @@
 
 - title: "The -250G>A promoter variant in hepatic lipase associates with elevated fasting serum high-density lipoprotein cholesterol modulated by interaction with physical activity in a study of 16,156 Danish subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Andreasen C.H.; Andersen M.K.; Albrechtsen A.; Sandbæk A.; Lauritzen T.; Borch-Johnsen K.; Jørgensen T.; Schmitz O.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1210/jc.2007-2815
@@ -1261,7 +1261,7 @@
 
 - title: "The GCKR rs780094 polymorphism is associated with elevated fasting serum triacylglycerol, reduced fasting and OGTT-related insulinaemia, and reduced risk of type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sparsø T.; Andersen G.; Nielsen T.; Burgdorf K.S.; Gjesing A.P.; Nielsen A.L.; Albrechtsen A.; Rasmussen S.S.; Jørgensen T.; Borch-Johnsen K.; Sandbæk A.; Lauritzen T.; Madsbad S.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-007-0865-z
@@ -1271,7 +1271,7 @@
 
 - title: "Novel de novo BRCA2 mutation in a patient with a family history of breast cancer"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Hansen T.V.O.; Bisgaard M.L.; Jønson L.; Albrechtsen A.; Filtenborg-Barnkob B.; Eiberg H.; Ejlertsen B.; Nielsen F.C."
   link:
     url: https://doi.org/10.1186/1471-2350-9-58
@@ -1281,7 +1281,7 @@
 
 - title: "Low physical activity accentuates the effect of the FTO rs9939609 polymorphism on body fat accumulation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andreasen C.H.; Stender-Petersen K.L.; Mogensen M.S.; Torekov S.S.; Wegner L.; Andersen G.; Nielsen A.L.; Albrechtsen A.; Borch-Johnsen K.; Rasmussen S.S.; Clausen J.O.; Sandbæk A.; Lauritzen T.; Hansen L.; Jørgensen T.; Pedersen O.; Hansen T."
   link:
     url: https://doi.org/10.2337/db07-0910
@@ -1291,7 +1291,7 @@
 
 - title: "Association testing of novel type 2 diabetes risk alleles in the JAZF1, CDC123/CAMK1D, TSPAN8, THADA, ADAMTS9, and NOTCH2 Loci with insulin release, insulin sensitivity, and obesity in a population-based sample of 4,516 glucose-tolerant middle-aged danes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Andersen G.; Krarup N.T.; Albrechtsen A.; Schmitz O.; Joørgensen T.; Borch-Johnsen K.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.2337/db08-0436
@@ -1301,7 +1301,7 @@
 
 - title: "Impact of polymorphisms in WFS1 on prediabetic phenotypes in a population-based sample of middle-aged people with normal and abnormal glucose regulation"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Sparsø T.; Andersen G.; Albrechtsen A.; Jørgensen T.; Borch-Johnsen K.; Sandbæk A.; Lauritzen T.; Wasson J.; Permutt M.A.; Glaser B.; Madsbad S.; Pedersen O.; Hansen T."
   link:
     url: https://doi.org/10.1007/s00125-008-1064-2
@@ -1311,7 +1311,7 @@
 
 - title: "Studies of the common DIO2 Thr92Ala polymorphism and metabolic phenotypes in 7342 Danish white subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Andersen M.K.; Andreasen C.H.; Albrechtsen A.; Borch-Johnsen K.; Jørgensen T.; Auwerx J.; Schmitz O.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1210/jc.2006-1958
@@ -1321,7 +1321,7 @@
 
 - title: "A -243A→G polymorphism upstream of the gene encoding GAD65 associates with lower levels of body mass index and glycaemia in a population-based sample of 5857 middle-aged white subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Boesgaard T.W.; Castella S.I.; Andersen G.; Albrechtsen A.; Sparsø T.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1111/j.1464-5491.2007.02110.x
@@ -1331,7 +1331,7 @@
 
 - title: "A bayesian multilocus association method: Allowing for higher-order interaction in association studies"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Albrechtsen A.; Castella S.; Andersen G.; Hansen T.; Pedersen O.; Nielsen R."
   link:
     url: https://doi.org/10.1534/genetics.107.071696
@@ -1341,7 +1341,7 @@
 
 - title: "Genetic analysis of the estrogen-related receptor α and studies of association with obesity and type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Larsen L.H.; Rose C.S.; Sparsø T.; Overgaard J.; Torekov S.S.; Grarup N.; Jensen D.P.; Albrechtsen A.; Andersen G.; Ek J.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1038/sj.ijo.0803408
@@ -1351,7 +1351,7 @@
 
 - title: "Studies of association of variants near the HHEX, CDKN2A/B, and IGF2BP2 genes with type 2 diabetes and impaired insulin release in 10,705 Danish subjects: Validation and extension of genome-wide association studies"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Rose C.S.; Andersson E.A.; Andersen G.; Nielsen A.L.; Albrechtsen A.; Clausen J.O.; Rasmussen S.S.; Jørgensen T.; Sandbæk A.; Lauritzen T.; Schmitz O.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.2337/db07-0856
@@ -1361,7 +1361,7 @@
 
 - title: "Studies of associations between the Arg389Gly polymorphism of the β1-adrenergic receptor gene (ADRB1) and hypertension and obesity in 7677 Danish white subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Gjesing A.P.; Andersen G.; Albrechtsen A.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1111/j.1464-5491.2006.02031.x
@@ -1371,7 +1371,7 @@
 
 - title: "Variation in the peroxisome proliferator-activated receptor δ gene in relation to common metabolic traits in 7,495 middle-aged white people"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Albrechtsen A.; Ek J.; Borch-Johnsen K.; Jørgensen T.; Schmitz O.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-007-0668-2
@@ -1381,7 +1381,7 @@
 
 - title: "A novel -192c/g mutation in the proximal P2 promoter of the hepatocyte nuclear factor-4α gene (HNF4A) associates with late-onset diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Ek J.; Hansen S.P.; Lajer M.; Nicot C.; Boesgaard T.W.; Pruhova S.; Johansen A.; Albrechtsen A.; Yderstræde K.; Lauenborg J.; Parrizas M.; Boj S.F.; Jørgensen T.; Borch-Johnsen K.; Damm P.; Ferrer J.; Lebl J.; Pedersen O.; Hansen T."
   link:
     url: https://doi.org/10.2337/db05-1684
@@ -1391,7 +1391,7 @@
 
 - title: "Large-scale study of the -232C > G polymorphism of PCK1 in Type 2 diabetes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Wegner L.; Andersen G.; Albrechtsen A.; Sparsø T.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1111/j.1464-5491.2006.01926.x
@@ -1401,7 +1401,7 @@
 
 - title: "Variants in the 5′ region of the neuropeptide Y receptor Y2 gene (NPY2R) are associated with obesity in 5,971 white subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Torekov S.S.; Larsen L.H.; Andersen G.; Albrechtsen A.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-006-0425-y
@@ -1411,7 +1411,7 @@
 
 - title: "Studies of the relationship between the ENPP1 K121Q polymorphism and type 2 diabetes, insulin resistance and obesity in 7,333 Danish white subjects"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Grarup N.; Urhammer S.A.; Ek J.; Albrechtsen A.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-006-0353-x
@@ -1421,7 +1421,7 @@
 
 - title: "Studies of the association of the GNB3 825C>T polymorphism with components of the metabolic syndrome in white Danes"
   image: generic.jpeg
-  description: none
+  description: 
   authors: "Andersen G.; Overgaard J.; Albrechtsen A.; Glümer C.; Borch-Johnsen K.; Jørgensen T.; Hansen T.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-005-0049-7

@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+[Jump to full list](#full-list-of-publications)
+
 ## Group highlights
 
 

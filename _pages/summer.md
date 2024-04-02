@@ -170,7 +170,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
 
 ### Friday - Demography and simulations
 
-    09:00 - 10:15 Lecture 9: Dating admixture and selection in admixted indivudals  (Garrett Hellenthal)
+    09:00 - 10:15 Lecture 9: Dating admixture and selection in admixed individuals  (Garrett Hellenthal)
     10:30 - 12:00 Computer exercises IX
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 10: Demography Inference( Shyam Gopalakrishnan)

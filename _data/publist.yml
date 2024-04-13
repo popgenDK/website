@@ -1,6 +1,17 @@
+- title: Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations.
+  image: wildebeest.jpeg
+  authors: Xiaodong Liu* , Long Lin* , Mikkel-Holger S. Sinding* , Laura D. Bertola, Kristian Hanghøj, Liam Quinn, Genís Garcia-Erill, Malthe Sebro Rasmussen, Mikkel Schubert, Patrícia Pečnerová, Renzo F. Balboa, Zilong Li, Michael P. Heaton, Timothy P. L. Smith, Rui Resende Pinto, Xi Wang, Josiah Kuja, Anna Brüniche-Olsen, Jonas Meisner, Cindy G. Santander, Joseph O. Ogutu, Charles Masembe, Rute R. da Fonseca, Vincent Muwanika, Hans R. Siegismund, Anders Albrechtsen<sup>&#128232;</sup>, Ida Moltke<sup>&#128232;</sup>, Rasmus Heller<sup>&#128232;</sup>  
+  link:
+    url: https://doi.org/10.1038/s41467-024-47015-y
+    display: Nature Communications 15, 2921 (2024)
+  highlight: 1
+  news2: news [The consersation](https://theconversation.com/africas-wildebeest-those-that-cant-migrate-are-becoming-genetically-weaker-new-study-227233), [earth.com](https://www.earth.com/news/wildebeest-suffer-genetically-from-blocked-migration-routes/), Danish new [Politiken](https://politiken.dk/viden/viden/art9840489/Danske-forskere-opdager-afg%C3%B8rende-nyt-om-Afrikas-ikoniske-vandrer?shareToken=Hkp8NZAC0Q6g) 
+  news: Twitter Thread [Laura Bertola](https://twitter.com/LauraDBertola/status/1778865640415133831)
+  github: https://github.com/popgenDK/seqAfrica_wildebeest 
+
 - title: Giraffe lineages are shaped by major ancient admixture events
   image: giraffe.jpg
-  authors: Laura D. Bertola* , Liam Quinn* , Kristian Hanghøj* , Genís Garcia-Erill, Malthe Sebro Rasmussen, Renzo F. Balboa, Jonas Meisner, Thomas Bøggild, Xi Wang, Long Lin, Casia Nursyifa, Xiaodong Liu, Zilong Li, Mumbi Chege, Yoshan Moodley, Anna Brüniche-Olsen, Josiah Kuja, Mikkel Schubert, Morris Agaba, Cindy G. Santander, Mikkel-Holger S. Sinding, Vincent Muwanika, Charles Masembe, Hans R. Siegismund, Ida Moltke  &#128232; , Anders Albrechtsen <sup>&#128232;</sup>, Rasmus Heller <sup>&#128232;</sup>,
+  authors: Laura D. Bertola* , Liam Quinn* , Kristian Hanghøj* , Genís Garcia-Erill, Malthe Sebro Rasmussen, Renzo F. Balboa, Jonas Meisner, Thomas Bøggild, Xi Wang, Long Lin, Casia Nursyifa, Xiaodong Liu, Zilong Li, Mumbi Chege, Yoshan Moodley, Anna Brüniche-Olsen, Josiah Kuja, Mikkel Schubert, Morris Agaba, Cindy G. Santander, Mikkel-Holger S. Sinding, Vincent Muwanika, Charles Masembe, Hans R. Siegismund, Ida Moltke  <sup>&#128232;</sup> , Anders Albrechtsen <sup>&#128232;</sup>, Rasmus Heller <sup>&#128232;</sup>,
   link: 
     url: https://doi.org/10.1016/j.cub.2024.02.051.
     display: Current Biology,2024

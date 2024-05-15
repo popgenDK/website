@@ -59,7 +59,7 @@ permalink: /summer/
 **Organized by:** The Department of Biology, University of Copenhagen <br/>
 **Price:** Free for all PhD students at Danish universities. 200 Euro for all other students. <br/>
 **Includes:** All teaching. Food and accommodation are NOT included in the course fee. <br/>
-**Sign up:** [Signup by filling in this form](https://forms.gle/QgwWKwoh5edoRQso6)  <br/>
+**Sign up:** CLOSED [Signup by filling in this form](https://forms.gle/QgwWKwoh5edoRQso6)  <br/>
 **Contact:** For questions write to cphsummercourse@gmail.com  <br/>
 **Credit and diploma:** The course is 4 ETCS credits and you will recieve a diploma  <br/>
 

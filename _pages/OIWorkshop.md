@@ -54,7 +54,7 @@ permalink: /workshop/
 
 ## General info
 
-**Date:** August 19-23, 2024 <br/>
+**Date:** August 7-9, 2024 <br/>
 **Place:** Copenhagen Denmark  <br/>
 **Organized by:** The Department of Biology, University of Copenhagen <br/>
 **Price:** Free for all PhD students at Danish universities. 200 Euro for all other students. <br/>

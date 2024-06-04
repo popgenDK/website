@@ -1,0 +1,56 @@
+- title: "Associate Progessor at t Center for macroecolgy, UCPH"
+  image: RF.jpg
+  description: Interested in gene evolution across various time scales, ranging from recent domestication events to differences between vertebrates and invertebrates.  
+  name: Rute da Fonseca
+  highlight: 0
+  website: https://rutefonseca.wixsite.com/bioinformatics
+  key: yughuygguygy
+
+- title: "Assistant Professor, Biology, UCPH"
+  image: cindy.jpeg
+  highlight: 1
+  description: My current research focuses on detecting strong but very brief selection, such as epidemics, using temporal and ancient genetic data. More broadly I am interested in health and disease within the context of human evolution and host-pathogen interactions.
+  website: https://scholar.google.co.uk/citations?user=BpA3Xa8AAAAJ&hl=en
+  name: Cindy G. Santander
+  
+- title: "Associate Professor, Genetics, Evolution & Environment, University College London"
+  image: GarrettPortrait.jpg
+  highlight: 1
+  description: Works on constructing and applying statistical methods to infer human history using genetic data.
+  website: https://sahwa.github.io/hellenthal-group/
+  name: Garrett Hellenthal
+
+- title: "Associate Professor, Hologenomics, Globe Institute,Genetics, UCPH"
+  image: SG.jpeg
+  highlight: 1
+  description: Population and statistical genetics
+  website: https://globe.ku.dk/staff-list/?pure=en%2Fpersons%2Fshyam-gopalakrishnan(f7b02a06-8ef7-4e56-b209-7fccee0a41b9).html
+  name: Shyam Gopalakrishnan
+
+- title: "Associate Professor, GeoGenetics, Globe Institute,Genetics, UCPH"
+  image: Sikora.jpg
+  highlight: 1
+  description: Human and pathogen evolution. The Sikora group works at the intersection of ancient genomics, population genetics and paleoepidemiology and investigates the evolutionary history of humans and our associated pathogens.
+  website: https://globe.ku.dk/research/geogenetics/sikora-group/
+  name: Martin Sikora
+
+- title: "Associate Professor, Biology, UCPH"
+  image: IM.jpg
+  highlight: 1
+  description: he research in my research group is focused on developing and applying statistical and computational methods to genomic data to solve problems in both population and medical genetics. Within population genetics we are mainly interested in trying to gain insights into how the human species has evolved and how the world was peopled. Within medical genetics we are mainly interested in identifying genetic variants that play role in a number of different diseases and traits, such as type 2 diabetes.  
+  website: https://idamoltke.wordpress.com/
+  name: Ida Moltke
+
+- title: "Associate Professor, GeoGenetics, Globe Institute,Genetics, UCPH"
+  image: FR.jpg
+  highlight: 1
+  description: We are interested in using population and quantitative genetics to understand past evolutionary processes, with a particular focus on human evolution and ancient DNA. Our projects include developing tests to detect patterns of ancient selection, creating methods to integrate functional and population genomic data, and  inferring demographic parameters using present-day and archaic human genomes.
+  website: https://sites.google.com/site/fernandoracimo/
+  name: Fernando Racimo
+
+- title: Professor, Biology, UCPH 
+  image: AA3.jpg
+  description: Our group develops statistical and computational methods for analysis of genomic data 
+  highlight: 1
+  website: https://website.popgen.dk/
+  name: Anders Albrechtsen

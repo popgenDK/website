@@ -125,23 +125,23 @@ You are required to bring a laptop to the course.
      - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic richness. Exploring effects of sample size
 
 ### Day6 (19th August, 2024)
-    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
-    - Afternoon session: PCA, Fst  -  Anders
+     - Theory: Population structure, relatedness, inbreeding
+     - Practicals: PCA, admixture, relatedness and inbreeding 
 
 ### Day7 (20th August, 2024)
-    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
-    - Afternoon session: PCA, Fst  -  Anders
+    - Theory: Demographic history, why is it important? How to estimate it?
+    - Practicals: PSMC, GONE
 
 ### Day8 (21st August, 2024)
-    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
-    - Afternoon session: PCA, Fst  -  Anders
+    - Theory: selection/load. How to measure it?
+    - Practicals: Identifying deleterious alleles and signatures of selection
 
 ### Day9 (22nd August, 2024)
-    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
-    - Afternoon session: PCA, Fst  -  Anders
+    - Theory: 
+    - Practicals: Metagenomics1
 
 ### Day10 (23rd August, 2024)
-    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
-    - Afternoon session: PCA, Fst  -  Anders
+    - Theory: 
+    - Practicals: Metagenomics2
 
     

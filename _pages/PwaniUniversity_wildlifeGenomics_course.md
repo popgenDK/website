@@ -60,7 +60,7 @@ Topics: fundamental population genetics, Next-generation sequencing, genomic dat
 ## Instructors
 
 {% assign number_printed = 0 %}
-{% for yml in site.data.workshop %}
+{% for yml in site.data.course %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if yml.highlight == 1 %}

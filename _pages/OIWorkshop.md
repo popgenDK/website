@@ -42,7 +42,7 @@ permalink: /workshop/
 **Organized by:** Pwani University, University of Copenhagen, the African BioGenome Project. <br/>
 **Price:** Free <br/>
 **Includes:** All teaching, breakfast and lunch on workshop days. Accommodation is NOT included. <br/>
-**Sign up:** Via African BioGenome Project (AfricaBP) Open Institute East and Central African Regional Workshop 2024 ([link]( https://docs.google.com/forms/d/e/1FAIpQLSfzZxCkLfyPRSr7qBZbCAbW80VApLepzkD_9JZijcHUlTJ9fg/viewform)  <br/>
+**Sign up:** Via African BioGenome Project (AfricaBP) Open Institute East and Central African Regional Workshop 2024 ([link]( https://docs.google.com/forms/d/e/1FAIpQLSfzZxCkLfyPRSr7qBZbCAbW80VApLepzkD_9JZijcHUlTJ9fg/viewform))  <br/>
 **Contact:** For questions write to ...  <br/>
 
 # Content

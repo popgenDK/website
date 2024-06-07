@@ -102,18 +102,46 @@ The course will take place from Monday August 12th to Friday August 23rd 2024 at
 You are required to bring a laptop to the course. 
 
 
-
 # Program (preliminary)
 
-### Wednesday
-    - Morning session: Introduction to NGS data, SNP calling and genotype calling  -  Anders
-    - Afternoon session: Genetic diversity, heterozygosity  -  Rasmus
+### Day1 (12th August, 2024)
+    - Theory: what is population genetics, conservation genetics, evolution and genomics? What information is provided by DNA? NGS vs Sanger sequencing
+    - Practicals: Basic linux1. How to get help?
 
-### Thursday
-    - Morning session: ROHs, inbreeding  -  Anubhab
-    - Afternoon session: annotation and genetic load, synonymous/nonsynonymous mutations  -  Anubhab
+### Day2 (13th August, 2024)
+    - Theory: how to design your wildlife genomics project?
+    - Practicals: Basic linux2. Accessing freely available data for research
     
-### Friday
+### Day3 (14th August, 2024)
+    - Theory: Sequencing platforms and how they work? What data type do you need?
+    - Practicals: Visualizing sequencing outputs. First steps after obtaining data: trimming and mapping raw data
+
+### Day4 (15th August, 2024)
+    - Theory: 
+    - Practicals: mapping, SNP calling, SNP filtering step1
+
+### Day5 (16th August, 2024)
+     - Theory: Hardy Weinberg equilibrium, genetic diversity, various measures of diversity and relevance for wildlife
+     - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic richness. Exploring effects of sample size
+
+### Day6 (19th August, 2024)
     - Morning session: Population structure, gene flow and admixture.  -  Rasmus
     - Afternoon session: PCA, Fst  -  Anders
+
+### Day7 (20th August, 2024)
+    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
+    - Afternoon session: PCA, Fst  -  Anders
+
+### Day8 (21st August, 2024)
+    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
+    - Afternoon session: PCA, Fst  -  Anders
+
+### Day9 (22nd August, 2024)
+    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
+    - Afternoon session: PCA, Fst  -  Anders
+
+### Day10 (23rd August, 2024)
+    - Morning session: Population structure, gene flow and admixture.  -  Rasmus
+    - Afternoon session: PCA, Fst  -  Anders
+
     

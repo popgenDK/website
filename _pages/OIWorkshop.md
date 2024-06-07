@@ -55,16 +55,15 @@ permalink: /workshop/
 ## General info
 
 **Date:** August 7-9, 2024 <br/>
-**Place:** ... Kilifi, Kenya  <br/>
-**Organized by:** The Department of Biology, University of Copenhagen <br/>
-**Price:** ... <br/>
-**Includes:** Two meals per day, breakfast and lunch <br/>
-**Sign up:** ...  <br/>
+**Place:** Pwani University, Kilifi, Kenya  <br/>
+**Organized by:** Pwani University, University of Copenhagen, the African BioGenome Project. <br/>
+**Price:** Free <br/>
+**Includes:** All teaching, breakfast and lunch on workshop days. Accommodation is NOT included. <br/>
+**Sign up:** Via African BioGenome Project (AfricaBP) Open Institute East and Central African Regional Workshop 2024 (link: https://docs.google.com/forms/d/e/1FAIpQLSfzZxCkLfyPRSr7qBZbCAbW80VApLepzkD_9JZijcHUlTJ9fg/viewform)  <br/>
 **Contact:** For questions write to ...  <br/>
 
 # Content
-...
-Each session (morning and afternoon) contains a lecture (about 45 minutes) and one or two practicals (45 or 2x45 minutes each). Every afternoon after the session there will be a research talk with focus on the topics of the day. 
+The course is a comprehensive introduction to a number of topics and common research tools used in population genetic analyses of next-generation sequencing (NGS) data with a focus on applying them in conservation. Topics include: genetic data overview, estimating genetic diversity, inbreeding and population structure. There will be an emphasis on how to apply these concepts and analyses in wildlife conservation. We will introduce the theoretical concepts, but the main focus is practical use of the methods. Lectures will be combined with hands-on computer exercises and research talks providing examples of case studies. 
 
 ## Intended Learning Outcome
 - Understand what NGS short-read data looks like when it comes from the sequencer, and have an overview of what needs to be done to it before population genetic analyses can be done. 
@@ -114,11 +113,12 @@ Each session (morning and afternoon) contains a lecture (about 45 minutes) and o
 
 ## Time and place
 
-...
-You should bring a laptop to the course. We will log into a remote server from the laptop so any laptop will do regardless of operating system.
+The workshop is part of the ABP Open Institute East and Central African Regional Workshop 2024. It will take place from Wednesday August 7th to Friday August 9th 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
+You are required to bring a laptop to the course. We will log into a remote server from the laptop, so any laptop will do regardless of operating system. 
 
 
-# Program
+
+# Program (preliminary)
 
 ### Wednesday
     - Morning session: Introduction to NGS data, SNP calling and genotype calling  -  Anders

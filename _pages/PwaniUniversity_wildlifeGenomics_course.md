@@ -98,8 +98,8 @@ Topics: fundamental population genetics, Next-generation sequencing, genomic dat
 
 ## Time and place
 
-The course will take place from Wednesday August 7th to Friday August 9th 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
-You are required to bring a laptop to the course. We will log into a remote server from the laptop, so any laptop will do regardless of operating system. 
+The course will take place from Monday August 12th to Friday August 23rd 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
+You are required to bring a laptop to the course. 
 
 
 

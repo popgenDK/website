@@ -1,7 +1,7 @@
 ---
-title: "Wildlife Genomics Course"
+title: "Wildlife Genomics Course, 2nd Edition"
 layout: gridlay
-excerpt: "Wildlife Genomics Course"
+excerpt: "Wildlife Genomics Course, 2nd Edition"
 sitemap: false
 permalink: /wildlife_genomics_course/
 ---
@@ -98,7 +98,7 @@ Topics: fundamental population genetics, Next-generation sequencing, genomic dat
 
 ## Time and place
 
-The workshop is part of the ABP Open Institute East and Central African Regional Workshop 2024. It will take place from Wednesday August 7th to Friday August 9th 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
+The course will take place from Wednesday August 7th to Friday August 9th 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
 You are required to bring a laptop to the course. We will log into a remote server from the laptop, so any laptop will do regardless of operating system. 
 
 

@@ -16,7 +16,7 @@ permalink: /wildlife_genomics_course/
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logo.png" alt="Slide 1" />
         </div>

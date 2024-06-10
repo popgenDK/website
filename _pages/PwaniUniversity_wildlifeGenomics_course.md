@@ -102,8 +102,8 @@ You are required to bring a laptop to the course.
 ### Day5 (16th August, 2024)
      - Theory: Hardy Weinberg equilibrium, genetic diversity, various measures of diversity and relevance 
        for wildlife
-     - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic richness. 
-       Exploring effects of sample size
+     - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic 
+       richness. Exploring effects of sample size
 
 ### Day6 (19th August, 2024)
      - Theory: Population structure, relatedness, inbreeding

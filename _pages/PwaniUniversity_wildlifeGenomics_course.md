@@ -18,10 +18,10 @@ permalink: /wildlife_genomics_course/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wildebeest_admix.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/pwani-university-logo1 (2).png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wildebeest_het.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ku_logo_uk_h.png" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

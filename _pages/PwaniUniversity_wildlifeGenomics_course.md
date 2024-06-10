@@ -137,11 +137,11 @@ You are required to bring a laptop to the course.
     - Practicals: Identifying deleterious alleles and signatures of selection
 
 ### Day9 (22nd August, 2024)
-    - Theory: 
-    - Practicals: Metagenomics1
+    - Theory: Shades and hues of metagenomics
+    - Practicals: DADA2
 
 ### Day10 (23rd August, 2024)
-    - Theory: 
-    - Practicals: Metagenomics2
+    - Theory: Practical considerations for metagenomic experiments
+    - Practicals: Lab demo and DADA2
 
     

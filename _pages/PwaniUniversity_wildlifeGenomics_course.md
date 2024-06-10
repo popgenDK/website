@@ -39,7 +39,7 @@ permalink: /wildlife_genomics_course/
 **Organized by:** Pwani University, University of Copenhagen, the African BioGenome Project. <br/>
 **Price:** Free <br/>
 **Includes:** All teaching, breakfast and lunch on course days. Accommodation is NOT included. <br/>
-**Sign up:** (https://forms.gle/39BdmnYMmq5HDXyj7)  <br/>
+**Sign up:** <a href="https://forms.gle/39BdmnYMmq5HDXyj7"> apply here </a>  <br/>
 **Contact:** For questions write to sammywambua@gmail.com anubhabkhan@gmail.com <br/>
 
 # Content

@@ -83,7 +83,8 @@ You are required to bring a laptop to the course.
 # Program (preliminary)
 
 ### Day1 (12th August, 2024)
-    - Theory: Introduction to population genetics, conservation genetics, evolution and genomics. What information is provided by DNA? NGS vs Sanger sequencing
+    - Theory: Introduction to population genetics, conservation genetics, evolution and genomics. 
+      What information is provided by DNA? NGS vs Sanger sequencing
     - Practicals: Basic linux1. How to get help?
 
 ### Day2 (13th August, 2024)
@@ -99,8 +100,10 @@ You are required to bring a laptop to the course.
     - Practicals: mapping, SNP calling, SNP filtering step1
 
 ### Day5 (16th August, 2024)
-     - Theory: Hardy Weinberg equilibrium, genetic diversity, various measures of diversity and relevance for wildlife
-     - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic richness. Exploring effects of sample size
+     - Theory: Hardy Weinberg equilibrium, genetic diversity, various measures of diversity and relevance 
+       for wildlife
+     - Practicals: SNP filtering step2, Measuring genetic diversity: heterozygosity, PI and allelic richness. 
+       Exploring effects of sample size
 
 ### Day6 (19th August, 2024)
      - Theory: Population structure, relatedness, inbreeding

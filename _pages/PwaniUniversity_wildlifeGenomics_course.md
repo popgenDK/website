@@ -10,7 +10,7 @@ permalink: /wildlife_genomics_course/
 # Course: Introduction to wildlife genomics
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logo.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logo.png" style="width: 720px">
 </figure>
 
 ## General info

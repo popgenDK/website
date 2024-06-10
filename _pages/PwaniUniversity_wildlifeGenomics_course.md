@@ -21,7 +21,7 @@ permalink: /wildlife_genomics_course/
 **Price:** Free <br/>
 **Includes:** All teaching, breakfast and lunch on course days. Accommodation is NOT included. <br/>
 **Sign up:** <a href="https://forms.gle/39BdmnYMmq5HDXyj7"> apply here </a>  <br/>
-**Contact:** For questions write to <a href=mailto:"s.wambua@pu.ac.ke"> s.wambua@pu.ac.ke </a> and <a href=mailto:"anubhabkhan@gmail.com">anubhabkhan@gmail.com</a> <br/>
+**Contact:** For questions write to s.wambua@pu.ac.ke or anubhabkhan@gmail.com <br/>
 
 # Content
 The course is a comprehensive introduction to population genetics and the use of genomics tools especially in the context of wildlife research and conservation. All sessions will have hands-on data analysis.
@@ -83,7 +83,7 @@ You are required to bring a laptop to the course.
 # Program (preliminary)
 
 ### Day1 (12th August, 2024)
-    - Theory: what is population genetics, conservation genetics, evolution and genomics?What information is provided by DNA? NGS vs Sanger sequencing
+    - Theory: Introduction to population genetics, conservation genetics, evolution and genomics. What information is provided by DNA? NGS vs Sanger sequencing
     - Practicals: Basic linux1. How to get help?
 
 ### Day2 (13th August, 2024)

@@ -21,7 +21,7 @@ permalink: /wildlife_genomics_course/
 **Price:** Free <br/>
 **Includes:** All teaching, breakfast and lunch on course days. Accommodation is NOT included. <br/>
 **Sign up:** <a href="https://forms.gle/39BdmnYMmq5HDXyj7"> apply here </a>  <br/>
-**Contact:** For questions write to  s.wambua@pu.ac.ke anubhabkhan@gmail.com <br/>
+**Contact:** For questions write to <a href=mailto:"s.wambua@pu.ac.ke"> s.wambua@pu.ac.ke </a> and <a href=mailto:"anubhabkhan@gmail.com">anubhabkhan@gmail.com</a> <br/>
 
 # Content
 The course is a comprehensive introduction to population genetics and the use of genomics tools especially in the context of wildlife research and conservation. All sessions will have hands-on data analysis.

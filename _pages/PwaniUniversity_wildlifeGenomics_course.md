@@ -3,7 +3,7 @@ title: "Wildlife Genomics Course, 2nd Edition"
 layout: gridlay
 excerpt: "Wildlife Genomics Course, 2nd Edition"
 sitemap: false
-permalink: /wildlife_genomics_course/
+permalink: wildlife_genomics_course/
 ---
 
 

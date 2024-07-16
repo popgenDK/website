@@ -22,14 +22,15 @@ permalink: /summer/
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        #same-size {  width: auto;  height: 600; } 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png"  height="600" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png"  id="same-size" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif"  height="600" width="100" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif"  height="600" width="1600" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png"  height="600" with="auto" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png"  height="600" width="auto" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/tp.png"  height="600" alt="Slide 4" />

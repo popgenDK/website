@@ -26,10 +26,10 @@ permalink: /summer/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png"  height="600" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif"  height="600" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif"  height="600" width="100" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png"  height="600" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png"  height="600" with="auto" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/tp.png"  height="600" alt="Slide 4" />

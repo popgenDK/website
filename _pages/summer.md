@@ -144,7 +144,8 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 2: Introduction to basic NGS data, Data processing, and formats (Anders Albrechtsen)
     02:30 - 04:00 Computer exercises II
-    04:15 - 05:00 Research lecture by TBD. Title: 
+    04:15 - 05:00 Research lecture by Patrícia Pečnerová. 
+            Using genomics to study the fine line between extinction and survival in mammoths and elephants
     05:00 - 07:00 Reception/social mixer
 
 ### Tuesday - Analysis of NGS data and population structure
@@ -154,7 +155,9 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 4: Population structure and admixture(Ida Moltke)
     02:30 - 04:00 Computer exercises IV
-    04:15 - 05:00 Research lecture by TBD, Title: 
+    04:15 - 05:00 Research lecture by Rasmus Heller
+                  Genomes from the "Asian unicorn" reveal a long-standing decline 
+                  and two highly differentiated populations of saola
     Canal boat trip
 
 ### Wednesday - Population structure
@@ -164,7 +167,9 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 6: D/f statistics and ancient geneflow(Martin Sikora)
     02:30 - 04:00 Computer exercises VI
-    04:15 - 05:00 Research lecture by TBD Title: 
+    04:15 - 05:00 Research lecture by Martin Sikora
+            Using population-scale ancient genomics to study ancestry, 
+           social organisation and disease in Late Neolithic Scandinavia
 
 ### Thursday – admixture graphs and selection
 
@@ -173,7 +178,8 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 8: Detecting genomic regions under (positive) selection (Cindy Santander)
     02:30 - 04:00 Computer exercises VIII
-    04:15 - 05:00 Research lecture by TBD Title: 
+    04:15 - 05:00 Research lecture by Kristine Bohmann
+                    Vacuuming animal DNA from thin air
 
 ### Friday - Demography and simulations
 
@@ -182,7 +188,8 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 10: Demography Inference( Shyam Gopalakrishnan)
     02:30 - 04:00 Computer exercises X
-    04:15 - 05:00 Research lecture by TBD
+    04:15 - 05:00 Research lecture by Garrett Hellenthal
+                    Inferring overlapping admixture events among human populations 
     05:00 - ? Farewell drinks
 
 ## Evaluation

@@ -143,10 +143,10 @@ The lecture will be based on a large amount of reading material (articles/notes)
     10:30 - 12:00 Computer exercises I
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 2: Introduction to basic NGS data, Data processing, and formats (Anders Albrechtsen)
-    02:30 - 04:00 Computer exercises II
-    04:30 - 05:15 Research lecture by Patrícia Pečnerová. 
+    02:30 - 03:15 Computer exercises II
+    03:30 - 04:15 Research lecture by Patrícia Pečnerová. 
             Using genomics to study the fine line between extinction and survival in mammoths and elephants
-    05:15 - 07:00 Reception/social mixer
+    04:15 - 07:00 Reception/social mixer
 
 ### Tuesday - Analysis of NGS data and population structure
 

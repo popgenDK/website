@@ -69,6 +69,7 @@ permalink: /summer/
 **Sign up:** CLOSED for general registration [Dispensation can be given to UCPH phd students](https://forms.gle/QgwWKwoh5edoRQso6)  <br/>
 **Contact:** For questions write to cphsummercourse@gmail.com  <br/>
 **Credit and diploma:** The course is 4 ETCS credits and you will recieve a diploma  <br/>
+**[github with code](https://github.com/popgenDK/courses/tree/main/summer2024)**
 
 # Content
 

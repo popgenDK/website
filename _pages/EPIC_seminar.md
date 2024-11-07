@@ -15,10 +15,10 @@ permalink: /EPIC_seminar/
 
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for talk in site.data.EPIC_seminar %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if talk.highlight == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -27,18 +27,18 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
-  <pubtit>{{ publi.title }}</pubtit>
-  <a href="{{ publi.link.url }}" target="blank" >
-     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"  title="{{ publi.abstract }}" class="img-responsive" width="33%" style="float: left" />
+  <pubtit>{{ talk.title }}</pubtit>
+  <a href="{{ talk.link.url }}" target="blank" >
+     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"  title="{{ talk.abstract }}" class="img-responsive" width="33%" style="float: left" />
    </a>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ talk.link.url }}">{{ publi.link.display }}</a></strong></p>
   {% if publi.github %}
-  <p><strong><a href="{{ publi.github }}">Code used in paper</a></strong></p>
+  <p><strong><a href="{{ talk.github }}">Code used in paper</a></strong></p>
   {% endif %}
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
+  <p class="text-danger"><strong> {{ talk.news1 }}</strong></p>
+  <p> {{ talk.news2 }}</p>
  </div>
 </div>
 

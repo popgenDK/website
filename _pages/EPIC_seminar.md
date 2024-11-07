@@ -21,20 +21,12 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
-  <pubtit>{{ date.title }}</pubtit>
-  <a href="{{ date.link.url }}" target="blank" >
-     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ date.image }}"  title="{{ date.description }}" class="img-responsive" width="33%" style="float: left" />
-   </a>
-  <p>{{ date.description }}</p>
+  <pubtit>{{ date }}</pubtit>
   <p><em>{{ date.speaker1 }}</em></p>
+  <p><em>{{ date.title1 }}</em></p>
   <p><em>{{ date.speaker2 }}</em></p>
-  <p><strong><a href="{{ date.link.url }}">{{ date.link.display }}</a></strong></p>
-  {% if date.github %}
-  <p><strong><a href="{{ date.github }}">Code used in paper</a></strong></p>
-  {% endif %}
-  <p class="text-danger"><strong> {{ date.news1 }}</strong></p>
-  <p> {{ date.news2 }}</p>
- </div>
+  <p><em>{{ date.title2 }}</em></p>
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

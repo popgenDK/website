@@ -49,6 +49,7 @@ permalink: /EPIC_seminar/
 # Full List of talks
 
 {% for date in site.data.EPIC_seminar %}
+{% if date.highlight == 0 %}
 
   <b>{{ date.day }} </b> <br />
   <b>{{ date.title1 }} </b> <br />

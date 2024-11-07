@@ -1,4 +1,5 @@
 - date: 2024-11-26
+  day: 26th November 2024
   speaker1: Josephin Stiller
   title1: "Evolutionary explosions: Phylogenomic insights into the diversification of birds"
   speaker2: Mikkel-Holger S. Sinding
@@ -6,6 +7,7 @@
   highlight: 1
 
 - date: 2024-10-22
+  day: 22nd October 2024
   speaker1: Frederik Filip Vinggaard Stæger 
   title1: "Genetic fine structure in Greenland and consequences for disease"
   speaker2: Sarah du Plessis
@@ -13,6 +15,7 @@
   highlight: 0
 
 - date: 2024-09-24
+  day: 24th September 2024
   speaker1: Aleksandra Laura Pach
   title1: "Translating ecological models into genomic simulations - a spatially-explicit reconstruction of muskox genomic data responding to climate change and human hunting"
   speaker2: Sabhrina Gita Aninta

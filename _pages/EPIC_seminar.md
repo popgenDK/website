@@ -60,14 +60,14 @@ permalink: /EPIC_seminar/
 
 
 ## Full List of publications
-[See google scholar for up to date publication list](https://scholar.google.com/citations?hl=en&user=20oVxFsAAAAJ&view_op=list_works&sortby=pubdate)
+
 
 {% assign pub_number_printed = 1 %}
 
-{% for publi in site.data.publist %}
+{% for talk in site.data.EPIC_seminar %}
   
-  {{pub_number_printed}} <b>{{ publi.title }} </b> <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{pub_number_printed}} <b>{{ talk.title }} </b> <br />
+  <em>{{ talk.author }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% assign pub_number_printed = pub_number_printed | plus: 1 %}
 

@@ -7,7 +7,7 @@
 
 - date: 2024-09-24
   speaker1: Aleksandra Laura Pach
-  title1: “Translating ecological models into genomic simulations: a spatially-explicit reconstruction of muskox genomic data responding to climate change and human hunting”
+  title1: “Translating ecological models into genomic simulations - a spatially-explicit reconstruction of muskox genomic data responding to climate change and human hunting”
   speaker2: Sabhrina Gita Aninta
   title2: “The importance of small island populations in conserving endemic Wallacean ungulates”
   highlight: 1
@@ -21,7 +21,7 @@
 
 - date: 2024-05-14
   speaker1: José Cerca
-  title1: "The evolution of genetic diversity in insular adaptive radiations: Transposable element accumulation in the Hawaiian Tetragnatha radiation and the Galápagos Scalesia radiation"
+  title1: "The evolution of genetic diversity in insular adaptive radiations - Transposable element accumulation in the Hawaiian Tetragnatha radiation and the Galápagos Scalesia radiation"
   speaker2: Juan Rodríguez
   title2: "Three dimensions of 3D genomics"
   highlight: 0
@@ -30,7 +30,7 @@
   speaker1: Ulises Bercovich
   title1: "Measuring linkage disequilibrium in structured populations with applications"
   speaker2: Binia De Cahsan
-  title2: "From the vault to the present: Exploring past and present genomes of koalas and black rhinos"
+  title2: "From the vault to the present - Exploring past and present genomes of koalas and black rhinos"
   highlight: 0
 
 - date: 2024-03-19
@@ -75,7 +75,7 @@
 
 - date: 2023-06-07
   speaker1: Morgan McCarthy
-  title1: “A very hairy situation: Untangling bearded seal population genomics”
+  title1: “A very hairy situation - Untangling bearded seal population genomics”
   speaker2: Renzo Fidel Ferdinando Balboa
   title2: “Evolutionary history of African bushpigs and red river hogs”
   highlight: 0
@@ -84,7 +84,7 @@
   speaker1: Isin Altinkaya
   title1: “A probabilistic approach for Analysis of Molecular Variance (AMOVA), Dxy and Neighbor-Joining Trees”
   speaker2: Ana Cuesta
-  title2: “Evolutionary travelers: acetic acid bacteria, from insect gut micro biomes to human food ferments”
+  title2: “Evolutionary travelers - acetic acid bacteria, from insect gut micro biomes to human food ferments”
   highlight: 0
 
 - date: 2023-04-12
@@ -166,7 +166,7 @@
 
 - date: 2022-02-17
   speaker1: Lei Zhao
-  title1: "distAngsd: Fast and accurate inference of genetic distances for Next Generation Sequencing data"
+  title1: "distAngsd - Fast and accurate inference of genetic distances for Next Generation Sequencing data"
   speaker2: Frederik Filip Stæger
   title2: “Genetics history and fine-structure of the Greenlandic Inuit"
   highlight: 0

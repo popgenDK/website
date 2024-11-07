@@ -1,16 +1,23 @@
+- date: 2024-11-26
+  speaker1: Josephin Stiller
+  title1: "Evolutionary explosions: Phylogenomic insights into the diversification of birds"
+  speaker2: Mikkel-Holger S. Sinding
+  title2: "The genomic natural history of the aurochs"
+  highlight: 1
+
 - date: 2024-10-22
   speaker1: Frederik Filip Vinggaard Stæger 
   title1: "Genetic fine structure in Greenland and consequences for disease"
   speaker2: Sarah du Plessis
   title2: "Genetics to Genomics - Conservation of the Eurasian Otter (Lutra lutra)"
-  highlight: 1
+  highlight: 0
 
 - date: 2024-09-24
   speaker1: Aleksandra Laura Pach
   title1: "Translating ecological models into genomic simulations - a spatially-explicit reconstruction of muskox genomic data responding to climate change and human hunting"
   speaker2: Sabhrina Gita Aninta
   title2: "The importance of small island populations in conserving endemic Wallacean ungulates"
-  highlight: 1
+  highlight: 0
 
 - date: 2024-06-14
   speaker1: Anubhab Khan

@@ -21,11 +21,11 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
-  <em><b>{{ date.day }}</b></em>
-  <em><b>{{ date.title1 }}</b></em>
-  <em>{{ date.speaker1 }}</em>
-  <em><b>{{ date.title2 }}</b></em>
-  <em>{{ date.speaker2 }}</em>
+  <em><b>{{ date.day }}</b></em><br />
+  <b>{{ date.title1 }}</b><br />
+  <em>{{ date.speaker1 }}</em><br />
+  <b>{{ date.title2 }}</b><br />
+  <em>{{ date.speaker2 }}</em><br />
   </div>
 </div>
 

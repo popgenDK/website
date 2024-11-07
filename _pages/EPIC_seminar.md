@@ -6,13 +6,7 @@ sitemap: false
 permalink: /EPIC_seminar/
 ---
 
-
-# Publications
-
-[Jump to full list](#full-list-of-publications)
-
-## Group highlights
-
+## Next up
 
 {% assign number_printed = 0 %}
 {% for talk in site.data.EPIC_seminar %}
@@ -29,12 +23,12 @@ permalink: /EPIC_seminar/
   <meta charset="utf-8"> 
   <pubtit>{{ talk.title }}</pubtit>
   <a href="{{ talk.link.url }}" target="blank" >
-     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"  title="{{ talk.abstract }}" class="img-responsive" width="33%" style="float: left" />
+     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ talk.image }}"  title="{{ talk.abstract }}" class="img-responsive" width="33%" style="float: left" />
    </a>
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ talk.link.url }}">{{ publi.link.display }}</a></strong></p>
-  {% if publi.github %}
+  <p>{{ talk.description }}</p>
+  <p><em>{{ talk.authors }}</em></p>
+  <p><strong><a href="{{ talk.link.url }}">{{ talk.link.display }}</a></strong></p>
+  {% if talk.github %}
   <p><strong><a href="{{ talk.github }}">Code used in paper</a></strong></p>
   {% endif %}
   <p class="text-danger"><strong> {{ talk.news1 }}</strong></p>
@@ -59,7 +53,7 @@ permalink: /EPIC_seminar/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+# Full List of talks
 
 
 {% assign pub_number_printed = 1 %}
@@ -67,7 +61,7 @@ permalink: /EPIC_seminar/
 {% for talk in site.data.EPIC_seminar %}
   
   {{pub_number_printed}} <b>{{ talk.title }} </b> <br />
-  <em>{{ talk.author }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ talk.author }} </em><br /><a href="{{ talk.link.url }}">{{ talk.link.display }}</a>
 
 {% assign pub_number_printed = pub_number_printed | plus: 1 %}
 

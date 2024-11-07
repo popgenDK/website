@@ -21,7 +21,7 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
-  <em><b>{{ date.day }}</b></em><br />
+  <b><i{{ date.day }}</i></b><br />
   <b>{{ date.title1 }}</b><br />
   <em>{{ date.speaker1 }}</em><br />
   <b>{{ date.title2 }}</b><br />
@@ -45,8 +45,7 @@ permalink: /EPIC_seminar/
 
 <p> &nbsp; </p>
 
-
-# Full List of talks
+# Full list of past talks
 
 {% for date in site.data.EPIC_seminar %}
 {% if date.highlight == 0 %}

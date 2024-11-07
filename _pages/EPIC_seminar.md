@@ -21,6 +21,7 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
+  <p><em><b>{{ date }}</b></em></p>
   <p><em><b>{{ date.title1 }}</b></em></p>
   <p><em>{{ date.speaker1 }}</em></p>
   <p><em><b>{{ date.title2 }}</b></em></p>

@@ -6,7 +6,7 @@ sitemap: false
 permalink: /EPIC_seminar/
 ---
 
-## Next up
+# Next up
 
 {% assign number_printed = 0 %}
 {% for date in site.data.EPIC_seminar %}
@@ -21,10 +21,11 @@ permalink: /EPIC_seminar/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <meta charset="utf-8"> 
+  <p><em>{{ date }}</em></p>
+  <p><em><b>{ date.title1 }}</b></em></p>
   <p><em>{{ date.speaker1 }}</em></p>
-  <p><em>{{ date.title1 }}</em></p>
+  <p><em><b>{{ date.title2 }}</b></em></p>
   <p><em>{{ date.speaker2 }}</em></p>
-  <p><em>{{ date.title2 }}</em></p>
   </div>
 </div>
 
@@ -47,16 +48,12 @@ permalink: /EPIC_seminar/
 
 # Full List of talks
 
-
-{% assign pub_number_printed = 1 %}
-
 {% for date in site.data.EPIC_seminar %}
   
-  {{pub_number_printed}} <b>{{ date.title1 }} </b> <br />
-  <em>{{ date.speaker1 }} </em><br /><a href="{{ date.link.url }}">{{ date.link.display }}</a>
-  {{pub_number_printed}} <b>{{ date.title2 }} </b> <br />
-  <em>{{ date.speaker2 }} </em><br /><a href="{{ date.link.url }}">{{ date.link.display }}</a>
-
-{% assign pub_number_printed = pub_number_printed | plus: 1 %}
-
+  <b>{{ date }} </b> <br /> 
+  <b>{{ date.title1 }} </b> <br />
+  <em>{{ date.speaker1 }} 
+  <b>{{ date.title2 }} </b> <br />
+  <em>{{ date.speaker2 }} </em><br />
+  
 {% endfor %}

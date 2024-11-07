@@ -56,5 +56,6 @@ permalink: /EPIC_seminar/
   <em>{{ date.speaker1 }} </em> <br />
   <b>{{ date.title2 }} </b> <br />
   <em>{{ date.speaker2 }} </em><br />
-  
+
+{% endif %}
 {% endfor %}

@@ -1,10 +1,18 @@
+- date: 2024-12-10
+  day: 10th December 2024
+  speaker1: Yuejiao Huang
+  title1: "Tracing the Evolutionary History of Epstein-Barr Virus Through Ancient and Modern Genomes"
+  speaker2: Kenyon Mobley
+  title2: "Home ground advantage: Local adaptation in wild Atlantic salmon"
+  highlight: 1
+
 - date: 2024-11-26
   day: 26th November 2024
   speaker1: Josephin Stiller
   title1: "Evolutionary explosions: Phylogenomic insights into the diversification of birds"
   speaker2: Mikkel-Holger S. Sinding
   title2: "The genomic natural history of the aurochs"
-  highlight: 1
+  highlight: 0
 
 - date: 2024-10-22
   day: 22nd October 2024
